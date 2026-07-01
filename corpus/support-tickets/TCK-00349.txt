@@ -1,0 +1,15 @@
+Ticket ID: TCK-00349
+Customer ID: CUST-0013
+Contact: Lisa Campbell
+Priority: High
+Status: Waiting on Customer
+Created: 2023-10-14
+
+Subject: Timeouts when loading larger accounts
+
+Hello,
+
+A few of us have noticed things feel sluggish since the start of this week. We've tried different browsers and different machines, so it doesn't seem to be on our end. Support tickets and dashboard views both feel affected, not just one part of the product. Any status update would help us know whether to expect improvement soon.
+
+Regards,
+Lisa

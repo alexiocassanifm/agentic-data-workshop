@@ -1,0 +1,10 @@
+From: Hannah Reyes <hannah.reyes@larkspurflow.com>
+To: Anthony Dubois <anthony.dubois@clear-properties.com.br>
+Subject: Next steps for getting fully set up
+Date: 2024-09-01
+
+Quick note on setup: if you haven't connected your integrations yet (Salesforce and Slack are the most common), now's a good time. It tends to make the first few weeks much smoother once notifications and data sync are flowing automatically.
+
+Best,
+Hannah
+Customer Success, Larkspur Flow

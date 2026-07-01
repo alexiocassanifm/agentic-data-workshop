@@ -1,0 +1,7 @@
+Account: CUST-0088 - Juniper Associates
+Contact: Lisa Moore (Head of Customer Success)
+Account Executive: Priya Chandran
+Date: 2025-05-14
+Type: Ad-hoc Call
+
+Lisa brought up on the call that our integration has started throwing 429 errors a few times a day. They said would it be possible to get documentation on the exact limits per endpoint? right now we're guessing. Wanted to make sure this doesn't become a renewal talking point later, so flagging it now.

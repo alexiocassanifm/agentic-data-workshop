@@ -1,0 +1,15 @@
+Ticket ID: TCK-00491
+Customer ID: CUST-0116
+Contact: Ronald Adams
+Priority: High
+Status: Waiting on Customer
+Created: 2025-10-16
+
+Subject: Getting 429 errors from the API
+
+To the Larkspur Flow team,
+
+Our engineering team asked me to reach out about API throttling, it's affecting a customer-facing feature on our end. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. Would it be possible to get documentation on the exact limits per endpoint? Right now we're guessing. Thanks for looking into this.
+
+Best,
+Ronald

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00044
+Customer ID: CUST-0015
+Contact: Wei Wilson
+Priority: High
+Status: Resolved
+Created: 2025-10-31
+
+Subject: Export includes duplicate entries
+
+Hi support team,
+
+Our weekly scheduled export didn't show up in the inbox this week. We've tried this in two different browsers with the same result. Thanks for taking a look.
+
+Appreciate the help,
+Wei

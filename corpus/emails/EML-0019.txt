@@ -1,0 +1,10 @@
+From: Grace Petrov <grace.petrov@larkspurflow.com>
+To: William Rodriguez <william.rodriguez@pinecrest-shipping.com.au>
+Subject: A quick check-in from the Larkspur Flow team
+Date: 2023-03-18
+
+It's been about a month since onboarding started for Pinecrest Shipping, so this is just a friendly check-in. If your team has feedback on what's working or what's missing, I'd love to hear it and pass it along internally where relevant.
+
+Best,
+Grace
+Customer Success, Larkspur Flow

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00107
+Customer ID: CUST-0136
+Contact: Betty Patel
+Priority: High
+Status: Waiting on Customer
+Created: 2024-09-09
+
+Subject: Scheduled export stopped arriving
+
+To the Larkspur Flow team,
+
+Something's wrong with the encoding on our exports, names with accents show up as garbage characters. It looks like records that were updated recently show up twice, once with old values and once with new. The export finished but when we open it in a spreadsheet tool, some columns are shifted, like a comma inside a field broke the formatting. This only seems to happen with the larger exports, anything under about 8 thousand rows comes through fine. Happy to send the file we downloaded if it helps you reproduce it.
+
+Appreciate the help,
+Betty

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00082
+Customer ID: CUST-0008
+Contact: Anthony Jackson
+Priority: Urgent
+Status: Open
+Created: 2023-12-19
+
+Subject: Export includes duplicate entries
+
+Hi,
+
+When I export our data to CSV, a chunk of records seem to be missing from the file. The export finished but when we open it in a spreadsheet tool, some columns are shifted, like a comma inside a field broke the formatting. We compared the row count in the export to what we see in the dashboard and it's short by a few hundred records. It looks like records that were updated recently show up twice, once with old values and once with new. Would appreciate a fix or a workaround since we use this export weekly.
+
+Best,
+Anthony

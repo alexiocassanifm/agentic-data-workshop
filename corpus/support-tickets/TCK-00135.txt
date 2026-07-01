@@ -1,0 +1,15 @@
+Ticket ID: TCK-00135
+Customer ID: CUST-0058
+Contact: Sven Allen
+Priority: Low
+Status: Waiting on Customer
+Created: 2025-09-16
+
+Subject: Can't figure out how to remove someone's admin access
+
+Hi,
+
+One of our new hires can apparently see data from a different department, which shouldn't be the case. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. Specifically we want a role that can view reports but not edit or export anything, and it's not clear if that combination exists. This person joined the sales team last month and somehow has visibility into a completely separate business unit's data. Could you walk us through how roles and permissions are meant to work?
+
+Appreciate the help,
+Sven

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00440
+Customer ID: CUST-0032
+Contact: Carol Smith
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2022-08-02
+
+Subject: Salesforce sync stopped updating
+
+Hi team,
+
+A webhook we rely on for a downstream process seems to have stopped firing. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. It's possible this started right around your last product update, though we can't say for certain. Let us know what logs would be useful for you to see.
+
+Thank you,
+Carol

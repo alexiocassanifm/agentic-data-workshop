@@ -1,0 +1,15 @@
+Ticket ID: TCK-00095
+Customer ID: CUST-0069
+Contact: Steven Wright
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2024-10-28
+
+Subject: Timeouts when loading larger accounts
+
+To the Larkspur Flow team,
+
+Loading anything with a lot of records has become painfully slow. Support tickets and dashboard views both feel affected, not just one part of the product. Any status update would help us know whether to expect improvement soon.
+
+Thanks,
+Steven

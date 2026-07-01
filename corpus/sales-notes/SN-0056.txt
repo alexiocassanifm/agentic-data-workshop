@@ -1,0 +1,7 @@
+Account: CUST-0044 - Palisade Networks
+Contact: Leila Berg (Director of IT Operations)
+Account Executive: Marcus Ellery
+Date: 2024-12-12
+Type: Quarterly Check-in
+
+Had a friendly call with Leila today. They're happy with where things stand and asked to be added to the beta list for any upcoming features.

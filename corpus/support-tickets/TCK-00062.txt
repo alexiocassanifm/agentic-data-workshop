@@ -1,0 +1,15 @@
+Ticket ID: TCK-00062
+Customer ID: CUST-0086
+Contact: Victor Miller
+Priority: High
+Status: In Progress
+Created: 2025-09-24
+
+Subject: Security questionnaire from our procurement team
+
+Hey there,
+
+We're being asked by one of our own customers to confirm a few things about how you handle data. One of our regulated customers specifically asked about sub-processors, so a current list would help. We're on a bit of a deadline with our own audit, so a quick turnaround would help.
+
+Regards,
+Victor

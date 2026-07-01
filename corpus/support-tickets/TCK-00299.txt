@@ -1,0 +1,15 @@
+Ticket ID: TCK-00299
+Customer ID: CUST-0136
+Contact: Lisa Muller
+Priority: Medium
+Status: Open
+Created: 2025-11-24
+
+Subject: Need a higher rate limit for our integration
+
+To the Larkspur Flow team,
+
+Our engineering team asked me to reach out about API throttling, it's affecting a customer-facing feature on our end. This is affecting our Slack sync specifically, other endpoints seem fine. The failures seem to cluster around the top of the hour, which lines up with when several of our scheduled jobs kick off at once. Thanks for looking into this.
+
+Best regards,
+Lisa

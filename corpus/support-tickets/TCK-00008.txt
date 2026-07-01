@@ -1,0 +1,15 @@
+Ticket ID: TCK-00008
+Customer ID: CUST-0027
+Contact: Liam Lee
+Priority: Urgent
+Status: Closed
+Created: 2025-06-07
+
+Subject: Getting 429 errors from the API
+
+Hi team,
+
+Our integration has started throwing 429 errors a few times a day. This is affecting our Salesforce sync specifically, other endpoints seem fine. Happy to share request logs if that helps you investigate.
+
+Thanks a lot,
+Liam

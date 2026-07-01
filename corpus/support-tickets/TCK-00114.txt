@@ -1,0 +1,15 @@
+Ticket ID: TCK-00114
+Customer ID: CUST-0005
+Contact: Thomas Harris
+Priority: Low
+Status: Closed
+Created: 2024-10-29
+
+Subject: API throttling is breaking our nightly sync
+
+Hey there,
+
+We recently increased the frequency of our API calls and now we're seeing a lot of failures. We're on the Professional plan, is the rate limit tied to plan tier, and if so is there a way to raise it? We're making roughly 59 requests per minute during our sync window, which used to work fine a month ago. This is starting to affect a feature our own customers rely on, so we'd like to resolve it quickly.
+
+Best,
+Thomas

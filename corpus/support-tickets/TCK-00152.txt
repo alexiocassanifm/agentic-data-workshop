@@ -1,0 +1,15 @@
+Ticket ID: TCK-00152
+Customer ID: CUST-0067
+Contact: Wei Andersson
+Priority: Urgent
+Status: Resolved
+Created: 2025-08-15
+
+Subject: Pages taking 10+ seconds to load
+
+Hi,
+
+Not sure if this is just us, but performance has taken a real hit recently. Larger views, like the one with our full customer list, time out entirely rather than just being slow. A workflow that used to run within a few minutes is now taking closer to 39 minutes to complete. We've tried different browsers and different machines, so it doesn't seem to be on our end. Any status update would help us know whether to expect improvement soon.
+
+Thank you,
+Wei

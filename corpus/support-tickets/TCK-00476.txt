@@ -1,0 +1,15 @@
+Ticket ID: TCK-00476
+Customer ID: CUST-0136
+Contact: Betty Patel
+Priority: Urgent
+Status: Closed
+Created: 2024-08-03
+
+Subject: Automation workflows are lagging behind
+
+Hey there,
+
+Loading anything with a lot of records has become painfully slow. This is starting to affect how quickly our team can respond to things during the day. Larger views, like the one with our full customer list, time out entirely rather than just being slow. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Regards,
+Betty

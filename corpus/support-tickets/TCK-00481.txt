@@ -1,0 +1,15 @@
+Ticket ID: TCK-00481
+Customer ID: CUST-0177
+Contact: James Miller
+Priority: Urgent
+Status: Resolved
+Created: 2025-11-08
+
+Subject: Can't log in on the iOS app
+
+To the Larkspur Flow team,
+
+The numbers I see on the mobile app don't match what's on the desktop dashboard. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. The upload bar fills up and then just resets back to zero with no error shown. Thanks for looking into it.
+
+Best,
+James

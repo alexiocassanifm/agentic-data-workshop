@@ -1,0 +1,15 @@
+Ticket ID: TCK-00220
+Customer ID: CUST-0101
+Contact: Brian Baker
+Priority: Low
+Status: In Progress
+Created: 2025-05-15
+
+Subject: Mobile app is missing a feature the desktop has
+
+Hi support team,
+
+The mobile app crashes immediately for me every time I try to open it. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. Any known issue with the current app version?
+
+Thanks,
+Brian

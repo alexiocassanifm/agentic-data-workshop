@@ -1,0 +1,15 @@
+Ticket ID: TCK-00380
+Customer ID: CUST-0095
+Contact: Betty Hernandez
+Priority: High
+Status: Closed
+Created: 2025-07-15
+
+Subject: SAML login broken since the update
+
+To the Larkspur Flow team,
+
+This is the third day in a row that our SSO login has been unreliable. Roughly 27 people on our team are affected, and it seems to hit new sessions more than ones that were already logged in. We'd appreciate a fix soon since it's blocking daily work for several people.
+
+Regards,
+Betty

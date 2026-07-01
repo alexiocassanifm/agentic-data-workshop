@@ -1,0 +1,15 @@
+Ticket ID: TCK-00158
+Customer ID: CUST-0075
+Contact: Jennifer Walker
+Priority: Urgent
+Status: Resolved
+Created: 2024-02-16
+
+Subject: Salesforce sync stopped updating
+
+To the Larkspur Flow team,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. This integration is pretty central to how our sales team works, so the gap has been noticed internally. Could someone check the sync status on your end?
+
+Best,
+Jennifer

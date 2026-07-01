@@ -1,0 +1,15 @@
+Ticket ID: TCK-00366
+Customer ID: CUST-0086
+Contact: Melissa Hall
+Priority: Medium
+Status: Closed
+Created: 2025-04-30
+
+Subject: Billing contact needs to be updated
+
+Hello,
+
+We upgraded plans mid-month and the proration on the invoice looks off. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. The contract states 40 seats at the agreed rate, but the invoice shows a higher seat count. Let me know if you need anything else from our side to fix this.
+
+Regards,
+Melissa

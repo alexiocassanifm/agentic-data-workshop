@@ -1,0 +1,15 @@
+Ticket ID: TCK-00172
+Customer ID: CUST-0072
+Contact: Daniel Martin
+Priority: Low
+Status: Closed
+Created: 2025-04-18
+
+Subject: Dashboard doesn't show the metric we need
+
+Hi folks,
+
+Not a bug, more of a feature request around analytics. We're on the Starter plan, is custom reporting something that's only available at a higher tier? It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. Is this something on the roadmap, or a configuration we're missing?
+
+Thanks a lot,
+Daniel

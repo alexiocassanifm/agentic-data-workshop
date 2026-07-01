@@ -1,0 +1,15 @@
+Ticket ID: TCK-00338
+Customer ID: CUST-0005
+Contact: Matthew Garcia
+Priority: High
+Status: In Progress
+Created: 2025-11-08
+
+Subject: Webhook stopped firing
+
+Hey there,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. Could someone check the sync status on your end?
+
+Appreciate the help,
+Matthew

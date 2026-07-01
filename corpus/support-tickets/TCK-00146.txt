@@ -1,0 +1,15 @@
+Ticket ID: TCK-00146
+Customer ID: CUST-0147
+Contact: Susan Abara
+Priority: High
+Status: Closed
+Created: 2023-08-18
+
+Subject: Need help finishing setup before our internal kickoff
+
+Hey there,
+
+Honestly, the onboarding flow has been a bit confusing so far. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. It's not clear from the checklist whether we need to finish setup before inviting other users, or if it can happen in parallel. Could someone point us to a guide, or better yet hop on a short call?
+
+Thanks a lot,
+Susan

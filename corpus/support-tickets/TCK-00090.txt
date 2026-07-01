@@ -1,0 +1,15 @@
+Ticket ID: TCK-00090
+Customer ID: CUST-0035
+Contact: Melissa Allen
+Priority: Low
+Status: Resolved
+Created: 2025-11-14
+
+Subject: Rate limit seems too low for our use case
+
+Hello,
+
+We recently increased the frequency of our API calls and now we're seeing a lot of failures. We're making roughly 26 requests per minute during our sync window, which used to work fine a month ago. This is affecting our Salesforce sync specifically, other endpoints seem fine. Happy to share request logs if that helps you investigate.
+
+Thanks a lot,
+Melissa

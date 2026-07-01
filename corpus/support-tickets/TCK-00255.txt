@@ -1,0 +1,15 @@
+Ticket ID: TCK-00255
+Customer ID: CUST-0082
+Contact: Yuki Costa
+Priority: Medium
+Status: Closed
+Created: 2023-10-19
+
+Subject: Thinking about pausing our subscription
+
+To the Larkspur Flow team,
+
+Our team has mostly moved back to spreadsheets for this, which isn't a great sign. A competitor reached out with a pretty aggressive offer and it's making us look more closely at what we're paying here. A few of the issues we've raised over the past few months, especially around performance and reporting, haven't fully been resolved yet. Budget has tightened this year and we're being asked to justify every recurring cost, and usage on our side hasn't been strong enough to make an easy case. If there's anything that could change the picture, now would be the time.
+
+Thanks a lot,
+Yuki

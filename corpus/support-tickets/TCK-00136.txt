@@ -1,0 +1,15 @@
+Ticket ID: TCK-00136
+Customer ID: CUST-0169
+Contact: Isabella Carter
+Priority: Urgent
+Status: In Progress
+Created: 2025-10-16
+
+Subject: API throttling is breaking our nightly sync
+
+Hi,
+
+Our integration has started throwing 429 errors a few times a day. We added exponential backoff on our end but we're still losing a portion of requests during peak load. Would it be possible to get documentation on the exact limits per endpoint? Right now we're guessing. This is starting to affect a feature our own customers rely on, so we'd like to resolve it quickly.
+
+Regards,
+Isabella

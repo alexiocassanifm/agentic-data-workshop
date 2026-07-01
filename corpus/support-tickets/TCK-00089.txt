@@ -1,0 +1,15 @@
+Ticket ID: TCK-00089
+Customer ID: CUST-0177
+Contact: James Miller
+Priority: Low
+Status: Open
+Created: 2025-11-26
+
+Subject: Notifications not showing up on mobile
+
+Hey there,
+
+The numbers I see on the mobile app don't match what's on the desktop dashboard. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. The upload bar fills up and then just resets back to zero with no error shown. Would help to know if a fix is already in progress.
+
+Thank you,
+James

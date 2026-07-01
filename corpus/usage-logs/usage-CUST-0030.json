@@ -1,0 +1,2370 @@
+{
+  "customer_id": "CUST-0030",
+  "plan_tier": "Professional",
+  "usage_period": {
+    "start_date": "2025-08-26",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-08-26",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 305,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1561,
+          "unique_users": 193
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 661,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 139,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 617,
+          "unique_users": 239
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1189,
+          "unique_users": 134
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 335,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1299,
+          "unique_users": 171
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 322,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 241,
+          "unique_users": 146
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1673,
+          "unique_users": 201
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1680,
+          "unique_users": 243
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 316,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 258,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 238,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 190,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 776,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 301,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 278,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 738,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 342,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1132,
+          "unique_users": 186
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1630,
+          "unique_users": 203
+        }
+      ]
+    },
+    {
+      "date": "2025-08-31",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 115,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 699,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 294,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 689,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 155,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 269,
+          "unique_users": 49
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 328,
+          "unique_users": 211
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1722,
+          "unique_users": 248
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1686,
+          "unique_users": 239
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1416,
+          "unique_users": 171
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1340,
+          "unique_users": 264
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 123,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 614,
+          "unique_users": 143
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 453,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 151,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 361,
+          "unique_users": 144
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 338,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 213,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 497,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1064,
+          "unique_users": 154
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 251,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 293,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 79,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1093,
+          "unique_users": 154
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1327,
+          "unique_users": 193
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1142,
+          "unique_users": 220
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1249,
+          "unique_users": 193
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 451,
+          "unique_users": 253
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 552,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 842,
+          "unique_users": 252
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 666,
+          "unique_users": 223
+        }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 194,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 895,
+          "unique_users": 135
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 854,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1333,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 887,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1003,
+          "unique_users": 247
+        }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 336,
+          "unique_users": 169
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 420,
+          "unique_users": 130
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 548,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 66,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 675,
+          "unique_users": 215
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 840,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 135,
+          "unique_users": 46
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 619,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 516,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 522,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 365,
+          "unique_users": 198
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1323,
+          "unique_users": 183
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 399,
+          "unique_users": 247
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 129,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1588,
+          "unique_users": 229
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1979,
+          "unique_users": 253
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 703,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 131,
+          "unique_users": 67
+        }
+      ]
+    },
+    {
+      "date": "2025-09-13",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 669,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 255,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 110,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 928,
+          "unique_users": 107
+        }
+      ]
+    },
+    {
+      "date": "2025-09-14",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 224,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 574,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 135,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 207,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 272,
+          "unique_users": 69
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1916,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 853,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2344,
+          "unique_users": 263
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 552,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 992,
+          "unique_users": 205
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 423,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 169,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 975,
+          "unique_users": 127
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 622,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1280,
+          "unique_users": 213
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 129,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 650,
+          "unique_users": 180
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 481,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 531,
+          "unique_users": 67
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 605,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 354,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 650,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 823,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1138,
+          "unique_users": 177
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 707,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 540,
+          "unique_users": 137
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 713,
+          "unique_users": 146
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1114,
+          "unique_users": 165
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 129,
+          "unique_users": 35
+        }
+      ]
+    },
+    {
+      "date": "2025-09-21",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 311,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 200,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 152,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 529,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 98,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 633,
+          "unique_users": 102
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 369,
+          "unique_users": 43
+        }
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1677,
+          "unique_users": 232
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 733,
+          "unique_users": 93
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1082,
+          "unique_users": 193
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 766,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 451,
+          "unique_users": 229
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 395,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1026,
+          "unique_users": 155
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 793,
+          "unique_users": 164
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1174,
+          "unique_users": 261
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1676,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 613,
+          "unique_users": 135
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1974,
+          "unique_users": 247
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1192,
+          "unique_users": 212
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 457,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1342,
+          "unique_users": 197
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1046,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 496,
+          "unique_users": 204
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 489,
+          "unique_users": 56
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1039,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 925,
+          "unique_users": 151
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 803,
+          "unique_users": 162
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 342,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1951,
+          "unique_users": 218
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 236,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 669,
+          "unique_users": 118
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 164,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1294,
+          "unique_users": 176
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 454,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 435,
+          "unique_users": 50
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1422,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 533,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 305,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 619,
+          "unique_users": 83
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 155,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 780,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1769,
+          "unique_users": 241
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1727,
+          "unique_users": 199
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 108,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 823,
+          "unique_users": 262
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 142,
+          "unique_users": 92
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1070,
+          "unique_users": 181
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 261,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1023,
+          "unique_users": 120
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1149,
+          "unique_users": 163
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 858,
+          "unique_users": 163
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 554,
+          "unique_users": 200
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1548,
+          "unique_users": 257
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 211,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 384,
+          "unique_users": 137
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 568,
+          "unique_users": 70
+        }
+      ]
+    },
+    {
+      "date": "2025-10-04",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 331,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 447,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 665,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 499,
+          "unique_users": 98
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 102,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 55,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 135,
+          "unique_users": 45
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1364,
+          "unique_users": 215
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 281,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 213,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2057,
+          "unique_users": 253
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 372,
+          "unique_users": 189
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1511,
+          "unique_users": 231
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2046,
+          "unique_users": 232
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 794,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 743,
+          "unique_users": 257
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 343,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 439,
+          "unique_users": 127
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 197,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 233,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 571,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 508,
+          "unique_users": 158
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 145,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1196,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 816,
+          "unique_users": 138
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 635,
+          "unique_users": 122
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 812,
+          "unique_users": 192
+        }
+      ]
+    },
+    {
+      "date": "2025-10-11",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 50,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 38,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 381,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 84,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1376,
+          "unique_users": 159
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1161,
+          "unique_users": 231
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 833,
+          "unique_users": 231
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 613,
+          "unique_users": 261
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 849,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1495,
+          "unique_users": 229
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1658,
+          "unique_users": 186
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 673,
+          "unique_users": 207
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 343,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 683,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 914,
+          "unique_users": 132
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 369,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 382,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 654,
+          "unique_users": 209
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 499,
+          "unique_users": 168
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1937,
+          "unique_users": 234
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 199,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 447,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1070,
+          "unique_users": 191
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1412,
+          "unique_users": 269
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 169,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 672,
+          "unique_users": 83
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 564,
+          "unique_users": 228
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 891,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1213,
+          "unique_users": 157
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 346,
+          "unique_users": 182
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 443,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 974,
+          "unique_users": 248
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 445,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 332,
+          "unique_users": 45
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 841,
+          "unique_users": 199
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 228,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 232,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1157,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 671,
+          "unique_users": 240
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 190,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 177,
+          "unique_users": 39
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 144,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 815,
+          "unique_users": 112
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1370,
+          "unique_users": 233
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 486,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1859,
+          "unique_users": 257
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1301,
+          "unique_users": 219
+        }
+      ]
+    },
+    {
+      "date": "2025-10-26",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 278,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 284,
+          "unique_users": 48
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 921,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1526,
+          "unique_users": 189
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 241,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1888,
+          "unique_users": 221
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 501,
+          "unique_users": 158
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 701,
+          "unique_users": 203
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 368,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 403,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 295,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 835,
+          "unique_users": 183
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1316,
+          "unique_users": 159
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 301,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 92,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 205,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 233,
+          "unique_users": 112
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 507,
+          "unique_users": 251
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1032,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 493,
+          "unique_users": 205
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 978,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 293,
+          "unique_users": 157
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1442,
+          "unique_users": 216
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1645,
+          "unique_users": 225
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1647,
+          "unique_users": 219
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 684,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1895,
+          "unique_users": 216
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 524,
+          "unique_users": 146
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 540,
+          "unique_users": 106
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1898,
+          "unique_users": 252
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 373,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2040,
+          "unique_users": 242
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 743,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 770,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 870,
+          "unique_users": 131
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 791,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 645,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 326,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 200,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1130,
+          "unique_users": 238
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 633,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 764,
+          "unique_users": 180
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 636,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1266,
+          "unique_users": 144
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 525,
+          "unique_users": 172
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 320,
+          "unique_users": 164
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 106,
+          "unique_users": 31
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1457,
+          "unique_users": 205
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 372,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 533,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 443,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 266,
+          "unique_users": 72
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1515,
+          "unique_users": 200
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 426,
+          "unique_users": 163
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 297,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1162,
+          "unique_users": 247
+        }
+      ]
+    },
+    {
+      "date": "2025-11-09",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 88,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 116,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 358,
+          "unique_users": 70
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1314,
+          "unique_users": 148
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 177,
+          "unique_users": 26
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 371,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 327,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1437,
+          "unique_users": 173
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 382,
+          "unique_users": 135
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 217,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 439,
+          "unique_users": 76
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 181,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 504,
+          "unique_users": 143
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 289,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1353,
+          "unique_users": 154
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 370,
+          "unique_users": 154
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 579,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1019,
+          "unique_users": 154
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 797,
+          "unique_users": 227
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 134,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1045,
+          "unique_users": 182
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1097,
+          "unique_users": 228
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 671,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1589,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 307,
+          "unique_users": 134
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1608,
+          "unique_users": 223
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 223,
+          "unique_users": 38
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 262,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 423,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 391,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 453,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 292,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 186,
+          "unique_users": 78
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 710,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 123,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 54,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 53,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 150,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 569,
+          "unique_users": 203
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 839,
+          "unique_users": 149
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 371,
+          "unique_users": 221
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 433,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1093,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 669,
+          "unique_users": 162
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 589,
+          "unique_users": 136
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 726,
+          "unique_users": 214
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 211,
+          "unique_users": 36
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1480,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 570,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 595,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 718,
+          "unique_users": 195
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 197,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1191,
+          "unique_users": 227
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 577,
+          "unique_users": 225
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 986,
+          "unique_users": 136
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 833,
+          "unique_users": 102
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 283,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 187,
+          "unique_users": 64
+        }
+      ]
+    },
+    {
+      "date": "2025-11-22",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 509,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 850,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 237,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 345,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 29,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 412,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 118,
+          "unique_users": 35
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1296,
+          "unique_users": 149
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 711,
+          "unique_users": 213
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 453,
+          "unique_users": 103
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1580,
+          "unique_users": 185
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1523,
+          "unique_users": 194
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1489,
+          "unique_users": 231
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 605,
+          "unique_users": 173
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2235,
+          "unique_users": 260
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 457,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1542,
+          "unique_users": 180
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1282,
+          "unique_users": 250
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 688,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1445,
+          "unique_users": 179
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 826,
+          "unique_users": 260
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1990,
+          "unique_users": 266
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 417,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 852,
+          "unique_users": 164
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 863,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1149,
+          "unique_users": 144
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1542,
+          "unique_users": 184
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 194,
+          "unique_users": 68
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1618,
+          "unique_users": 216
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 104,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1977,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1415,
+          "unique_users": 269
+        }
+      ]
+    },
+    {
+      "date": "2025-11-30",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 193,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 181,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 467,
+          "unique_users": 62
+        }
+      ]
+    }
+  ]
+}

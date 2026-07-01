@@ -1,0 +1,15 @@
+Ticket ID: TCK-00485
+Customer ID: CUST-0170
+Contact: Tomas Smith
+Priority: Urgent
+Status: Closed
+Created: 2025-08-09
+
+Subject: Automation workflows are lagging behind
+
+Hi folks,
+
+Not sure if this is just us, but performance has taken a real hit recently. This is starting to affect how quickly our team can respond to things during the day. Larger views, like the one with our full customer list, time out entirely rather than just being slow. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Regards,
+Tomas

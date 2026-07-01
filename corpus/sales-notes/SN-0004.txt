@@ -1,0 +1,7 @@
+Account: CUST-0046 - Amber Estates
+Contact: Lars Martinez (Operations Manager)
+Account Executive: Priya Chandran
+Date: 2025-06-04
+Type: QBR
+
+During the call, Lars flagged that our security team is doing an annual review of vendors and has a few questions. Their take was that specifically we need to know if eu customer data stays within the eu or if it's processed elsewhere. Not a deal-breaker for them yet, but it's the kind of thing that could add up if it keeps happening.

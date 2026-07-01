@@ -1,0 +1,15 @@
+Ticket ID: TCK-00245
+Customer ID: CUST-0138
+Contact: Amara Green
+Priority: High
+Status: In Progress
+Created: 2024-12-30
+
+Subject: Need help finishing setup before our internal kickoff
+
+Hi,
+
+We just signed up and aren't totally sure where to start. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. It's not clear from the checklist whether we need to finish setup before inviting other users, or if it can happen in parallel. Thanks, we're excited to get going once we're past this part.
+
+Best,
+Amara

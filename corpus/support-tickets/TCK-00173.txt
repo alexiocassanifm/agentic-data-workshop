@@ -1,0 +1,15 @@
+Ticket ID: TCK-00173
+Customer ID: CUST-0026
+Contact: Ronald Garcia
+Priority: Urgent
+Status: Open
+Created: 2024-10-03
+
+Subject: Sales tax on our invoice looks wrong
+
+To the Larkspur Flow team,
+
+It looks like we were billed twice for this month, can someone confirm? The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. Our finance team is asking about this so a quick turnaround would be great.
+
+Appreciate the help,
+Ronald

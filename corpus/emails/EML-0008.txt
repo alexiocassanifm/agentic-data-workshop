@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Kevin Nguyen <kevin.nguyen@vista-indemnity.se>
+Subject: Finishing your Larkspur Flow setup
+Date: 2023-08-11
+
+Quick note on setup: if you haven't connected your integrations yet (Salesforce and Slack are the most common), now's a good time. It tends to make the first few weeks much smoother once notifications and data sync are flowing automatically.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00226
+Customer ID: CUST-0073
+Contact: William Lee
+Priority: Low
+Status: Closed
+Created: 2024-05-17
+
+Subject: Not sure how to restrict access for new users
+
+Hey there,
+
+We changed a permission setting a few days ago and it doesn't seem to be respected anywhere. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Appreciate the help,
+William

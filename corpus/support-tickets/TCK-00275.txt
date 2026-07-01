@@ -1,0 +1,15 @@
+Ticket ID: TCK-00275
+Customer ID: CUST-0084
+Contact: Isabella Rodriguez
+Priority: High
+Status: In Progress
+Created: 2025-10-11
+
+Subject: Would love a way to build custom reports
+
+To the Larkspur Flow team,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. We can see the raw numbers on the dashboard but there's no way to export a nicely formatted PDF version for stakeholders who don't log in. Happy to jump on a call to explain exactly what we're trying to build.
+
+Best,
+Isabella

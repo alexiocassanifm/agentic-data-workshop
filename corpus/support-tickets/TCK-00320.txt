@@ -1,0 +1,15 @@
+Ticket ID: TCK-00320
+Customer ID: CUST-0127
+Contact: Sandra Berg
+Priority: Low
+Status: In Progress
+Created: 2024-06-07
+
+Subject: Onboarding checklist seems out of date
+
+Hi support team,
+
+We're trying to get everything ready before our internal kickoff next week and running into a few snags. We imported a test batch of records and some fields came through blank that had data in the source file. A couple of us are non-technical and the current instructions assume more familiarity than we have. Any help getting unstuck here would be appreciated.
+
+Thanks,
+Sandra

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00494
+Customer ID: CUST-0085
+Contact: Felix Campbell
+Priority: Medium
+Status: In Progress
+Created: 2024-12-05
+
+Subject: Not sure how to restrict access for new users
+
+Hi,
+
+We're trying to set up permissions so that only a few people have admin rights, and the options are a bit confusing. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. Could you walk us through how roles and permissions are meant to work?
+
+Appreciate the help,
+Felix

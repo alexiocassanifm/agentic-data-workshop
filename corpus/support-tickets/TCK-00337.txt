@@ -1,0 +1,15 @@
+Ticket ID: TCK-00337
+Customer ID: CUST-0150
+Contact: Fatima Mensah
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-01-22
+
+Subject: Question about encryption at rest
+
+Hi folks,
+
+Quick compliance question, is data encrypted both in transit and at rest? We're trying to close this out before renewal, so any documentation you can point us to would save time. One of our regulated customers specifically asked about sub-processors, so a current list would help. Thank you for your help with this.
+
+Regards,
+Fatima

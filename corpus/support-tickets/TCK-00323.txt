@@ -1,0 +1,15 @@
+Ticket ID: TCK-00323
+Customer ID: CUST-0112
+Contact: Ingrid Johnson
+Priority: High
+Status: Resolved
+Created: 2025-05-24
+
+Subject: Considering other options before we renew
+
+Hi team,
+
+We've been evaluating a couple of alternatives and wanted to flag that before our renewal comes up. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. A few of the issues we've raised over the past few months, especially around performance and reporting, haven't fully been resolved yet. If there's anything that could change the picture, now would be the time.
+
+Best,
+Ingrid

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00289
+Customer ID: CUST-0006
+Contact: Jennifer Smith
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-10-02
+
+Subject: Export button just spins forever
+
+To the Larkspur Flow team,
+
+The export has been stuck 'processing' for over twenty minutes now. Company names with accented characters, like some of our European customers, come out looking like mojibake in the CSV. We rely on this export to feed our own reporting, so the missing rows are throwing off our numbers downstream. Let us know if this is a known limitation or an actual bug.
+
+Thank you,
+Jennifer

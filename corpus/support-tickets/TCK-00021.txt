@@ -1,0 +1,15 @@
+Ticket ID: TCK-00021
+Customer ID: CUST-0085
+Contact: Felix Campbell
+Priority: Low
+Status: Waiting on Customer
+Created: 2024-12-29
+
+Subject: Billing contact needs to be updated
+
+Hi team,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Let me know if you need anything else from our side to fix this.
+
+Thanks a lot,
+Felix

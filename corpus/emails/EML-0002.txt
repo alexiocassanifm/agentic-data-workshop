@@ -1,0 +1,10 @@
+From: Devon Marsh <devon.marsh@larkspurflow.com>
+To: Paul Osei <paul.osei@slate-utilities.com>
+Subject: A few setup tips for your team
+Date: 2023-11-15
+
+Hi Paul, following up on getting Slate Utilities fully set up. If your team hasn't been invited yet, that's usually the next step, you can do this in bulk from the team settings page. Also worth setting up at least one automation workflow early so it becomes part of the daily routine.
+
+Best,
+Devon
+Customer Success, Larkspur Flow

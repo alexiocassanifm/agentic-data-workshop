@@ -1,0 +1,4365 @@
+{
+  "customer_id": "CUST-0130",
+  "plan_tier": "Enterprise",
+  "usage_period": {
+    "start_date": "2025-08-08",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-08-08",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1524,
+          "unique_users": 247
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 4138,
+          "unique_users": 476
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3532,
+          "unique_users": 483
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 413,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2572,
+          "unique_users": 454
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2119,
+          "unique_users": 379
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1079,
+          "unique_users": 352
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1937,
+          "unique_users": 282
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1095,
+          "unique_users": 164
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 624,
+          "unique_users": 254
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 186,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2442,
+          "unique_users": 327
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2660,
+          "unique_users": 340
+        }
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 775,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 84,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 806,
+          "unique_users": 149
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1710,
+          "unique_users": 198
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 819,
+          "unique_users": 183
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 526,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 723,
+          "unique_users": 199
+        }
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 366,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2146,
+          "unique_users": 320
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1122,
+          "unique_users": 145
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 3242,
+          "unique_users": 454
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2748,
+          "unique_users": 352
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1032,
+          "unique_users": 302
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 965,
+          "unique_users": 162
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2808,
+          "unique_users": 416
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1436,
+          "unique_users": 421
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1775,
+          "unique_users": 376
+        }
+      ]
+    },
+    {
+      "date": "2025-08-12",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1624,
+          "unique_users": 203
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 330,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1674,
+          "unique_users": 389
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 417,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1330,
+          "unique_users": 219
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2427,
+          "unique_users": 307
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1843,
+          "unique_users": 374
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 814,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1842,
+          "unique_users": 289
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 683,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1430,
+          "unique_users": 203
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1700,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2062,
+          "unique_users": 296
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1980,
+          "unique_users": 307
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 748,
+          "unique_users": 217
+        }
+      ]
+    },
+    {
+      "date": "2025-08-14",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 455,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2295,
+          "unique_users": 288
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2160,
+          "unique_users": 283
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 309,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1380,
+          "unique_users": 338
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2360,
+          "unique_users": 440
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 188,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 892,
+          "unique_users": 327
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2143,
+          "unique_users": 284
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 576,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 264,
+          "unique_users": 174
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 271,
+          "unique_users": 160
+        }
+      ]
+    },
+    {
+      "date": "2025-08-18",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1006,
+          "unique_users": 361
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 788,
+          "unique_users": 127
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 402,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2210,
+          "unique_users": 344
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 3014,
+          "unique_users": 515
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 789,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1935,
+          "unique_users": 357
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1276,
+          "unique_users": 442
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 804,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 720,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1713,
+          "unique_users": 259
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 422,
+          "unique_users": 255
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1051,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1317,
+          "unique_users": 436
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1073,
+          "unique_users": 513
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1791,
+          "unique_users": 210
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2082,
+          "unique_users": 397
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 819,
+          "unique_users": 136
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1483,
+          "unique_users": 333
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 4135,
+          "unique_users": 506
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 847,
+          "unique_users": 275
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2342,
+          "unique_users": 319
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 436,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1667,
+          "unique_users": 327
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 545,
+          "unique_users": 96
+        }
+      ]
+    },
+    {
+      "date": "2025-08-21",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 633,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1913,
+          "unique_users": 355
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 162,
+          "unique_users": 102
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1336,
+          "unique_users": 429
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1110,
+          "unique_users": 326
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 828,
+          "unique_users": 479
+        }
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1449,
+          "unique_users": 183
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1514,
+          "unique_users": 404
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2383,
+          "unique_users": 512
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1015,
+          "unique_users": 461
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1778,
+          "unique_users": 455
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1566,
+          "unique_users": 210
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 709,
+          "unique_users": 234
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 935,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 829,
+          "unique_users": 215
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2610,
+          "unique_users": 457
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2474,
+          "unique_users": 446
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 256,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 863,
+          "unique_users": 192
+        }
+      ]
+    },
+    {
+      "date": "2025-08-23",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 353,
+          "unique_users": 138
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 642,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 534,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 401,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 132,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 333,
+          "unique_users": 126
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2038,
+          "unique_users": 411
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2778,
+          "unique_users": 502
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1085,
+          "unique_users": 154
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 866,
+          "unique_users": 136
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 915,
+          "unique_users": 381
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2529,
+          "unique_users": 285
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 853,
+          "unique_users": 345
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1894,
+          "unique_users": 326
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2587,
+          "unique_users": 463
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 536,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1187,
+          "unique_users": 328
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 264,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1961,
+          "unique_users": 353
+        }
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 144,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 286,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1097,
+          "unique_users": 144
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1700,
+          "unique_users": 358
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 3019,
+          "unique_users": 520
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 654,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1456,
+          "unique_users": 235
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 2046,
+          "unique_users": 272
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1281,
+          "unique_users": 518
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 3822,
+          "unique_users": 498
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 455,
+          "unique_users": 51
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1492,
+          "unique_users": 319
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1281,
+          "unique_users": 492
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2477,
+          "unique_users": 282
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 661,
+          "unique_users": 139
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2843,
+          "unique_users": 376
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 257,
+          "unique_users": 66
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 224,
+          "unique_users": 143
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 487,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 839,
+          "unique_users": 296
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 3541,
+          "unique_users": 443
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1768,
+          "unique_users": 258
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1647,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 456,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 963,
+          "unique_users": 129
+        }
+      ]
+    },
+    {
+      "date": "2025-08-30",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 556,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 365,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 993,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 757,
+          "unique_users": 192
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 424,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 148,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1524,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1259,
+          "unique_users": 153
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 3393,
+          "unique_users": 408
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3184,
+          "unique_users": 380
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 683,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 394,
+          "unique_users": 172
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 291,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 707,
+          "unique_users": 247
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1393,
+          "unique_users": 382
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 397,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1943,
+          "unique_users": 479
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1386,
+          "unique_users": 336
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 587,
+          "unique_users": 139
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1758,
+          "unique_users": 246
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 981,
+          "unique_users": 152
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1780,
+          "unique_users": 285
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 3158,
+          "unique_users": 480
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 561,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1294,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 877,
+          "unique_users": 376
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 571,
+          "unique_users": 259
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 545,
+          "unique_users": 330
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 871,
+          "unique_users": 260
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 286,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 577,
+          "unique_users": 361
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 3354,
+          "unique_users": 495
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1647,
+          "unique_users": 212
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 426,
+          "unique_users": 233
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1317,
+          "unique_users": 510
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 911,
+          "unique_users": 139
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1408,
+          "unique_users": 530
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1702,
+          "unique_users": 482
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 797,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2695,
+          "unique_users": 350
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 3406,
+          "unique_users": 395
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 3090,
+          "unique_users": 452
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 386,
+          "unique_users": 198
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 401,
+          "unique_users": 215
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 300,
+          "unique_users": 174
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 756,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1935,
+          "unique_users": 400
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1962,
+          "unique_users": 368
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 449,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 697,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 877,
+          "unique_users": 183
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 141,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1424,
+          "unique_users": 228
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1739,
+          "unique_users": 197
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1377,
+          "unique_users": 463
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3482,
+          "unique_users": 448
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1000,
+          "unique_users": 343
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 801,
+          "unique_users": 151
+        }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 1204,
+          "unique_users": 162
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 194,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 931,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 250,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 296,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 500,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1598,
+          "unique_users": 178
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 425,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 817,
+          "unique_users": 192
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 673,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 565,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 981,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 374,
+          "unique_users": 126
+        }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1446,
+          "unique_users": 304
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1979,
+          "unique_users": 297
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1262,
+          "unique_users": 462
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 3483,
+          "unique_users": 389
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2643,
+          "unique_users": 397
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1644,
+          "unique_users": 336
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2920,
+          "unique_users": 357
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1171,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 4113,
+          "unique_users": 489
+        }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1394,
+          "unique_users": 225
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 707,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 869,
+          "unique_users": 411
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 386,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 997,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2075,
+          "unique_users": 358
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2227,
+          "unique_users": 440
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2124,
+          "unique_users": 240
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 488,
+          "unique_users": 136
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1180,
+          "unique_users": 139
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 846,
+          "unique_users": 205
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1484,
+          "unique_users": 255
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 902,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 705,
+          "unique_users": 320
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 3676,
+          "unique_users": 446
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1343,
+          "unique_users": 226
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 3495,
+          "unique_users": 450
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1477,
+          "unique_users": 169
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1741,
+          "unique_users": 268
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1263,
+          "unique_users": 279
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2213,
+          "unique_users": 282
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 1551,
+          "unique_users": 233
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1898,
+          "unique_users": 260
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3415,
+          "unique_users": 484
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1380,
+          "unique_users": 425
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 746,
+          "unique_users": 185
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 4110,
+          "unique_users": 492
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 946,
+          "unique_users": 479
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 543,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2871,
+          "unique_users": 411
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1015,
+          "unique_users": 225
+        }
+      ]
+    },
+    {
+      "date": "2025-09-13",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1191,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1543,
+          "unique_users": 212
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 222,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 120,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1745,
+          "unique_users": 211
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 147,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1011,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 414,
+          "unique_users": 179
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 970,
+          "unique_users": 170
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 587,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 147,
+          "unique_users": 84
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 578,
+          "unique_users": 139
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2894,
+          "unique_users": 428
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1965,
+          "unique_users": 458
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 178,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1569,
+          "unique_users": 423
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2595,
+          "unique_users": 463
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 718,
+          "unique_users": 163
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2077,
+          "unique_users": 456
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2569,
+          "unique_users": 436
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2001,
+          "unique_users": 383
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 706,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 571,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3412,
+          "unique_users": 499
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1275,
+          "unique_users": 469
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1691,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2989,
+          "unique_users": 360
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 3818,
+          "unique_users": 437
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1525,
+          "unique_users": 188
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1221,
+          "unique_users": 503
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2685,
+          "unique_users": 406
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 3569,
+          "unique_users": 502
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1640,
+          "unique_users": 481
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3285,
+          "unique_users": 504
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 754,
+          "unique_users": 214
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 851,
+          "unique_users": 309
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2440,
+          "unique_users": 346
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1262,
+          "unique_users": 169
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1476,
+          "unique_users": 225
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 812,
+          "unique_users": 287
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 4200,
+          "unique_users": 526
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1647,
+          "unique_users": 479
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1539,
+          "unique_users": 367
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1600,
+          "unique_users": 404
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 662,
+          "unique_users": 169
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3051,
+          "unique_users": 384
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2762,
+          "unique_users": 474
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1363,
+          "unique_users": 452
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2439,
+          "unique_users": 358
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 641,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 447,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 4167,
+          "unique_users": 468
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2536,
+          "unique_users": 339
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 698,
+          "unique_users": 237
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1108,
+          "unique_users": 425
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 324,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1451,
+          "unique_users": 165
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1148,
+          "unique_users": 183
+        }
+      ]
+    },
+    {
+      "date": "2025-09-21",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1430,
+          "unique_users": 210
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 414,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 580,
+          "unique_users": 185
+        }
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2780,
+          "unique_users": 366
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 500,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1782,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 864,
+          "unique_users": 216
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1941,
+          "unique_users": 333
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1186,
+          "unique_users": 495
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1645,
+          "unique_users": 331
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 824,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 3237,
+          "unique_users": 362
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 414,
+          "unique_users": 248
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1678,
+          "unique_users": 331
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 508,
+          "unique_users": 111
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1605,
+          "unique_users": 395
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1732,
+          "unique_users": 302
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2475,
+          "unique_users": 351
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 525,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 808,
+          "unique_users": 277
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 623,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 253,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 595,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 848,
+          "unique_users": 142
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2632,
+          "unique_users": 400
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1023,
+          "unique_users": 197
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2934,
+          "unique_users": 336
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 3677,
+          "unique_users": 505
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 2015,
+          "unique_users": 292
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2644,
+          "unique_users": 472
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 450,
+          "unique_users": 92
+        }
+      ]
+    },
+    {
+      "date": "2025-09-28",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 388,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 980,
+          "unique_users": 210
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 433,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 457,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 329,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1183,
+          "unique_users": 244
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 507,
+          "unique_users": 184
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 554,
+          "unique_users": 348
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 816,
+          "unique_users": 360
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1052,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2058,
+          "unique_users": 249
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1106,
+          "unique_users": 171
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 976,
+          "unique_users": 318
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 720,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1810,
+          "unique_users": 453
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 882,
+          "unique_users": 272
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1395,
+          "unique_users": 175
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1067,
+          "unique_users": 163
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2095,
+          "unique_users": 489
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1249,
+          "unique_users": 271
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1326,
+          "unique_users": 321
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2341,
+          "unique_users": 416
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1972,
+          "unique_users": 431
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2410,
+          "unique_users": 450
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1390,
+          "unique_users": 464
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2909,
+          "unique_users": 410
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1523,
+          "unique_users": 281
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 484,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 274,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 3805,
+          "unique_users": 437
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 470,
+          "unique_users": 107
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1869,
+          "unique_users": 534
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 684,
+          "unique_users": 358
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2784,
+          "unique_users": 373
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1228,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 2505,
+          "unique_users": 364
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 527,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 906,
+          "unique_users": 181
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 814,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 503,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 494,
+          "unique_users": 280
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 4414,
+          "unique_users": 519
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 512,
+          "unique_users": 84
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2431,
+          "unique_users": 310
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1493,
+          "unique_users": 434
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2325,
+          "unique_users": 271
+        }
+      ]
+    },
+    {
+      "date": "2025-10-04",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 764,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 260,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 150,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 263,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 147,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1179,
+          "unique_users": 157
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 792,
+          "unique_users": 157
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1222,
+          "unique_users": 156
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 176,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 714,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 216,
+          "unique_users": 137
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 474,
+          "unique_users": 204
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 925,
+          "unique_users": 158
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 273,
+          "unique_users": 157
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 270,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 117,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1520,
+          "unique_users": 170
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1765,
+          "unique_users": 202
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 148,
+          "unique_users": 22
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 317,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2553,
+          "unique_users": 423
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 714,
+          "unique_users": 241
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1891,
+          "unique_users": 432
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1473,
+          "unique_users": 283
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 3907,
+          "unique_users": 437
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1357,
+          "unique_users": 320
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1542,
+          "unique_users": 270
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 596,
+          "unique_users": 272
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 2643,
+          "unique_users": 446
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1140,
+          "unique_users": 269
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1122,
+          "unique_users": 163
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 416,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1736,
+          "unique_users": 274
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1323,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1268,
+          "unique_users": 141
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2195,
+          "unique_users": 437
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 4243,
+          "unique_users": 503
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1640,
+          "unique_users": 306
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1334,
+          "unique_users": 368
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2090,
+          "unique_users": 275
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 647,
+          "unique_users": 362
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 2423,
+          "unique_users": 301
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1853,
+          "unique_users": 486
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1488,
+          "unique_users": 311
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 4065,
+          "unique_users": 507
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1386,
+          "unique_users": 331
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1649,
+          "unique_users": 456
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 184,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 3189,
+          "unique_users": 386
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 982,
+          "unique_users": 206
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 3610,
+          "unique_users": 440
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 417,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1176,
+          "unique_users": 160
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 929,
+          "unique_users": 157
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2464,
+          "unique_users": 534
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1078,
+          "unique_users": 134
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 116,
+          "unique_users": 51
+        }
+      ]
+    },
+    {
+      "date": "2025-10-12",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1236,
+          "unique_users": 145
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 662,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 608,
+          "unique_users": 146
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1302,
+          "unique_users": 186
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 992,
+          "unique_users": 183
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1934,
+          "unique_users": 336
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1560,
+          "unique_users": 468
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3112,
+          "unique_users": 433
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2160,
+          "unique_users": 392
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 783,
+          "unique_users": 147
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 212,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 3976,
+          "unique_users": 479
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1580,
+          "unique_users": 306
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 417,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2493,
+          "unique_users": 422
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 944,
+          "unique_users": 471
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 991,
+          "unique_users": 421
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 656,
+          "unique_users": 165
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2134,
+          "unique_users": 442
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1210,
+          "unique_users": 505
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3755,
+          "unique_users": 457
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 900,
+          "unique_users": 141
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1637,
+          "unique_users": 399
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 3630,
+          "unique_users": 470
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 651,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1768,
+          "unique_users": 414
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1046,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 402,
+          "unique_users": 174
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2694,
+          "unique_users": 394
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1844,
+          "unique_users": 321
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 356,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1027,
+          "unique_users": 375
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 543,
+          "unique_users": 339
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 792,
+          "unique_users": 191
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 936,
+          "unique_users": 248
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1376,
+          "unique_users": 208
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2295,
+          "unique_users": 534
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1696,
+          "unique_users": 311
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 721,
+          "unique_users": 147
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 669,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1141,
+          "unique_users": 208
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1192,
+          "unique_users": 445
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2718,
+          "unique_users": 441
+        }
+      ]
+    },
+    {
+      "date": "2025-10-18",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1112,
+          "unique_users": 209
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 197,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 411,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 384,
+          "unique_users": 183
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 529,
+          "unique_users": 89
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 752,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 600,
+          "unique_users": 157
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 94,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 170,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 227,
+          "unique_users": 69
+        }
+      ]
+    },
+    {
+      "date": "2025-10-19",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 133,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 350,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 613,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1050,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 530,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 174,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 790,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 144,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1678,
+          "unique_users": 213
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 202,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 833,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1253,
+          "unique_users": 141
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 898,
+          "unique_users": 149
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 4306,
+          "unique_users": 527
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1160,
+          "unique_users": 222
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2196,
+          "unique_users": 420
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1785,
+          "unique_users": 250
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2153,
+          "unique_users": 511
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1631,
+          "unique_users": 353
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 4583,
+          "unique_users": 530
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 406,
+          "unique_users": 233
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2985,
+          "unique_users": 523
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1003,
+          "unique_users": 253
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2179,
+          "unique_users": 370
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 569,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1782,
+          "unique_users": 241
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 433,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1805,
+          "unique_users": 259
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 494,
+          "unique_users": 142
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1676,
+          "unique_users": 416
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 927,
+          "unique_users": 382
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 480,
+          "unique_users": 230
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 436,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 687,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1219,
+          "unique_users": 346
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1011,
+          "unique_users": 240
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 456,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1184,
+          "unique_users": 336
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1131,
+          "unique_users": 299
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2488,
+          "unique_users": 457
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1220,
+          "unique_users": 229
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 827,
+          "unique_users": 227
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1011,
+          "unique_users": 241
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 992,
+          "unique_users": 153
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2243,
+          "unique_users": 505
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2202,
+          "unique_users": 397
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 652,
+          "unique_users": 256
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 4181,
+          "unique_users": 466
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1508,
+          "unique_users": 270
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 995,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 877,
+          "unique_users": 256
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2259,
+          "unique_users": 268
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2654,
+          "unique_users": 399
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1006,
+          "unique_users": 193
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 472,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 385,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2144,
+          "unique_users": 464
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1762,
+          "unique_users": 318
+        }
+      ]
+    },
+    {
+      "date": "2025-10-26",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 510,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 652,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 359,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 946,
+          "unique_users": 140
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1342,
+          "unique_users": 173
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 175,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 780,
+          "unique_users": 147
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1320,
+          "unique_users": 158
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 347,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 681,
+          "unique_users": 122
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 889,
+          "unique_users": 118
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2816,
+          "unique_users": 320
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 507,
+          "unique_users": 127
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2476,
+          "unique_users": 313
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 596,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2408,
+          "unique_users": 466
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2023,
+          "unique_users": 353
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1866,
+          "unique_users": 316
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2493,
+          "unique_users": 351
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1898,
+          "unique_users": 222
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1110,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 828,
+          "unique_users": 218
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 735,
+          "unique_users": 220
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 956,
+          "unique_users": 458
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1190,
+          "unique_users": 190
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 4467,
+          "unique_users": 537
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 805,
+          "unique_users": 312
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 3305,
+          "unique_users": 429
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1287,
+          "unique_users": 303
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1202,
+          "unique_users": 431
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 3624,
+          "unique_users": 473
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1141,
+          "unique_users": 160
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 4300,
+          "unique_users": 508
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 2679,
+          "unique_users": 316
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2296,
+          "unique_users": 264
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 2314,
+          "unique_users": 426
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3328,
+          "unique_users": 520
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 653,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2975,
+          "unique_users": 331
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 576,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1280,
+          "unique_users": 163
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2473,
+          "unique_users": 483
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1969,
+          "unique_users": 533
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1329,
+          "unique_users": 485
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 545,
+          "unique_users": 166
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1964,
+          "unique_users": 293
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1280,
+          "unique_users": 385
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 248,
+          "unique_users": 164
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 679,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 160,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 548,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2502,
+          "unique_users": 430
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 375,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 959,
+          "unique_users": 291
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 779,
+          "unique_users": 137
+        }
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 1252,
+          "unique_users": 199
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 366,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 722,
+          "unique_users": 173
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 203,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 643,
+          "unique_users": 210
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 462,
+          "unique_users": 89
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2212,
+          "unique_users": 373
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1559,
+          "unique_users": 442
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1627,
+          "unique_users": 239
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 493,
+          "unique_users": 214
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1689,
+          "unique_users": 200
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1647,
+          "unique_users": 346
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1725,
+          "unique_users": 193
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1171,
+          "unique_users": 262
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 179,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1168,
+          "unique_users": 139
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 889,
+          "unique_users": 281
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1800,
+          "unique_users": 259
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1481,
+          "unique_users": 419
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2856,
+          "unique_users": 436
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3076,
+          "unique_users": 410
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2142,
+          "unique_users": 259
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1487,
+          "unique_users": 223
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1000,
+          "unique_users": 299
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 325,
+          "unique_users": 214
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 502,
+          "unique_users": 264
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1237,
+          "unique_users": 279
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2268,
+          "unique_users": 477
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 3039,
+          "unique_users": 501
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 804,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1800,
+          "unique_users": 302
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2778,
+          "unique_users": 338
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1597,
+          "unique_users": 529
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 338,
+          "unique_users": 225
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1712,
+          "unique_users": 339
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1656,
+          "unique_users": 300
+        }
+      ]
+    },
+    {
+      "date": "2025-11-09",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1032,
+          "unique_users": 166
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 119,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 3860,
+          "unique_users": 498
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 514,
+          "unique_users": 160
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1755,
+          "unique_users": 201
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1783,
+          "unique_users": 334
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 376,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 326,
+          "unique_users": 64
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 644,
+          "unique_users": 369
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 164,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1424,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 117,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1118,
+          "unique_users": 236
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2375,
+          "unique_users": 369
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 346,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 980,
+          "unique_users": 159
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1047,
+          "unique_users": 172
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1468,
+          "unique_users": 296
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1633,
+          "unique_users": 266
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2400,
+          "unique_users": 384
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 3985,
+          "unique_users": 531
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 2979,
+          "unique_users": 529
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1231,
+          "unique_users": 179
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 827,
+          "unique_users": 244
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2564,
+          "unique_users": 316
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1738,
+          "unique_users": 307
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 500,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1814,
+          "unique_users": 237
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 594,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 167,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1993,
+          "unique_users": 433
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 636,
+          "unique_users": 380
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 814,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1624,
+          "unique_users": 447
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1879,
+          "unique_users": 307
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2369,
+          "unique_users": 363
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 199,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2611,
+          "unique_users": 388
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1658,
+          "unique_users": 506
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 793,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 273,
+          "unique_users": 154
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2636,
+          "unique_users": 373
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1471,
+          "unique_users": 311
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1146,
+          "unique_users": 198
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1292,
+          "unique_users": 394
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1251,
+          "unique_users": 208
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1969,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 512,
+          "unique_users": 110
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 689,
+          "unique_users": 324
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 150,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1491,
+          "unique_users": 439
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1326,
+          "unique_users": 407
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 658,
+          "unique_users": 216
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1973,
+          "unique_users": 273
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1766,
+          "unique_users": 232
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 735,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 918,
+          "unique_users": 157
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 449,
+          "unique_users": 223
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1612,
+          "unique_users": 224
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 437,
+          "unique_users": 171
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1463,
+          "unique_users": 530
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1915,
+          "unique_users": 239
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 630,
+          "unique_users": 335
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2575,
+          "unique_users": 400
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 693,
+          "unique_users": 313
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 354,
+          "unique_users": 192
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1912,
+          "unique_users": 477
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1223,
+          "unique_users": 474
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 902,
+          "unique_users": 256
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 916,
+          "unique_users": 138
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 725,
+          "unique_users": 235
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 616,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1837,
+          "unique_users": 395
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1501,
+          "unique_users": 327
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1286,
+          "unique_users": 533
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 2879,
+          "unique_users": 491
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 494,
+          "unique_users": 152
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1236,
+          "unique_users": 235
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1705,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 195,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1340,
+          "unique_users": 283
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1439,
+          "unique_users": 297
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1233,
+          "unique_users": 447
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1703,
+          "unique_users": 221
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2269,
+          "unique_users": 486
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1559,
+          "unique_users": 396
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 1308,
+          "unique_users": 148
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 3026,
+          "unique_users": 338
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2298,
+          "unique_users": 393
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1741,
+          "unique_users": 449
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 3586,
+          "unique_users": 459
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1269,
+          "unique_users": 401
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 928,
+          "unique_users": 216
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 2297,
+          "unique_users": 389
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 664,
+          "unique_users": 218
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2378,
+          "unique_users": 505
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 241,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2093,
+          "unique_users": 275
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1779,
+          "unique_users": 205
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 2392,
+          "unique_users": 445
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1671,
+          "unique_users": 189
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1640,
+          "unique_users": 256
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 402,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 181,
+          "unique_users": 72
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 107,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 516,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1009,
+          "unique_users": 314
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 529,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 2231,
+          "unique_users": 295
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 981,
+          "unique_users": 399
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1457,
+          "unique_users": 201
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 3561,
+          "unique_users": 404
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 688,
+          "unique_users": 156
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1290,
+          "unique_users": 176
+        }
+      ]
+    },
+    {
+      "date": "2025-11-29",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 83,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 407,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 449,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 68,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 134,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 576,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 744,
+          "unique_users": 212
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 710,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 292,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1588,
+          "unique_users": 198
+        }
+      ]
+    }
+  ]
+}

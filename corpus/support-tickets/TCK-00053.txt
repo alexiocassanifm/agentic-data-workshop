@@ -1,0 +1,15 @@
+Ticket ID: TCK-00053
+Customer ID: CUST-0114
+Contact: Nadia Van der Berg
+Priority: Low
+Status: Open
+Created: 2025-05-06
+
+Subject: Mobile app shows outdated data
+
+Hi team,
+
+A feature I use constantly on desktop doesn't seem to exist at all on mobile. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. A few other people on our team have confirmed they're seeing the same thing on their phones. Would help to know if a fix is already in progress.
+
+Thank you,
+Nadia

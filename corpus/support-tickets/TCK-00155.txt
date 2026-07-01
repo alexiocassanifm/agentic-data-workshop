@@ -1,0 +1,15 @@
+Ticket ID: TCK-00155
+Customer ID: CUST-0144
+Contact: Marco Taylor
+Priority: High
+Status: Resolved
+Created: 2025-06-13
+
+Subject: Automation workflows are lagging behind
+
+Hey there,
+
+A few of us have noticed things feel sluggish since the start of this week. This is starting to affect how quickly our team can respond to things during the day. It seems worse between about 9 and 11am, which is when most of our team logs in. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Thank you,
+Marco

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00384
+Customer ID: CUST-0147
+Contact: Susan Abara
+Priority: Medium
+Status: Resolved
+Created: 2024-06-07
+
+Subject: Can we get a corrected invoice?
+
+Hey there,
+
+Sorry to be that customer, but the numbers on this invoice really don't add up. Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. The contract states 44 seats at the agreed rate, but the invoice shows a higher seat count. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Best regards,
+Susan

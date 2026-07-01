@@ -1,0 +1,15 @@
+Ticket ID: TCK-00408
+Customer ID: CUST-0014
+Contact: Adam Whitfield
+Priority: Medium
+Status: Resolved
+Created: 2025-10-28
+
+Subject: Not sure how to restrict access for new users
+
+Hi support team,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. It's unclear whether permission changes apply immediately or need the user to log out and back in. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Thanks a lot,
+Adam

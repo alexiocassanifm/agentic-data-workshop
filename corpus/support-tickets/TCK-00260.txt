@@ -1,0 +1,15 @@
+Ticket ID: TCK-00260
+Customer ID: CUST-0040
+Contact: Steven Miller
+Priority: High
+Status: Waiting on Customer
+Created: 2024-06-20
+
+Subject: Notifications not showing up on mobile
+
+Hi support team,
+
+Trying to attach a file from my phone just fails with no real error message. A few other people on our team have confirmed they're seeing the same thing on their phones. Thanks for looking into it.
+
+Best regards,
+Steven

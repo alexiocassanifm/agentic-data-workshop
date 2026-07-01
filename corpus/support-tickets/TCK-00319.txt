@@ -1,0 +1,15 @@
+Ticket ID: TCK-00319
+Customer ID: CUST-0026
+Contact: Ronald Garcia
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-03-31
+
+Subject: Okta integration throwing errors on login
+
+Hey there,
+
+We're seeing a strange issue where SSO logs users in and then immediately kicks them back out. Our IT admin double-checked the SAML metadata and it matches what's on file, so we're stuck on where else to look. Let us know what logs or details would help you debug this.
+
+Thanks a lot,
+Ronald

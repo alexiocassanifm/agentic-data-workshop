@@ -1,0 +1,15 @@
+Ticket ID: TCK-00426
+Customer ID: CUST-0112
+Contact: Michelle Gonzalez
+Priority: Urgent
+Status: In Progress
+Created: 2025-05-23
+
+Subject: Slow load times during business hours
+
+Hello,
+
+The dashboard has been noticeably slower for the past few days. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. Larger views, like the one with our full customer list, time out entirely rather than just being slow. This is becoming a real drag on our day-to-day, so we'd appreciate a look.
+
+Thanks,
+Michelle

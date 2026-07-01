@@ -1,0 +1,7 @@
+Account: CUST-0052 - Thistle Connect
+Contact: James Brown (VP of Customer Experience)
+Account Executive: Owen Berg
+Date: 2025-05-19
+Type: QBR
+
+James raised a frustration that is there a way to see our current API usage against the limit? We keep getting throttled. Apparently the error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. Not a deal-breaker for them yet, but it's the kind of thing that could add up if it keeps happening.

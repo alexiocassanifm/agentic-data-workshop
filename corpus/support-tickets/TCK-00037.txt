@@ -1,0 +1,15 @@
+Ticket ID: TCK-00037
+Customer ID: CUST-0023
+Contact: Robert Mensah
+Priority: Urgent
+Status: Resolved
+Created: 2024-10-04
+
+Subject: Question about data residency for EU customers
+
+Hello,
+
+Our procurement team sent over a security questionnaire that we need help answering. The questionnaire also asks about your incident response process and average time to notify customers of an incident. We need to confirm password policy options and whether SSO can be made mandatory for all users on our account. Happy to fill out any standard forms you have rather than a custom questionnaire, whichever is easier.
+
+Regards,
+Robert

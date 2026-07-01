@@ -1,0 +1,15 @@
+Ticket ID: TCK-00005
+Customer ID: CUST-0150
+Contact: Fatima Mensah
+Priority: Medium
+Status: Closed
+Created: 2025-07-26
+
+Subject: CSV export is missing rows
+
+Hey there,
+
+The export we downloaded has a bunch of duplicate rows in it. It looks like records that were updated recently show up twice, once with old values and once with new. Company names with accented characters, like some of our European customers, come out looking like mojibake in the CSV. Happy to send the file we downloaded if it helps you reproduce it.
+
+Best,
+Fatima

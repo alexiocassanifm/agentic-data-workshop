@@ -1,0 +1,10 @@
+From: Devon Marsh <devon.marsh@larkspurflow.com>
+To: Nadia Moore <nadia.moore@alder-mercantile.com>
+Subject: A few setup tips for your team
+Date: 2025-06-25
+
+Quick note on setup: if you haven't connected your integrations yet (Salesforce and Slack are the most common), now's a good time. It tends to make the first few weeks much smoother once notifications and data sync are flowing automatically.
+
+Best,
+Devon
+Customer Success, Larkspur Flow

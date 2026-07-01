@@ -1,0 +1,15 @@
+Ticket ID: TCK-00240
+Customer ID: CUST-0022
+Contact: David Gonzalez
+Priority: Urgent
+Status: Open
+Created: 2025-10-29
+
+Subject: Exported file has garbled characters
+
+To the Larkspur Flow team,
+
+The export has been stuck 'processing' for over twenty minutes now. Company names with accented characters, like some of our European customers, come out looking like mojibake in the CSV. Could someone check what's happening with larger exports?
+
+Regards,
+David

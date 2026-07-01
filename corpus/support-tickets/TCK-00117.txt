@@ -1,0 +1,15 @@
+Ticket ID: TCK-00117
+Customer ID: CUST-0060
+Contact: Mary Ellery
+Priority: Medium
+Status: Resolved
+Created: 2024-05-31
+
+Subject: Question about encryption at rest
+
+To the Larkspur Flow team,
+
+Our procurement team sent over a security questionnaire that we need help answering. One of our regulated customers specifically asked about sub-processors, so a current list would help. Specifically we need to know if EU customer data stays within the EU or if it's processed elsewhere. We need to confirm password policy options and whether SSO can be made mandatory for all users on our account. Let us know what's the best way to get these documents.
+
+Best regards,
+Mary

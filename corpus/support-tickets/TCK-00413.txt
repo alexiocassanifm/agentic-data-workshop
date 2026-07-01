@@ -1,0 +1,15 @@
+Ticket ID: TCK-00413
+Customer ID: CUST-0131
+Contact: Leila Anderson
+Priority: Urgent
+Status: Resolved
+Created: 2025-11-02
+
+Subject: Invoice amount doesn't match our contract
+
+Hello,
+
+Our finance team flagged an odd charge on the statement from this week. The proration credit for our recent change doesn't appear anywhere on the statement. Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. Happy to send over the contract for reference if that helps sort it out.
+
+Thanks a lot,
+Leila

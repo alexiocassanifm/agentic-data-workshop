@@ -1,0 +1,15 @@
+Ticket ID: TCK-00101
+Customer ID: CUST-0076
+Contact: Nadia Moore
+Priority: High
+Status: Closed
+Created: 2025-07-28
+
+Subject: Webhook stopped firing
+
+Hi support team,
+
+After the last sync, we ended up with duplicate records in Salesforce. The sync log shows a 'success' status even on the days when nothing actually changed, which is confusing. It's possible this started right around your last product update, though we can't say for certain. This integration is pretty central to how our product team works, so the gap has been noticed internally. We'd like to avoid more duplicates piling up in Salesforce, so a quick look would help.
+
+Thanks,
+Nadia

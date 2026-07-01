@@ -1,0 +1,15 @@
+Ticket ID: TCK-00007
+Customer ID: CUST-0075
+Contact: Susan Novak
+Priority: Medium
+Status: Resolved
+Created: 2024-09-14
+
+Subject: Can we get scheduled report emails?
+
+Hello,
+
+Not a bug, more of a feature request around analytics. It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Is this something on the roadmap, or a configuration we're missing?
+
+Thanks,
+Susan

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00032
+Customer ID: CUST-0018
+Contact: Grace Hill
+Priority: High
+Status: Open
+Created: 2024-05-03
+
+Subject: Security questionnaire from our procurement team
+
+Hello,
+
+We need to confirm where our data is physically hosted for a compliance requirement. We need to confirm password policy options and whether SSO can be made mandatory for all users on our account. Does the platform support exporting an audit log of who accessed or changed what, and for how long is that retained? Could someone from your security or compliance team help with this?
+
+Best,
+Grace

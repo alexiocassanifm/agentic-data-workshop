@@ -1,0 +1,15 @@
+Ticket ID: TCK-00281
+Customer ID: CUST-0101
+Contact: Brian Baker
+Priority: Medium
+Status: Open
+Created: 2025-03-03
+
+Subject: Team member can see accounts they shouldn't
+
+Hi,
+
+I tried removing someone's admin access and it doesn't seem to have taken effect. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. Happy to hop on a call if it's easier to explain live.
+
+Appreciate the help,
+Brian

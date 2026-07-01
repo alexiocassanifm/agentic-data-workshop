@@ -1,0 +1,15 @@
+Ticket ID: TCK-00153
+Customer ID: CUST-0092
+Contact: Nadia Thomas
+Priority: Medium
+Status: Resolved
+Created: 2025-06-26
+
+Subject: Getting 429 errors from the API
+
+Hey there,
+
+Our engineering team asked me to reach out about API throttling, it's affecting a customer-facing feature on our end. We're on the Enterprise plan, is the rate limit tied to plan tier, and if so is there a way to raise it? Happy to share request logs if that helps you investigate.
+
+Best,
+Nadia

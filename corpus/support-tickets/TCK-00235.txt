@@ -1,0 +1,15 @@
+Ticket ID: TCK-00235
+Customer ID: CUST-0003
+Contact: Wei Lewis
+Priority: Medium
+Status: Waiting on Customer
+Created: 2024-12-11
+
+Subject: Notifications not showing up on mobile
+
+Hey there,
+
+A feature I use constantly on desktop doesn't seem to exist at all on mobile. The upload bar fills up and then just resets back to zero with no error shown. Happy to send a screen recording if that's useful.
+
+Regards,
+Wei

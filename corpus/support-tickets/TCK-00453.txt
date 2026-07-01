@@ -1,0 +1,15 @@
+Ticket ID: TCK-00453
+Customer ID: CUST-0143
+Contact: Naomi Allen
+Priority: High
+Status: Resolved
+Created: 2025-01-25
+
+Subject: Question about a line item on our latest invoice
+
+Hello,
+
+Sorry to be that customer, but the numbers on this invoice really don't add up. The proration credit for our recent change doesn't appear anywhere on the statement. Let me know if you need anything else from our side to fix this.
+
+Best regards,
+Naomi

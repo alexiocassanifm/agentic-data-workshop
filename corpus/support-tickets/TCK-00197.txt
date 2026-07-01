@@ -1,0 +1,15 @@
+Ticket ID: TCK-00197
+Customer ID: CUST-0032
+Contact: Victor Thomas
+Priority: High
+Status: Resolved
+Created: 2022-12-23
+
+Subject: Two-factor prompt loops after SSO
+
+Hey there,
+
+We're seeing a strange issue where SSO logs users in and then immediately kicks them back out. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. Let us know what logs or details would help you debug this.
+
+Regards,
+Victor

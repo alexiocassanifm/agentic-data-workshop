@@ -1,0 +1,15 @@
+Ticket ID: TCK-00417
+Customer ID: CUST-0090
+Contact: Linda Dubois
+Priority: High
+Status: Resolved
+Created: 2023-11-17
+
+Subject: Can we get scheduled report emails?
+
+Hello,
+
+Our leadership team asked for a metric that doesn't seem to exist in the current reporting. A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. Happy to jump on a call to explain exactly what we're trying to build.
+
+Thanks,
+Linda

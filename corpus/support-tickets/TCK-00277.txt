@@ -1,0 +1,15 @@
+Ticket ID: TCK-00277
+Customer ID: CUST-0074
+Contact: Joseph Abara
+Priority: Low
+Status: Waiting on Customer
+Created: 2025-06-06
+
+Subject: Confused about which plan features we actually have
+
+Hi folks,
+
+Honestly, the onboarding flow has been a bit confusing so far. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. Any help getting unstuck here would be appreciated.
+
+Thank you,
+Joseph

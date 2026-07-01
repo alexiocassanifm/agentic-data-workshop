@@ -1,0 +1,15 @@
+Ticket ID: TCK-00308
+Customer ID: CUST-0029
+Contact: Freya Bakker
+Priority: Medium
+Status: Open
+Created: 2023-05-08
+
+Subject: Thinking about pausing our subscription
+
+Hello,
+
+Honestly, adoption on our side has dropped off and I'm not sure the subscription is worth it anymore. A few of the issues we've raised over the past few months, especially around performance and reporting, haven't fully been resolved yet. Would appreciate a conversation with our account team before we decide anything.
+
+Best,
+Freya

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00362
+Customer ID: CUST-0035
+Contact: Melissa Allen
+Priority: Urgent
+Status: Open
+Created: 2025-07-19
+
+Subject: Exported file has garbled characters
+
+Hello,
+
+When I export our data to CSV, a chunk of records seem to be missing from the file. We've tried this in two different browsers with the same result. Thanks for taking a look.
+
+Thanks,
+Melissa

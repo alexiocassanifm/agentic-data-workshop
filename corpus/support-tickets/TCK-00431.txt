@@ -1,0 +1,15 @@
+Ticket ID: TCK-00431
+Customer ID: CUST-0149
+Contact: Tomas Hernandez
+Priority: High
+Status: Open
+Created: 2025-01-19
+
+Subject: Okta integration throwing errors on login
+
+Hi folks,
+
+Since this morning, none of our team can get past the login screen. Clearing cookies fixes it temporarily but it comes back within a day. This is blocking our engineering team from getting into the account at all, which is not great timing. Any chance this is a known issue today? Happy to hop on a call if that's faster.
+
+Best regards,
+Tomas

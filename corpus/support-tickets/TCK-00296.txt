@@ -1,0 +1,15 @@
+Ticket ID: TCK-00296
+Customer ID: CUST-0168
+Contact: Fatima Harris
+Priority: High
+Status: Resolved
+Created: 2023-04-12
+
+Subject: Thinking about pausing our subscription
+
+Hi support team,
+
+We've been evaluating a couple of alternatives and wanted to flag that before our renewal comes up. Only a handful of people on our team log in regularly anymore, compared to nearly everyone in the first few months. We're not trying to be difficult, just being transparent that the renewal isn't a given right now. Our new head of operations wants to reevaluate all our tools this year, so nothing is guaranteed at this point. If there's anything that could change the picture, now would be the time.
+
+Thanks,
+Fatima

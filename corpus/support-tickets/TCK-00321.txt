@@ -1,0 +1,15 @@
+Ticket ID: TCK-00321
+Customer ID: CUST-0168
+Contact: Noah Scott
+Priority: Low
+Status: Open
+Created: 2025-06-18
+
+Subject: Need help finishing setup before our internal kickoff
+
+Hi team,
+
+We just signed up and aren't totally sure where to start. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. Could someone point us to a guide, or better yet hop on a short call?
+
+Thank you,
+Noah

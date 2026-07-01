@@ -1,0 +1,15 @@
+Ticket ID: TCK-00480
+Customer ID: CUST-0033
+Contact: Richard Rivera
+Priority: Low
+Status: In Progress
+Created: 2024-02-08
+
+Subject: Requesting information on how to cancel
+
+Hey there,
+
+I wanted to be upfront that we're reconsidering whether to renew next quarter. Only a handful of people on our team log in regularly anymore, compared to nearly everyone in the first few months. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. We're not trying to be difficult, just being transparent that the renewal isn't a given right now. Not trying to force a discount, just want to make an informed decision.
+
+Best,
+Richard

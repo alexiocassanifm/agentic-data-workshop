@@ -1,0 +1,15 @@
+Ticket ID: TCK-00330
+Customer ID: CUST-0141
+Contact: Rahul Smith
+Priority: Low
+Status: In Progress
+Created: 2025-04-28
+
+Subject: Question about encryption at rest
+
+Hi team,
+
+Our security team is doing an annual review of vendors and has a few questions. Our legal team wants to see the data processing agreement, if there's an updated version available. One of our regulated customers specifically asked about sub-processors, so a current list would help. We're on a bit of a deadline with our own audit, so a quick turnaround would help.
+
+Regards,
+Rahul

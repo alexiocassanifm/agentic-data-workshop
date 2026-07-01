@@ -1,0 +1,15 @@
+Ticket ID: TCK-00109
+Customer ID: CUST-0054
+Contact: Jessica Lewis
+Priority: Urgent
+Status: Open
+Created: 2024-03-19
+
+Subject: Mobile app shows outdated data
+
+Hey there,
+
+I can log in fine on desktop but the mobile app just spins on the login screen. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. Any known issue with the current app version?
+
+Appreciate the help,
+Jessica

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00276
+Customer ID: CUST-0104
+Contact: Isabella Eriksson
+Priority: Low
+Status: In Progress
+Created: 2025-09-14
+
+Subject: Question about a line item on our latest invoice
+
+Hi team,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. Could someone from billing take a look and send a corrected invoice if needed?
+
+Thank you,
+Isabella

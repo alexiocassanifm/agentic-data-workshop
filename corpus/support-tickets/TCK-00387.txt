@@ -1,0 +1,15 @@
+Ticket ID: TCK-00387
+Customer ID: CUST-0044
+Contact: Charles Young
+Priority: Medium
+Status: In Progress
+Created: 2024-06-10
+
+Subject: Automation workflows are lagging behind
+
+Hi team,
+
+We're seeing pages take ten seconds or more to load, especially first thing in the morning. Support tickets and dashboard views both feel affected, not just one part of the product. Thanks for checking into it.
+
+Appreciate the help,
+Charles

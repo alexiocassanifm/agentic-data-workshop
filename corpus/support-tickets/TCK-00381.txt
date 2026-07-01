@@ -1,0 +1,15 @@
+Ticket ID: TCK-00381
+Customer ID: CUST-0082
+Contact: Yuki Costa
+Priority: Medium
+Status: Open
+Created: 2023-11-27
+
+Subject: Getting 429 errors from the API
+
+Hi folks,
+
+Our nightly batch job that pulls records via the API has started failing partway through. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. This is starting to affect a feature our own customers rely on, so we'd like to resolve it quickly.
+
+Best,
+Yuki

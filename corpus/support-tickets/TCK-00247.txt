@@ -1,0 +1,15 @@
+Ticket ID: TCK-00247
+Customer ID: CUST-0100
+Contact: Ravi King
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-11-18
+
+Subject: Not seeing the value we expected
+
+Hey there,
+
+Our team has mostly moved back to spreadsheets for this, which isn't a great sign. Budget has tightened this year and we're being asked to justify every recurring cost, and usage on our side hasn't been strong enough to make an easy case. If there's anything that could change the picture, now would be the time.
+
+Thank you,
+Ravi

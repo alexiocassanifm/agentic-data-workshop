@@ -1,0 +1,2070 @@
+{
+  "customer_id": "CUST-0087",
+  "plan_tier": "Growth",
+  "usage_period": {
+    "start_date": "2025-08-27",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-08-27",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 314,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 850,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 679,
+          "unique_users": 122
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 521,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 224,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 494,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 305,
+          "unique_users": 92
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 924,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 286,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 68,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 320,
+          "unique_users": 111
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 242,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 349,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 739,
+          "unique_users": 102
+        }
+      ]
+    },
+    {
+      "date": "2025-08-31",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 27,
+          "unique_users": 9
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 38,
+          "unique_users": 9
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 38,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 251,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 109,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 19,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 116,
+          "unique_users": 24
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 667,
+          "unique_users": 102
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 64,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1064,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 429,
+          "unique_users": 53
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 468,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 229,
+          "unique_users": 48
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 72,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 821,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1008,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 920,
+          "unique_users": 113
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 80,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 124,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 434,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 303,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 108,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 265,
+          "unique_users": 39
+        }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 560,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 56,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 733,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 183,
+          "unique_users": 65
+        }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 403,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 101,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 955,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 829,
+          "unique_users": 101
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 136,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 241,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 614,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1117,
+          "unique_users": 127
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 356,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 190,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1105,
+          "unique_users": 124
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 105,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 676,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 304,
+          "unique_users": 122
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 584,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 81,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2025-09-13",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 69,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 118,
+          "unique_users": 19
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 709,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 213,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 560,
+          "unique_users": 98
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 83,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 700,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 500,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 366,
+          "unique_users": 67
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 46,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 553,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 140,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 813,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 441,
+          "unique_users": 83
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 184,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 941,
+          "unique_users": 119
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 419,
+          "unique_users": 63
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 602,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 75,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 745,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 424,
+          "unique_users": 83
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 465,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 133,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 110,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 780,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 46,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 284,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 86,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 243,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 225,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 101,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 363,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 326,
+          "unique_users": 49
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 147,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 277,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 85,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 419,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 355,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 293,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 115,
+          "unique_users": 55
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 880,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 310,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 79,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 159,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 165,
+          "unique_users": 22
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 550,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 457,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 342,
+          "unique_users": 74
+        }
+      ]
+    },
+    {
+      "date": "2025-09-27",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 94,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 142,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 154,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 38,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 283,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 47,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 478,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 279,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 356,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 179,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 119,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 696,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 156,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 891,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 725,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1000,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 192,
+          "unique_users": 106
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 551,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 196,
+          "unique_users": 29
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 529,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 234,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 241,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 232,
+          "unique_users": 30
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 186,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 196,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 85,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 439,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 138,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-10-04",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 113,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 129,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 98,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 39,
+          "unique_users": 12
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 235,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 131,
+          "unique_users": 44
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 435,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 449,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 96,
+          "unique_users": 13
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 67,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 633,
+          "unique_users": 88
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 977,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 167,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 265,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 220,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1010,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 184,
+          "unique_users": 66
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 569,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 530,
+          "unique_users": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 73,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 221,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 355,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 232,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 722,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 598,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 863,
+          "unique_users": 124
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 256,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 697,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 411,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 745,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 191,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 639,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 783,
+          "unique_users": 90
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 382,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 333,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 299,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 509,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 577,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 341,
+          "unique_users": 45
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 923,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 269,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 699,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 158,
+          "unique_users": 88
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 106,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 292,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 453,
+          "unique_users": 120
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 513,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 532,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 283,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 634,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 30,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 237,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 116,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 62,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 298,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 564,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 687,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 508,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 88,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 159,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 79,
+          "unique_users": 45
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 109,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 242,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 559,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 257,
+          "unique_users": 38
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 612,
+          "unique_users": 128
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 97,
+          "unique_users": 11
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 427,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 55,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 40,
+          "unique_users": 22
+        }
+      ]
+    },
+    {
+      "date": "2025-10-25",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 75,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 64,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 163,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 68,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 153,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 46,
+          "unique_users": 6
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 425,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 98,
+          "unique_users": 13
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 110,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 309,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 130,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 669,
+          "unique_users": 97
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 145,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 47,
+          "unique_users": 11
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 370,
+          "unique_users": 119
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 219,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 130,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 549,
+          "unique_users": 119
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 622,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1017,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 283,
+          "unique_users": 80
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 347,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 754,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 597,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 164,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 165,
+          "unique_users": 65
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 289,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 200,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 550,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 156,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 271,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 698,
+          "unique_users": 85
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 32,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 263,
+          "unique_users": 57
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 646,
+          "unique_users": 72
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 871,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 154,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 197,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 115,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 96,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 33,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 254,
+          "unique_users": 71
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 801,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 521,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 60,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 439,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 306,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 689,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 127,
+          "unique_users": 25
+        }
+      ]
+    },
+    {
+      "date": "2025-11-09",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 30,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 369,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 60,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 167,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 187,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 75,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 134,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 353,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 403,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 321,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 491,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 927,
+          "unique_users": 113
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 141,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 305,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 477,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 55,
+          "unique_users": 12
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 410,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 56,
+          "unique_users": 31
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 352,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 327,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 363,
+          "unique_users": 42
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 399,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 375,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 608,
+          "unique_users": 91
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 130,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 224,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 400,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 101,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 67,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 63,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 33,
+          "unique_users": 10
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 307,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 64,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 660,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 838,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 301,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 707,
+          "unique_users": 117
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 241,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 206,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 852,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 891,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 500,
+          "unique_users": 106
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 593,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 292,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 420,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 551,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 280,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 185,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 140,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 975,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 242,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 112,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 367,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 136,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 857,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 884,
+          "unique_users": 102
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 79,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 341,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 756,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 427,
+          "unique_users": 74
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 318,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 60,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 655,
+          "unique_users": 128
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 314,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 168,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 278,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 55,
+          "unique_users": 24
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 633,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 295,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 59,
+          "unique_users": 20
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 297,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 393,
+          "unique_users": 70
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 174,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 231,
+          "unique_users": 98
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 624,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 298,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 241,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 96,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 313,
+          "unique_users": 88
+        }
+      ]
+    },
+    {
+      "date": "2025-11-29",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 315,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 53,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 28,
+          "unique_users": 15
+        }
+      ]
+    }
+  ]
+}

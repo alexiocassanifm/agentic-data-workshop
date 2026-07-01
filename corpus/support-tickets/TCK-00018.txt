@@ -1,0 +1,15 @@
+Ticket ID: TCK-00018
+Customer ID: CUST-0176
+Contact: Wei Mensah
+Priority: High
+Status: Open
+Created: 2024-02-27
+
+Subject: Automation workflows are lagging behind
+
+Hi support team,
+
+Not sure if this is just us, but performance has taken a real hit recently. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. Is there a known performance issue right now, or something on our account causing it?
+
+Best regards,
+Wei

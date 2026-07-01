@@ -1,0 +1,15 @@
+Ticket ID: TCK-00102
+Customer ID: CUST-0137
+Contact: Patricia Lee
+Priority: Medium
+Status: In Progress
+Created: 2025-07-27
+
+Subject: Integration shows connected but nothing is syncing
+
+Hi folks,
+
+After the last sync, we ended up with duplicate records in Salesforce. We noticed about 12 duplicate contact records that seem to have been created during last Tuesday's sync. We double-checked the Salesforce connection and the API user still has the right permissions on their side. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. Let us know what logs would be useful for you to see.
+
+Thanks a lot,
+Patricia

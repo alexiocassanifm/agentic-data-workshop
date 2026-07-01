@@ -1,0 +1,15 @@
+Ticket ID: TCK-00482
+Customer ID: CUST-0047
+Contact: Ronald Ramirez
+Priority: Medium
+Status: In Progress
+Created: 2025-08-08
+
+Subject: Proration on our upgrade doesn't add up
+
+Hi folks,
+
+Someone in accounting asked me to follow up about a discrepancy on our latest bill. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. Could someone from billing take a look and send a corrected invoice if needed?
+
+Best,
+Ronald

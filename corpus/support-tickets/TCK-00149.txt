@@ -1,0 +1,15 @@
+Ticket ID: TCK-00149
+Customer ID: CUST-0147
+Contact: Mohammed Hernandez
+Priority: Medium
+Status: Resolved
+Created: 2025-08-28
+
+Subject: Exported file has garbled characters
+
+To the Larkspur Flow team,
+
+Something's wrong with the encoding on our exports, names with accents show up as garbage characters. This only seems to happen with the larger exports, anything under about 40 thousand rows comes through fine. Happy to send the file we downloaded if it helps you reproduce it.
+
+Thank you,
+Mohammed

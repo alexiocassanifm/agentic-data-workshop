@@ -1,0 +1,15 @@
+Ticket ID: TCK-00472
+Customer ID: CUST-0137
+Contact: Jessica Patel
+Priority: Low
+Status: In Progress
+Created: 2025-08-02
+
+Subject: Initial data import is more complicated than expected
+
+Hi support team,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. We have about 18 people to add and doing it one at a time doesn't seem practical. Thanks, we're excited to get going once we're past this part.
+
+Appreciate the help,
+Jessica

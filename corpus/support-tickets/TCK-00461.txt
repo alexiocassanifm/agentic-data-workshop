@@ -1,0 +1,15 @@
+Ticket ID: TCK-00461
+Customer ID: CUST-0109
+Contact: Sarah Larsen
+Priority: High
+Status: Resolved
+Created: 2023-11-23
+
+Subject: Initial data import is more complicated than expected
+
+Hi support team,
+
+We're trying to get everything ready before our internal kickoff next week and running into a few snags. It would help to have a clearer sense of what's included in our plan versus what needs an upgrade. Thanks, we're excited to get going once we're past this part.
+
+Appreciate the help,
+Sarah

@@ -1,0 +1,7 @@
+Account: CUST-0049 - Silver Indemnity
+Contact: Emily Berg (VP of Operations)
+Account Executive: Tomás Farrow
+Date: 2025-02-13
+Type: Quarterly Check-in
+
+Emily brought up on the call that we'd really like the option to have reports emailed to us on a schedule instead of logging in to check. They said a few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. I told them I'd relay this to the support team and follow up once there's an update.

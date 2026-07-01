@@ -1,0 +1,15 @@
+Ticket ID: TCK-00069
+Customer ID: CUST-0106
+Contact: Paul Osei
+Priority: Medium
+Status: Closed
+Created: 2025-09-09
+
+Subject: Pages taking 10+ seconds to load
+
+To the Larkspur Flow team,
+
+Loading anything with a lot of records has become painfully slow. A workflow that used to run within a few minutes is now taking closer to 48 minutes to complete. Larger views, like the one with our full customer list, time out entirely rather than just being slow. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Best regards,
+Paul

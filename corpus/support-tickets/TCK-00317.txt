@@ -1,0 +1,15 @@
+Ticket ID: TCK-00317
+Customer ID: CUST-0081
+Contact: Matthew Gonzalez
+Priority: Medium
+Status: In Progress
+Created: 2024-10-09
+
+Subject: API calls failing during peak hours
+
+Hi support team,
+
+Is there a way to see our current API usage against the limit? We keep getting throttled. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. We're on the Enterprise plan, is the rate limit tied to plan tier, and if so is there a way to raise it? We're making roughly 5 requests per minute during our sync window, which used to work fine a month ago. Thanks for looking into this.
+
+Appreciate the help,
+Matthew

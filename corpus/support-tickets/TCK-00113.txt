@@ -1,0 +1,15 @@
+Ticket ID: TCK-00113
+Customer ID: CUST-0066
+Contact: Carol Scott
+Priority: High
+Status: Resolved
+Created: 2025-11-01
+
+Subject: Can't figure out how to remove someone's admin access
+
+To the Larkspur Flow team,
+
+We have an external auditor who needs read-only access for a couple of weeks. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. Could you walk us through how roles and permissions are meant to work?
+
+Best,
+Carol

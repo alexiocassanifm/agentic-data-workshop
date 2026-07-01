@@ -1,0 +1,15 @@
+Ticket ID: TCK-00459
+Customer ID: CUST-0145
+Contact: Margaret Fischer
+Priority: High
+Status: Closed
+Created: 2024-06-27
+
+Subject: Slow load times during business hours
+
+Hello,
+
+Loading anything with a lot of records has become painfully slow. We've tried different browsers and different machines, so it doesn't seem to be on our end. A workflow that used to run within a few minutes is now taking closer to 10 minutes to complete. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Best,
+Margaret

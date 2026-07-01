@@ -1,0 +1,15 @@
+Ticket ID: TCK-00496
+Customer ID: CUST-0088
+Contact: Lisa Moore
+Priority: Urgent
+Status: Resolved
+Created: 2023-10-23
+
+Subject: Not seeing the value we expected
+
+Hello,
+
+Honestly, adoption on our side has dropped off and I'm not sure the subscription is worth it anymore. Our new head of operations wants to reevaluate all our tools this year, so nothing is guaranteed at this point. Thanks for understanding, and open to hearing from you before the renewal date.
+
+Thank you,
+Lisa

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00325
+Customer ID: CUST-0042
+Contact: Joseph Green
+Priority: Medium
+Status: Waiting on Customer
+Created: 2023-06-08
+
+Subject: Everything feels sluggish since Monday
+
+Hi,
+
+Loading anything with a lot of records has become painfully slow. We've tried different browsers and different machines, so it doesn't seem to be on our end. A workflow that used to run within a few minutes is now taking closer to 58 minutes to complete. Thanks for checking into it.
+
+Best,
+Joseph

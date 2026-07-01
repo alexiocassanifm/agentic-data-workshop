@@ -1,0 +1,15 @@
+Ticket ID: TCK-00401
+Customer ID: CUST-0050
+Contact: Leila Walker
+Priority: Medium
+Status: Resolved
+Created: 2025-11-18
+
+Subject: Stuck on step 3 of setup
+
+Hi folks,
+
+We just signed up and aren't totally sure where to start. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. We have about 38 people to add and doing it one at a time doesn't seem practical. Let us know the best next step.
+
+Thank you,
+Leila

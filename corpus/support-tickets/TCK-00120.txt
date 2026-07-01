@@ -1,0 +1,15 @@
+Ticket ID: TCK-00120
+Customer ID: CUST-0069
+Contact: Lisa Roberts
+Priority: Low
+Status: Waiting on Customer
+Created: 2025-04-24
+
+Subject: Initial data import is more complicated than expected
+
+To the Larkspur Flow team,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. We imported a test batch of records and some fields came through blank that had data in the source file. Thanks, we're excited to get going once we're past this part.
+
+Best regards,
+Lisa

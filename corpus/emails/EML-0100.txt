@@ -1,0 +1,10 @@
+From: Hannah Reyes <hannah.reyes@larkspurflow.com>
+To: Rahul Smith <rahul.smith@amber-goods.co.uk>
+Subject: A feature we think could help your team
+Date: 2023-05-14
+
+Wanted to flag something given how Amber Goods's usage has grown, it looks like you're approaching the limits of your current plan. Might be worth a quick conversation about whether the next tier up makes sense, there are a few features there, like custom reports and higher API limits, that could be a good fit.
+
+Best,
+Hannah
+Customer Success, Larkspur Flow

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00432
+Customer ID: CUST-0074
+Contact: Diego Garcia
+Priority: High
+Status: Waiting on Customer
+Created: 2025-10-21
+
+Subject: Exported file has garbled characters
+
+Hey there,
+
+Our weekly scheduled export didn't show up in the inbox this week. It looks like records that were updated recently show up twice, once with old values and once with new. This only seems to happen with the larger exports, anything under about 31 thousand rows comes through fine. Could someone check what's happening with larger exports?
+
+Thank you,
+Diego

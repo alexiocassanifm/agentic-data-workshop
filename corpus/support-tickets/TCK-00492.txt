@@ -1,0 +1,15 @@
+Ticket ID: TCK-00492
+Customer ID: CUST-0062
+Contact: Elizabeth Roberts
+Priority: High
+Status: Waiting on Customer
+Created: 2025-05-22
+
+Subject: Dashboard has been really slow this week
+
+Hello,
+
+A few of us have noticed things feel sluggish since the start of this week. Support tickets and dashboard views both feel affected, not just one part of the product. We've tried different browsers and different machines, so it doesn't seem to be on our end. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Appreciate the help,
+Elizabeth

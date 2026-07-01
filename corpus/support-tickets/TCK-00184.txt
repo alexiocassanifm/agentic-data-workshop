@@ -1,0 +1,15 @@
+Ticket ID: TCK-00184
+Customer ID: CUST-0006
+Contact: Nadia Torres
+Priority: High
+Status: Closed
+Created: 2024-05-14
+
+Subject: Duplicate records after Salesforce sync
+
+Hi folks,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. We double-checked the Salesforce connection and the API user still has the right permissions on their side. Thanks for digging in.
+
+Thank you,
+Nadia

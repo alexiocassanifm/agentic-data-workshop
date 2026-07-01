@@ -1,0 +1,15 @@
+Ticket ID: TCK-00157
+Customer ID: CUST-0039
+Contact: Mei Berg
+Priority: High
+Status: In Progress
+Created: 2024-02-01
+
+Subject: Can't figure out how to remove someone's admin access
+
+Hi team,
+
+We're trying to set up permissions so that only a few people have admin rights, and the options are a bit confusing. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Thanks a lot,
+Mei

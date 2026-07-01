@@ -1,0 +1,7 @@
+Account: CUST-0056 - Lakeshore Insurance
+Contact: Emily Adams (Director of IT Operations)
+Account Executive: Jamal Osei
+Date: 2024-10-16
+Type: QBR
+
+Quarterly touchpoint with Emily. Things are stable, team usage looks healthy, nothing urgent to report other than a general request to be kept in the loop on new feature releases.

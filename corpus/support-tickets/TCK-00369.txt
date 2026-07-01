@@ -1,0 +1,15 @@
+Ticket ID: TCK-00369
+Customer ID: CUST-0024
+Contact: Felix Nelson
+Priority: High
+Status: Open
+Created: 2025-03-30
+
+Subject: Not seeing the value we expected
+
+Hello,
+
+Before we make a final call on renewal, I wanted to raise a few concerns. We're not trying to be difficult, just being transparent that the renewal isn't a given right now. Let us know what options exist, whether that's addressing the issues or discussing pricing.
+
+Thanks,
+Felix

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00478
+Customer ID: CUST-0002
+Contact: Mark Nakamura
+Priority: Urgent
+Status: Resolved
+Created: 2024-12-12
+
+Subject: Timeouts when loading larger accounts
+
+Hello,
+
+The dashboard has been noticeably slower for the past few days. A workflow that used to run within a few minutes is now taking closer to 57 minutes to complete. It seems worse between about 9 and 11am, which is when most of our team logs in. Thanks for checking into it.
+
+Regards,
+Mark

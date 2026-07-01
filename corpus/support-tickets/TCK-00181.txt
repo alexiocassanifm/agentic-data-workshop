@@ -1,0 +1,15 @@
+Ticket ID: TCK-00181
+Customer ID: CUST-0084
+Contact: Mei Dubois
+Priority: Urgent
+Status: Resolved
+Created: 2025-10-28
+
+Subject: Can't export more than a few thousand records
+
+Hi folks,
+
+The export has been stuck 'processing' for over twenty minutes now. The export finished but when we open it in a spreadsheet tool, some columns are shifted, like a comma inside a field broke the formatting. Company names with accented characters, like some of our European customers, come out looking like mojibake in the CSV. Let us know if this is a known limitation or an actual bug.
+
+Best regards,
+Mei

@@ -1,0 +1,10 @@
+From: Grace Petrov <grace.petrov@larkspurflow.com>
+To: Tomas Smith <tomas.smith@iron-mercantile.com>
+Subject: Checking in on how things are going
+Date: 2025-05-01
+
+Checking in to see how things are going for Iron Mercantile. Sometimes a month in is when teams start hitting more advanced use cases, custom reports, deeper automation, that kind of thing. Let me know if there's anything you'd like help configuring.
+
+Best,
+Grace
+Customer Success, Larkspur Flow

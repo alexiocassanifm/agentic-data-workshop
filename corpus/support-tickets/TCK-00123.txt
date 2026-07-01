@@ -1,0 +1,15 @@
+Ticket ID: TCK-00123
+Customer ID: CUST-0084
+Contact: Isabella Rodriguez
+Priority: High
+Status: Resolved
+Created: 2025-09-02
+
+Subject: Missing a breakdown by region in reporting
+
+Hey there,
+
+Is there a way to build a custom report, or are we limited to the pre-built ones? A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Happy to jump on a call to explain exactly what we're trying to build.
+
+Appreciate the help,
+Isabella

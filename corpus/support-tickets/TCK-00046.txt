@@ -1,0 +1,15 @@
+Ticket ID: TCK-00046
+Customer ID: CUST-0006
+Contact: Nadia Torres
+Priority: High
+Status: Open
+Created: 2024-03-14
+
+Subject: Slack notifications aren't coming through
+
+Hi support team,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. This integration is pretty central to how our customer success team works, so the gap has been noticed internally. We'd like to avoid more duplicates piling up in Salesforce, so a quick look would help.
+
+Thanks a lot,
+Nadia

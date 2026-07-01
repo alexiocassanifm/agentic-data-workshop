@@ -1,0 +1,15 @@
+Ticket ID: TCK-00204
+Customer ID: CUST-0068
+Contact: Jessica Martinez
+Priority: High
+Status: Closed
+Created: 2024-11-24
+
+Subject: Need a higher rate limit for our integration
+
+Hello,
+
+We think we're hitting a rate limit, but the error message doesn't say what the actual limit is. Would it be possible to get documentation on the exact limits per endpoint? Right now we're guessing. Thanks for looking into this.
+
+Thanks a lot,
+Jessica

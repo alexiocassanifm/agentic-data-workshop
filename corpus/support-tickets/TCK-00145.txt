@@ -1,0 +1,15 @@
+Ticket ID: TCK-00145
+Customer ID: CUST-0159
+Contact: Susan Johnson
+Priority: Medium
+Status: In Progress
+Created: 2025-09-26
+
+Subject: Billing contact needs to be updated
+
+Hi team,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Best,
+Susan

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00199
+Customer ID: CUST-0049
+Contact: Lisa Johnson
+Priority: High
+Status: Resolved
+Created: 2023-06-16
+
+Subject: Would love a way to build custom reports
+
+Hi folks,
+
+Not a bug, more of a feature request around analytics. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. Thanks for considering it.
+
+Best,
+Lisa

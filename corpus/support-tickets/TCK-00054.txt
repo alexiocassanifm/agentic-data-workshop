@@ -1,0 +1,15 @@
+Ticket ID: TCK-00054
+Customer ID: CUST-0035
+Contact: Melissa Allen
+Priority: Medium
+Status: Resolved
+Created: 2025-01-24
+
+Subject: Users locked out after SSO change
+
+Hi team,
+
+Quick question about the SSO setup, is there a known issue today? Clearing cookies fixes it temporarily but it comes back within a day. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. Thanks in advance, this one's a bit urgent for us.
+
+Thanks,
+Melissa

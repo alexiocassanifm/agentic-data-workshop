@@ -1,0 +1,15 @@
+Ticket ID: TCK-00209
+Customer ID: CUST-0007
+Contact: Grace Whitfield
+Priority: Medium
+Status: Open
+Created: 2025-07-04
+
+Subject: Team member can see accounts they shouldn't
+
+Hi support team,
+
+We're trying to set up permissions so that only a few people have admin rights, and the options are a bit confusing. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. Thanks for the help.
+
+Best,
+Grace

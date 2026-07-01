@@ -1,0 +1,15 @@
+Ticket ID: TCK-00246
+Customer ID: CUST-0144
+Contact: Marco Taylor
+Priority: Medium
+Status: Resolved
+Created: 2023-08-31
+
+Subject: Slack channel missing daily summaries
+
+To the Larkspur Flow team,
+
+A webhook we rely on for a downstream process seems to have stopped firing. It's possible this started right around your last product update, though we can't say for certain. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thanks a lot,
+Marco

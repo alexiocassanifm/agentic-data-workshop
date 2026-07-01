@@ -1,0 +1,15 @@
+Ticket ID: TCK-00050
+Customer ID: CUST-0152
+Contact: Yuki Brown
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2022-09-09
+
+Subject: Can't log in via SSO this morning
+
+Hey there,
+
+Half of our team can log in fine, the other half gets stuck in a redirect loop. Clearing cookies fixes it temporarily but it comes back within a day. The error message we get is something like 'invalid SAML response' right after the redirect back from our identity provider. Let us know what logs or details would help you debug this.
+
+Thanks,
+Yuki

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00128
+Customer ID: CUST-0125
+Contact: Yuki Andersson
+Priority: Medium
+Status: In Progress
+Created: 2024-06-21
+
+Subject: Dashboard has been really slow this week
+
+Hi folks,
+
+The dashboard has been noticeably slower for the past few days. A workflow that used to run within a few minutes is now taking closer to 16 minutes to complete. Support tickets and dashboard views both feel affected, not just one part of the product. Larger views, like the one with our full customer list, time out entirely rather than just being slow. This is becoming a real drag on our day-to-day, so we'd appreciate a look.
+
+Thank you,
+Yuki

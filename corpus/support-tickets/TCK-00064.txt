@@ -1,0 +1,15 @@
+Ticket ID: TCK-00064
+Customer ID: CUST-0171
+Contact: Tomas Halvorsen
+Priority: Urgent
+Status: Open
+Created: 2025-06-28
+
+Subject: Getting 429 errors from the API
+
+Hello,
+
+We recently increased the frequency of our API calls and now we're seeing a lot of failures. We're making roughly 52 requests per minute during our sync window, which used to work fine a month ago. Let us know what our current limit actually is so we can plan around it.
+
+Best,
+Tomas

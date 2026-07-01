@@ -1,0 +1,15 @@
+Ticket ID: TCK-00397
+Customer ID: CUST-0038
+Contact: Melissa Halvorsen
+Priority: High
+Status: Waiting on Customer
+Created: 2024-03-29
+
+Subject: Need a higher rate limit for our integration
+
+Hello,
+
+Is there a way to see our current API usage against the limit? We keep getting throttled. This is affecting our Salesforce sync specifically, other endpoints seem fine. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. Would it be possible to get documentation on the exact limits per endpoint? Right now we're guessing. Any guidance on raising our limit, or on how to structure our calls better, would help a lot.
+
+Thanks,
+Melissa

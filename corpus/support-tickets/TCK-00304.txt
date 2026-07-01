@@ -1,0 +1,15 @@
+Ticket ID: TCK-00304
+Customer ID: CUST-0126
+Contact: Ashley Jones
+Priority: High
+Status: In Progress
+Created: 2023-05-21
+
+Subject: Can't export more than a few thousand records
+
+Hi support team,
+
+We tried exporting our full dataset and it just times out. It looks like records that were updated recently show up twice, once with old values and once with new. Company names with accented characters, like some of our European customers, come out looking like mojibake in the CSV. Happy to send the file we downloaded if it helps you reproduce it.
+
+Thanks,
+Ashley

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00070
+Customer ID: CUST-0001
+Contact: Chloe Hernandez
+Priority: Urgent
+Status: Resolved
+Created: 2025-02-17
+
+Subject: SAML login broken since the update
+
+To the Larkspur Flow team,
+
+Quick question about the SSO setup, is there a known issue today? The error message we get is something like 'invalid SAML response' right after the redirect back from our identity provider. This is blocking our support team from getting into the account at all, which is not great timing. Let us know what logs or details would help you debug this.
+
+Thank you,
+Chloe

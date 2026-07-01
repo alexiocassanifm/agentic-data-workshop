@@ -1,0 +1,15 @@
+Ticket ID: TCK-00010
+Customer ID: CUST-0058
+Contact: Sven Allen
+Priority: Medium
+Status: Resolved
+Created: 2024-02-26
+
+Subject: Mobile app shows outdated data
+
+Hi folks,
+
+The numbers I see on the mobile app don't match what's on the desktop dashboard. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. This is on the latest version of the app, on a phone that's about 34 months old, and it happens every single time, not intermittently. Thanks for looking into it.
+
+Best,
+Sven

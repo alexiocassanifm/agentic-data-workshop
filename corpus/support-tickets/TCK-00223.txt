@@ -1,0 +1,15 @@
+Ticket ID: TCK-00223
+Customer ID: CUST-0175
+Contact: Matthew Jones
+Priority: Low
+Status: Waiting on Customer
+Created: 2025-11-10
+
+Subject: Missing a breakdown by region in reporting
+
+To the Larkspur Flow team,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Happy to jump on a call to explain exactly what we're trying to build.
+
+Thank you,
+Matthew

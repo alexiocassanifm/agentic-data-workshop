@@ -1,0 +1,7 @@
+Account: CUST-0008 - Driftwood Partners
+Contact: Sarah Williams (Procurement Manager)
+Account Executive: Naomi Abara
+Date: 2024-12-05
+Type: Discovery Call
+
+Sarah raised a frustration that our team used to get a daily summary posted in Slack and it just stopped showing up. Apparently the sync log shows a 'success' status even on the days when nothing actually changed, which is confusing. Wanted to make sure this doesn't become a renewal talking point later, so flagging it now.

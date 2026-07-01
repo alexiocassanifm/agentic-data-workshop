@@ -1,0 +1,15 @@
+Ticket ID: TCK-00033
+Customer ID: CUST-0022
+Contact: David Gonzalez
+Priority: Medium
+Status: In Progress
+Created: 2024-01-24
+
+Subject: Analytics feels limited compared to what we need
+
+Hi folks,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Is this something on the roadmap, or a configuration we're missing?
+
+Thank you,
+David

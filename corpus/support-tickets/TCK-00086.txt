@@ -1,0 +1,15 @@
+Ticket ID: TCK-00086
+Customer ID: CUST-0045
+Contact: Oscar Walker
+Priority: Medium
+Status: Resolved
+Created: 2025-06-07
+
+Subject: Confused about role-based permissions
+
+Hi,
+
+We changed a permission setting a few days ago and it doesn't seem to be respected anywhere. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. Could you walk us through how roles and permissions are meant to work?
+
+Thank you,
+Oscar

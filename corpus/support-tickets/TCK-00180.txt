@@ -1,0 +1,15 @@
+Ticket ID: TCK-00180
+Customer ID: CUST-0043
+Contact: Sarah Flores
+Priority: Low
+Status: Waiting on Customer
+Created: 2024-09-15
+
+Subject: Where is our data hosted?
+
+Hi folks,
+
+We're being asked by one of our own customers to confirm a few things about how you handle data. One of our regulated customers specifically asked about sub-processors, so a current list would help. Could someone from your security or compliance team help with this?
+
+Thanks a lot,
+Sarah

@@ -1,0 +1,7 @@
+Account: CUST-0138 - Marsh Studios
+Contact: Amara Green (Compliance Officer)
+Account Executive: Isabella Conti
+Date: 2022-12-19
+Type: Ad-hoc Call
+
+During the call, Amara flagged that i'm not sure if this is on our end or yours, but SSO stopped working for everyone right after your last release. Their take was that our it admin double-checked the saml metadata and it matches what's on file, so we're stuck on where else to look. I've opened a ticket on their behalf and promised a follow-up this week.

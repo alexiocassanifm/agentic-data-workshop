@@ -1,0 +1,15 @@
+Ticket ID: TCK-00195
+Customer ID: CUST-0079
+Contact: Paul Singh
+Priority: Urgent
+Status: Resolved
+Created: 2025-08-26
+
+Subject: Proration on our upgrade doesn't add up
+
+To the Larkspur Flow team,
+
+It looks like we were billed twice for this month, can someone confirm? The proration credit for our recent change doesn't appear anywhere on the statement. Let me know if you need anything else from our side to fix this.
+
+Best regards,
+Paul

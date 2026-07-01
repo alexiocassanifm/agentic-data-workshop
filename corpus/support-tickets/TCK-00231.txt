@@ -1,0 +1,15 @@
+Ticket ID: TCK-00231
+Customer ID: CUST-0062
+Contact: Elizabeth Roberts
+Priority: Medium
+Status: In Progress
+Created: 2024-04-21
+
+Subject: Dashboard doesn't show the metric we need
+
+Hello,
+
+We've been using the dashboards for a few months now and keep running into the same gap. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Thanks for considering it.
+
+Thanks,
+Elizabeth

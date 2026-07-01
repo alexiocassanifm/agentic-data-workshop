@@ -1,0 +1,15 @@
+Ticket ID: TCK-00423
+Customer ID: CUST-0161
+Contact: Anjali Van der Berg
+Priority: Medium
+Status: In Progress
+Created: 2025-01-22
+
+Subject: Question about encryption at rest
+
+To the Larkspur Flow team,
+
+Our security team is doing an annual review of vendors and has a few questions. The questionnaire also asks about your incident response process and average time to notify customers of an incident. Our legal team wants to see the data processing agreement, if there's an updated version available. We're on a bit of a deadline with our own audit, so a quick turnaround would help.
+
+Regards,
+Anjali

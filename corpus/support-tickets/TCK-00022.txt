@@ -1,0 +1,15 @@
+Ticket ID: TCK-00022
+Customer ID: CUST-0082
+Contact: Yuki Costa
+Priority: Medium
+Status: Resolved
+Created: 2024-03-14
+
+Subject: Can't export more than a few thousand records
+
+Hi team,
+
+Something's wrong with the encoding on our exports, names with accents show up as garbage characters. We've tried this in two different browsers with the same result. It looks like records that were updated recently show up twice, once with old values and once with new. Let us know if this is a known limitation or an actual bug.
+
+Best,
+Yuki

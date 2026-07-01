@@ -1,0 +1,15 @@
+Ticket ID: TCK-00167
+Customer ID: CUST-0036
+Contact: Karen Osei
+Priority: Low
+Status: Open
+Created: 2024-07-03
+
+Subject: Need a read-only role for auditors
+
+To the Larkspur Flow team,
+
+We have an external auditor who needs read-only access for a couple of weeks. We have roughly 33 different teams that should each only see their own accounts, and right now everyone can see everything. Could you walk us through how roles and permissions are meant to work?
+
+Regards,
+Karen

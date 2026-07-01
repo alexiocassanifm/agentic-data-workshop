@@ -1,0 +1,15 @@
+Ticket ID: TCK-00116
+Customer ID: CUST-0016
+Contact: Adam Gonzalez
+Priority: High
+Status: Resolved
+Created: 2025-01-24
+
+Subject: Stuck on step 3 of setup
+
+To the Larkspur Flow team,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. A couple of us are non-technical and the current instructions assume more familiarity than we have. It's not clear from the checklist whether we need to finish setup before inviting other users, or if it can happen in parallel. It would help to have a clearer sense of what's included in our plan versus what needs an upgrade. Thanks, we're excited to get going once we're past this part.
+
+Thank you,
+Adam

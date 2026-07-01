@@ -1,0 +1,15 @@
+Ticket ID: TCK-00259
+Customer ID: CUST-0131
+Contact: Adam Garcia
+Priority: Medium
+Status: Open
+Created: 2025-11-15
+
+Subject: Charged twice this month?
+
+Hi,
+
+Sorry to be that customer, but the numbers on this invoice really don't add up. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Could someone from billing take a look and send a corrected invoice if needed?
+
+Thanks,
+Adam

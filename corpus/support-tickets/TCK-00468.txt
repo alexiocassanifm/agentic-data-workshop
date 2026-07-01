@@ -1,0 +1,15 @@
+Ticket ID: TCK-00468
+Customer ID: CUST-0032
+Contact: Victor Thomas
+Priority: High
+Status: In Progress
+Created: 2025-11-29
+
+Subject: Not seeing the value we expected
+
+Hey there,
+
+Can you send over the process for canceling, just so we have the information? A few of the issues we've raised over the past few months, especially around performance and reporting, haven't fully been resolved yet. Would appreciate a conversation with our account team before we decide anything.
+
+Best,
+Victor

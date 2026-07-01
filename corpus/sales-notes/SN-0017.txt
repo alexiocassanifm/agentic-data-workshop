@@ -1,0 +1,7 @@
+Account: CUST-0150 - Redwood Systems
+Contact: Fatima Taylor (Support Team Lead)
+Account Executive: Greta Halvorsen
+Date: 2025-06-09
+Type: QBR
+
+Fatima raised a frustration that our integration has started throwing 429 errors a few times a day. Apparently we added exponential backoff on our end but we're still losing a portion of requests during peak load. I've opened a ticket on their behalf and promised a follow-up this week.

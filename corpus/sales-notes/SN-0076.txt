@@ -1,0 +1,7 @@
+Account: CUST-0171 - Basalt Studios
+Contact: Tomas Halvorsen (Director of IT Operations)
+Account Executive: Priya Chandran
+Date: 2024-03-05
+Type: Discovery Call
+
+On a related note, Tomas said we recently increased the frequency of our API calls and now we're seeing a lot of failures. They added that we're making roughly 45 requests per minute during our sync window, which used to work fine a month ago. Wanted to make sure this doesn't become a renewal talking point later, so flagging it now.

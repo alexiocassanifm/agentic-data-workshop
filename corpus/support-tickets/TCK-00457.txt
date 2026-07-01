@@ -1,0 +1,15 @@
+Ticket ID: TCK-00457
+Customer ID: CUST-0009
+Contact: Steven Lee
+Priority: Medium
+Status: Open
+Created: 2025-09-11
+
+Subject: Stuck on step 3 of setup
+
+Hi support team,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. A couple of us are non-technical and the current instructions assume more familiarity than we have. Let us know the best next step.
+
+Thank you,
+Steven

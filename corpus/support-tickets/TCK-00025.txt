@@ -1,0 +1,15 @@
+Ticket ID: TCK-00025
+Customer ID: CUST-0095
+Contact: Betty Hernandez
+Priority: Medium
+Status: Resolved
+Created: 2024-03-28
+
+Subject: Question about a line item on our latest invoice
+
+Hello,
+
+We upgraded plans mid-month and the proration on the invoice looks off. The contract states 22 seats at the agreed rate, but the invoice shows a higher seat count. Could someone from billing take a look and send a corrected invoice if needed?
+
+Best regards,
+Betty

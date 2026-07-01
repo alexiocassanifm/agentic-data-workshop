@@ -1,0 +1,15 @@
+Ticket ID: TCK-00232
+Customer ID: CUST-0160
+Contact: Kevin Nguyen
+Priority: Medium
+Status: Waiting on Customer
+Created: 2024-03-23
+
+Subject: Not sure how to invite our whole team
+
+Hey there,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. Thanks, we're excited to get going once we're past this part.
+
+Appreciate the help,
+Kevin

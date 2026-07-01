@@ -1,0 +1,15 @@
+Ticket ID: TCK-00003
+Customer ID: CUST-0086
+Contact: Victor Miller
+Priority: High
+Status: Waiting on Customer
+Created: 2025-03-08
+
+Subject: Mobile app shows outdated data
+
+To the Larkspur Flow team,
+
+Trying to attach a file from my phone just fails with no real error message. I tried reinstalling the app and clearing the cache, no change. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. Any known issue with the current app version?
+
+Thank you,
+Victor

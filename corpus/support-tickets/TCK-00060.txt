@@ -1,0 +1,15 @@
+Ticket ID: TCK-00060
+Customer ID: CUST-0125
+Contact: Anthony Taylor
+Priority: Low
+Status: Closed
+Created: 2024-09-07
+
+Subject: Duplicate records after Salesforce sync
+
+Hi support team,
+
+We stopped getting Slack notifications a few days ago, even though the integration still shows as connected. We noticed about 56 duplicate contact records that seem to have been created during last Tuesday's sync. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thanks,
+Anthony

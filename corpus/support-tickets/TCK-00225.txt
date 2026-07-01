@@ -1,0 +1,15 @@
+Ticket ID: TCK-00225
+Customer ID: CUST-0081
+Contact: Matthew Gonzalez
+Priority: Urgent
+Status: Open
+Created: 2024-10-23
+
+Subject: Rate limit seems too low for our use case
+
+Hi support team,
+
+Our integration has started throwing 429 errors a few times a day. We're making roughly 29 requests per minute during our sync window, which used to work fine a month ago. Any guidance on raising our limit, or on how to structure our calls better, would help a lot.
+
+Appreciate the help,
+Matthew

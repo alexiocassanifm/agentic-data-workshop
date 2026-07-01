@@ -1,0 +1,15 @@
+Ticket ID: TCK-00108
+Customer ID: CUST-0060
+Contact: Mary Ellery
+Priority: Medium
+Status: Open
+Created: 2025-07-16
+
+Subject: Not sure how to invite our whole team
+
+Hi team,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. It's not clear from the checklist whether we need to finish setup before inviting other users, or if it can happen in parallel. We'd like to get this sorted before our internal rollout next week if possible.
+
+Thanks a lot,
+Mary

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00475
+Customer ID: CUST-0071
+Contact: Edward Silva
+Priority: Low
+Status: Open
+Created: 2025-03-28
+
+Subject: Not seeing the value we expected
+
+Hi support team,
+
+Can you send over the process for canceling, just so we have the information? We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. Not trying to force a discount, just want to make an informed decision.
+
+Thanks a lot,
+Edward

@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Anthony Taylor <anthony.taylor@timber-pictures.com.au>
+Subject: Finishing your Larkspur Flow setup
+Date: 2023-07-13
+
+Hi Anthony, following up on getting Timber Pictures fully set up. If your team hasn't been invited yet, that's usually the next step, you can do this in bulk from the team settings page. Also worth setting up at least one automation workflow early so it becomes part of the daily routine.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

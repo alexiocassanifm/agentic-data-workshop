@@ -1,0 +1,15 @@
+Ticket ID: TCK-00002
+Customer ID: CUST-0114
+Contact: Nadia Van der Berg
+Priority: High
+Status: In Progress
+Created: 2023-07-28
+
+Subject: Can we get scheduled report emails?
+
+Hi support team,
+
+Is there a way to build a custom report, or are we limited to the pre-built ones? A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. This would make a real difference for how we use the product internally.
+
+Best regards,
+Nadia

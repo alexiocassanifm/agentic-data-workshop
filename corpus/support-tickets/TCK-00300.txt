@@ -1,0 +1,15 @@
+Ticket ID: TCK-00300
+Customer ID: CUST-0055
+Contact: Barbara Costa
+Priority: High
+Status: Resolved
+Created: 2025-11-24
+
+Subject: Team member can see accounts they shouldn't
+
+Hello,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. We have roughly 5 different teams that should each only see their own accounts, and right now everyone can see everything. Happy to hop on a call if it's easier to explain live.
+
+Best regards,
+Barbara

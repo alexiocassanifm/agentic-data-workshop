@@ -1,0 +1,15 @@
+Ticket ID: TCK-00382
+Customer ID: CUST-0085
+Contact: Felix Campbell
+Priority: Medium
+Status: Open
+Created: 2025-01-24
+
+Subject: SAML login broken since the update
+
+Hi team,
+
+This is the third day in a row that our SSO login has been unreliable. The error message we get is something like 'invalid SAML response' right after the redirect back from our identity provider. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. Thanks in advance, this one's a bit urgent for us.
+
+Regards,
+Felix

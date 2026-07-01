@@ -1,0 +1,15 @@
+Ticket ID: TCK-00061
+Customer ID: CUST-0143
+Contact: Naomi Allen
+Priority: Medium
+Status: Closed
+Created: 2024-08-17
+
+Subject: Team has mostly stopped using the product
+
+Hi folks,
+
+I wanted to be upfront that we're reconsidering whether to renew next quarter. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. Only a handful of people on our team log in regularly anymore, compared to nearly everyone in the first few months. Let us know what options exist, whether that's addressing the issues or discussing pricing.
+
+Thanks a lot,
+Naomi

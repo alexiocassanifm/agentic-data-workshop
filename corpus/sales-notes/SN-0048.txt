@@ -1,0 +1,7 @@
+Account: CUST-0022 - Halden Initiative
+Contact: David Gonzalez (Chief Information Officer)
+Account Executive: Felix Moreau
+Date: 2024-10-05
+Type: Quarterly Check-in
+
+On a related note, David said after the last sync, we ended up with duplicate records in Salesforce. They added that we noticed about 53 duplicate contact records that seem to have been created during last tuesday's sync. I told them I'd relay this to the support team and follow up once there's an update.

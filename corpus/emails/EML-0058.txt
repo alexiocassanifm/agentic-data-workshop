@@ -1,0 +1,10 @@
+From: Grace Petrov <grace.petrov@larkspurflow.com>
+To: Anjali Garcia <anjali.garcia@elm-estates.se>
+Subject: Checking in on how things are going
+Date: 2023-02-03
+
+It's been about a month since onboarding started for Elm Estates, so this is just a friendly check-in. If your team has feedback on what's working or what's missing, I'd love to hear it and pass it along internally where relevant.
+
+Best,
+Grace
+Customer Success, Larkspur Flow

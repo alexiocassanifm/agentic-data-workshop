@@ -1,0 +1,15 @@
+Ticket ID: TCK-00142
+Customer ID: CUST-0029
+Contact: Freya Bakker
+Priority: Urgent
+Status: Resolved
+Created: 2025-04-28
+
+Subject: Requesting export-to-PDF for reports
+
+To the Larkspur Flow team,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. We're on the Starter plan, is custom reporting something that's only available at a higher tier? Happy to jump on a call to explain exactly what we're trying to build.
+
+Regards,
+Freya

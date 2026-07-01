@@ -1,0 +1,15 @@
+Ticket ID: TCK-00370
+Customer ID: CUST-0138
+Contact: Sven Johnson
+Priority: High
+Status: In Progress
+Created: 2022-08-22
+
+Subject: Need your SOC 2 report for our security review
+
+Hi support team,
+
+Our procurement team sent over a security questionnaire that we need help answering. The questionnaire also asks about your incident response process and average time to notify customers of an incident. Let us know what's the best way to get these documents.
+
+Thanks,
+Sven

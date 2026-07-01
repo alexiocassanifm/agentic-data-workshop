@@ -1,0 +1,15 @@
+Ticket ID: TCK-00213
+Customer ID: CUST-0102
+Contact: Kwame Moreau
+Priority: High
+Status: Resolved
+Created: 2025-11-23
+
+Subject: Can't log in via SSO this morning
+
+Hi team,
+
+We're seeing a strange issue where SSO logs users in and then immediately kicks them back out. We tried both Chrome and Safari and get the same redirect loop in both. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. Could someone take a look at the SSO configuration on your side?
+
+Best regards,
+Kwame

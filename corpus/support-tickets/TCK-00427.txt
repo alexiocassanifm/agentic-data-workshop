@@ -1,0 +1,15 @@
+Ticket ID: TCK-00427
+Customer ID: CUST-0132
+Contact: Amara Green
+Priority: Medium
+Status: Waiting on Customer
+Created: 2024-06-24
+
+Subject: Integration shows connected but nothing is syncing
+
+Hello,
+
+After the last sync, we ended up with duplicate records in Salesforce. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. Let us know what logs would be useful for you to see.
+
+Thank you,
+Amara

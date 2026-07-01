@@ -1,0 +1,15 @@
+Ticket ID: TCK-00309
+Customer ID: CUST-0024
+Contact: Mary Hall
+Priority: High
+Status: Resolved
+Created: 2023-01-26
+
+Subject: SSO certificate expired?
+
+Hi,
+
+I'm not sure if this is on our end or yours, but SSO stopped working for everyone right after your last release. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. We rotated our SSO certificate on our identity provider side last week, could that be related? This is blocking our product team from getting into the account at all, which is not great timing. Could someone take a look at the SSO configuration on your side?
+
+Thanks a lot,
+Mary

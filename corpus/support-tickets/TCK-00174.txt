@@ -1,0 +1,15 @@
+Ticket ID: TCK-00174
+Customer ID: CUST-0130
+Contact: Leila Johnson
+Priority: Low
+Status: Open
+Created: 2023-11-27
+
+Subject: Timeouts when loading larger accounts
+
+Hi team,
+
+We're seeing pages take ten seconds or more to load, especially first thing in the morning. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. It seems worse between about 9 and 11am, which is when most of our team logs in. This is becoming a real drag on our day-to-day, so we'd appreciate a look.
+
+Best,
+Leila

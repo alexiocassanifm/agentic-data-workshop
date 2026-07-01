@@ -1,0 +1,15 @@
+Ticket ID: TCK-00316
+Customer ID: CUST-0018
+Contact: Grace Hill
+Priority: High
+Status: Resolved
+Created: 2025-02-19
+
+Subject: Webhook stopped firing
+
+Hi folks,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. The sync log shows a 'success' status even on the days when nothing actually changed, which is confusing. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. Thanks for digging in.
+
+Thanks,
+Grace

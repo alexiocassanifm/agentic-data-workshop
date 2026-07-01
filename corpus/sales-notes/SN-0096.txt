@@ -1,0 +1,7 @@
+Account: CUST-0030 - Clear Wellness
+Contact: Mei Johnson (VP of Finance)
+Account Executive: Dana Whitfield
+Date: 2023-01-27
+Type: Ad-hoc Call
+
+During the call, Mei flagged that a few of us have noticed things feel sluggish since the start of this week. Their take was that it's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. Not a deal-breaker for them yet, but it's the kind of thing that could add up if it keeps happening.

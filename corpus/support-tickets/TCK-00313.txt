@@ -1,0 +1,15 @@
+Ticket ID: TCK-00313
+Customer ID: CUST-0037
+Contact: Joseph Anderson
+Priority: High
+Status: Waiting on Customer
+Created: 2023-09-15
+
+Subject: Initial data import is more complicated than expected
+
+Hi support team,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. A couple of us are non-technical and the current instructions assume more familiarity than we have. Let us know the best next step.
+
+Regards,
+Joseph

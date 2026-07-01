@@ -1,0 +1,15 @@
+Ticket ID: TCK-00192
+Customer ID: CUST-0137
+Contact: Jessica Patel
+Priority: Urgent
+Status: Open
+Created: 2023-08-12
+
+Subject: Initial data import is more complicated than expected
+
+To the Larkspur Flow team,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. We imported a test batch of records and some fields came through blank that had data in the source file. We'd like to get this sorted before our internal rollout next week if possible.
+
+Appreciate the help,
+Jessica

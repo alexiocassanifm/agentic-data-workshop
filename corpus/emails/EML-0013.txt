@@ -1,0 +1,10 @@
+From: Sam Okafor <sam.okafor@larkspurflow.com>
+To: Grace Hill <grace.hill@bright-group.se>
+Subject: A quick check-in from the Larkspur Flow team
+Date: 2024-08-23
+
+Checking in to see how things are going for Bright Group. Sometimes a month in is when teams start hitting more advanced use cases, custom reports, deeper automation, that kind of thing. Let me know if there's anything you'd like help configuring.
+
+Best,
+Sam
+Customer Success, Larkspur Flow

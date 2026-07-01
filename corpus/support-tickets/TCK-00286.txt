@@ -1,0 +1,15 @@
+Ticket ID: TCK-00286
+Customer ID: CUST-0163
+Contact: Kimberly Harris
+Priority: High
+Status: Open
+Created: 2024-11-11
+
+Subject: Would love a way to build custom reports
+
+Hi team,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. This would make a real difference for how we use the product internally.
+
+Appreciate the help,
+Kimberly

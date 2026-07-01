@@ -1,0 +1,15 @@
+Ticket ID: TCK-00051
+Customer ID: CUST-0057
+Contact: Anthony Williams
+Priority: Medium
+Status: Resolved
+Created: 2025-04-23
+
+Subject: Slack notifications aren't coming through
+
+To the Larkspur Flow team,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thanks,
+Anthony

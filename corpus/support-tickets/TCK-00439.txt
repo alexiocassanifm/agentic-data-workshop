@@ -1,0 +1,15 @@
+Ticket ID: TCK-00439
+Customer ID: CUST-0005
+Contact: Matthew Garcia
+Priority: Medium
+Status: In Progress
+Created: 2024-10-21
+
+Subject: API calls failing during peak hours
+
+Hi,
+
+Our engineering team asked me to reach out about API throttling, it's affecting a customer-facing feature on our end. We're on the Enterprise plan, is the rate limit tied to plan tier, and if so is there a way to raise it? The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. Happy to share request logs if that helps you investigate.
+
+Appreciate the help,
+Matthew

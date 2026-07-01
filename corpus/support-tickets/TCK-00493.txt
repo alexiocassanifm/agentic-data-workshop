@@ -1,0 +1,15 @@
+Ticket ID: TCK-00493
+Customer ID: CUST-0140
+Contact: Ronald Eriksson
+Priority: Urgent
+Status: In Progress
+Created: 2025-05-08
+
+Subject: Salesforce sync stopped updating
+
+Hi,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. This integration is pretty central to how our customer success team works, so the gap has been noticed internally. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Regards,
+Ronald

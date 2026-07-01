@@ -1,0 +1,15 @@
+Ticket ID: TCK-00112
+Customer ID: CUST-0103
+Contact: Ravi Mitchell
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2023-09-10
+
+Subject: Webhook stopped firing
+
+Hi folks,
+
+We stopped getting Slack notifications a few days ago, even though the integration still shows as connected. This integration is pretty central to how our engineering team works, so the gap has been noticed internally. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Appreciate the help,
+Ravi

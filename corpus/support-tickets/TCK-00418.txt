@@ -1,0 +1,15 @@
+Ticket ID: TCK-00418
+Customer ID: CUST-0147
+Contact: Susan Abara
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2024-11-27
+
+Subject: Confused about role-based permissions
+
+To the Larkspur Flow team,
+
+We have an external auditor who needs read-only access for a couple of weeks. It's unclear whether permission changes apply immediately or need the user to log out and back in. This person joined the engineering team last month and somehow has visibility into a completely separate business unit's data. This is a bit of a data governance concern for us, so we'd like it sorted soon.
+
+Regards,
+Susan

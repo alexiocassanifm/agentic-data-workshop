@@ -1,0 +1,15 @@
+Ticket ID: TCK-00414
+Customer ID: CUST-0162
+Contact: Grace Hill
+Priority: Medium
+Status: Open
+Created: 2025-03-09
+
+Subject: Can't figure out how to remove someone's admin access
+
+Hey there,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. Happy to hop on a call if it's easier to explain live.
+
+Best,
+Grace

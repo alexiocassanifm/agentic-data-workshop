@@ -1,0 +1,15 @@
+Ticket ID: TCK-00425
+Customer ID: CUST-0127
+Contact: Lisa Hill
+Priority: Low
+Status: Closed
+Created: 2024-07-04
+
+Subject: Slack notifications aren't coming through
+
+Hi,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. We noticed about 54 duplicate contact records that seem to have been created during last Tuesday's sync. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. Let us know what logs would be useful for you to see.
+
+Thanks,
+Lisa

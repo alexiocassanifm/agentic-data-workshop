@@ -1,0 +1,15 @@
+Ticket ID: TCK-00083
+Customer ID: CUST-0089
+Contact: Richard Singh
+Priority: High
+Status: Waiting on Customer
+Created: 2024-12-24
+
+Subject: API throttling is breaking our nightly sync
+
+Hi,
+
+Our integration has started throwing 429 errors a few times a day. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. Happy to share request logs if that helps you investigate.
+
+Appreciate the help,
+Richard

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00464
+Customer ID: CUST-0059
+Contact: Michael King
+Priority: Low
+Status: In Progress
+Created: 2025-01-30
+
+Subject: Not sure how to invite our whole team
+
+Hi,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. A couple of us are non-technical and the current instructions assume more familiarity than we have. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. It's not clear from the checklist whether we need to finish setup before inviting other users, or if it can happen in parallel. We'd like to get this sorted before our internal rollout next week if possible.
+
+Thank you,
+Michael

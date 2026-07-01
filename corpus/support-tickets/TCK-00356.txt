@@ -1,0 +1,15 @@
+Ticket ID: TCK-00356
+Customer ID: CUST-0033
+Contact: Richard Rivera
+Priority: Medium
+Status: Resolved
+Created: 2025-05-04
+
+Subject: Rate limit seems too low for our use case
+
+Hi,
+
+Our nightly batch job that pulls records via the API has started failing partway through. The failures seem to cluster around the top of the hour, which lines up with when several of our scheduled jobs kick off at once. We added exponential backoff on our end but we're still losing a portion of requests during peak load. Let us know what our current limit actually is so we can plan around it.
+
+Best regards,
+Richard

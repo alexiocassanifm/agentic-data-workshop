@@ -1,0 +1,15 @@
+Ticket ID: TCK-00405
+Customer ID: CUST-0141
+Contact: Rahul Smith
+Priority: Medium
+Status: Resolved
+Created: 2023-07-16
+
+Subject: Integration shows connected but nothing is syncing
+
+Hi team,
+
+A webhook we rely on for a downstream process seems to have stopped firing. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thanks,
+Rahul

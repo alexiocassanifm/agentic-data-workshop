@@ -1,0 +1,15 @@
+Ticket ID: TCK-00460
+Customer ID: CUST-0165
+Contact: Robert Berg
+Priority: Low
+Status: Open
+Created: 2025-10-15
+
+Subject: Can we get a corrected invoice?
+
+Hi folks,
+
+We upgraded plans mid-month and the proration on the invoice looks off. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Our finance team is asking about this so a quick turnaround would be great.
+
+Best,
+Robert

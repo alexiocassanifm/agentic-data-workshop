@@ -1,0 +1,15 @@
+Ticket ID: TCK-00322
+Customer ID: CUST-0097
+Contact: Greta Perez
+Priority: Medium
+Status: Open
+Created: 2025-03-19
+
+Subject: Can't log in via SSO this morning
+
+Hi team,
+
+I'm not sure if this is on our end or yours, but SSO stopped working for everyone right after your last release. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. This is blocking our support team from getting into the account at all, which is not great timing. Thanks in advance, this one's a bit urgent for us.
+
+Thanks a lot,
+Greta

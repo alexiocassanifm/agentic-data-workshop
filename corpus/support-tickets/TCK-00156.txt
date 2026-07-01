@@ -1,0 +1,15 @@
+Ticket ID: TCK-00156
+Customer ID: CUST-0148
+Contact: Matthew Ramirez
+Priority: Urgent
+Status: Resolved
+Created: 2025-05-17
+
+Subject: Slack notifications aren't coming through
+
+Hi team,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. We double-checked the Salesforce connection and the API user still has the right permissions on their side. Thanks for digging in.
+
+Appreciate the help,
+Matthew

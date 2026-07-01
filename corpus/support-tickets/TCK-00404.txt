@@ -1,0 +1,15 @@
+Ticket ID: TCK-00404
+Customer ID: CUST-0096
+Contact: Aisha Davis
+Priority: High
+Status: Open
+Created: 2025-02-11
+
+Subject: Billing contact needs to be updated
+
+Hi,
+
+We upgraded plans mid-month and the proration on the invoice looks off. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Could someone from billing take a look and send a corrected invoice if needed?
+
+Thanks,
+Aisha

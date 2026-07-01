@@ -1,0 +1,15 @@
+Ticket ID: TCK-00284
+Customer ID: CUST-0017
+Contact: Ingrid Chandran
+Priority: Urgent
+Status: Closed
+Created: 2025-10-08
+
+Subject: Team member can see accounts they shouldn't
+
+Hi,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. This person joined the product team last month and somehow has visibility into a completely separate business unit's data. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Best regards,
+Ingrid

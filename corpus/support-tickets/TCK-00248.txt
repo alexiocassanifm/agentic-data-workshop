@@ -1,0 +1,15 @@
+Ticket ID: TCK-00248
+Customer ID: CUST-0056
+Contact: Ingrid Lopez
+Priority: Low
+Status: Resolved
+Created: 2025-02-12
+
+Subject: Need a read-only role for auditors
+
+Hey there,
+
+We have an external auditor who needs read-only access for a couple of weeks. Specifically we want a role that can view reports but not edit or export anything, and it's not clear if that combination exists. Could you walk us through how roles and permissions are meant to work?
+
+Best regards,
+Ingrid

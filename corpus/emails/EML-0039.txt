@@ -1,0 +1,10 @@
+From: Sam Okafor <sam.okafor@larkspurflow.com>
+To: Amara Silva <amara.silva@marsh-coalition.de>
+Subject: Finishing your Larkspur Flow setup
+Date: 2023-09-21
+
+Just checking in on setup, Amara. A couple of things worth doing this week if you haven't already: connect your primary data source, invite the rest of your team, and take a look at the default dashboard views so you know what's available out of the box. Let me know if you hit any snags.
+
+Best,
+Sam
+Customer Success, Larkspur Flow

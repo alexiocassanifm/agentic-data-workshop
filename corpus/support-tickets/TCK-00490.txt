@@ -1,0 +1,15 @@
+Ticket ID: TCK-00490
+Customer ID: CUST-0067
+Contact: Donald Harris
+Priority: High
+Status: Waiting on Customer
+Created: 2025-10-04
+
+Subject: Duplicate records after Salesforce sync
+
+Hi,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Best,
+Donald

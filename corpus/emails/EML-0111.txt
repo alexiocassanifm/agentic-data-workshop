@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Victor Wilson <victor.wilson@windham-grid.com>
+Subject: Thinking you might outgrow your current plan
+Date: 2023-10-19
+
+Hi Victor, based on how the team has been using Larkspur Flow, I think you'd get a lot out of the advanced reporting features available on a higher tier. A few teams similar to Windham Grid have found it especially useful for board-level reporting. Happy to walk through what's included if you're curious.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00279
+Customer ID: CUST-0120
+Contact: Amanda Berg
+Priority: High
+Status: Open
+Created: 2025-11-28
+
+Subject: Rate limit seems too low for our use case
+
+Hello,
+
+Our integration has started throwing 429 errors a few times a day. This is affecting our Slack sync specifically, other endpoints seem fine. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. Happy to share request logs if that helps you investigate.
+
+Best,
+Amanda

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00034
+Customer ID: CUST-0054
+Contact: Jessica Lewis
+Priority: Urgent
+Status: Closed
+Created: 2025-04-20
+
+Subject: Attachment upload fails on Android
+
+To the Larkspur Flow team,
+
+I can log in fine on desktop but the mobile app just spins on the login screen. I mostly use the app while traveling for the reporting view, and that's exactly the part that's missing. A few other people on our team have confirmed they're seeing the same thing on their phones. Any known issue with the current app version?
+
+Thanks,
+Jessica

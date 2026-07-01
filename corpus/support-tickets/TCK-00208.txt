@@ -1,0 +1,15 @@
+Ticket ID: TCK-00208
+Customer ID: CUST-0034
+Contact: Tomas Nelson
+Priority: Medium
+Status: Open
+Created: 2024-07-27
+
+Subject: Confused about role-based permissions
+
+Hello,
+
+I tried removing someone's admin access and it doesn't seem to have taken effect. It's unclear whether permission changes apply immediately or need the user to log out and back in. This is a bit of a data governance concern for us, so we'd like it sorted soon.
+
+Best regards,
+Tomas

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00497
+Customer ID: CUST-0060
+Contact: Diego Berg
+Priority: High
+Status: Resolved
+Created: 2025-10-23
+
+Subject: Where is our data hosted?
+
+Hi,
+
+Our security team is doing an annual review of vendors and has a few questions. One of our regulated customers specifically asked about sub-processors, so a current list would help. We're trying to close this out before renewal, so any documentation you can point us to would save time. We're on a bit of a deadline with our own audit, so a quick turnaround would help.
+
+Appreciate the help,
+Diego

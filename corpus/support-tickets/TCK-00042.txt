@@ -1,0 +1,15 @@
+Ticket ID: TCK-00042
+Customer ID: CUST-0147
+Contact: Susan Abara
+Priority: Medium
+Status: Closed
+Created: 2024-02-05
+
+Subject: Team has mostly stopped using the product
+
+Hi,
+
+I wanted to be upfront that we're reconsidering whether to renew next quarter. Our new head of operations wants to reevaluate all our tools this year, so nothing is guaranteed at this point. Would appreciate a conversation with our account team before we decide anything.
+
+Thanks,
+Susan

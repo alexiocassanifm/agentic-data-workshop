@@ -1,0 +1,15 @@
+Ticket ID: TCK-00378
+Customer ID: CUST-0017
+Contact: Ingrid Chandran
+Priority: Medium
+Status: In Progress
+Created: 2025-09-20
+
+Subject: Question about data residency for EU customers
+
+Hi folks,
+
+Our security team is doing an annual review of vendors and has a few questions. Specifically we need to know if EU customer data stays within the EU or if it's processed elsewhere. Does the platform support exporting an audit log of who accessed or changed what, and for how long is that retained? Happy to fill out any standard forms you have rather than a custom questionnaire, whichever is easier.
+
+Thanks,
+Ingrid

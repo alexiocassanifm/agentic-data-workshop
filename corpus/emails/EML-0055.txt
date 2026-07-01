@@ -1,0 +1,10 @@
+From: Sam Okafor <sam.okafor@larkspurflow.com>
+To: Anthony Williams <anthony.williams@vista-power.com>
+Subject: Finishing your Larkspur Flow setup
+Date: 2022-11-28
+
+Just checking in on setup, Anthony. A couple of things worth doing this week if you haven't already: connect your primary data source, invite the rest of your team, and take a look at the default dashboard views so you know what's available out of the box. Let me know if you hit any snags.
+
+Best,
+Sam
+Customer Success, Larkspur Flow

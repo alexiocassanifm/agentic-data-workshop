@@ -1,0 +1,15 @@
+Ticket ID: TCK-00454
+Customer ID: CUST-0030
+Contact: Mei Johnson
+Priority: High
+Status: Waiting on Customer
+Created: 2023-10-23
+
+Subject: SAML login broken since the update
+
+Hi support team,
+
+Our IT team flagged that the SAML certificate you have on file may have expired. This is blocking our finance team from getting into the account at all, which is not great timing. We'd appreciate a fix soon since it's blocking daily work for several people.
+
+Appreciate the help,
+Mei

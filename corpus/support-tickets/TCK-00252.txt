@@ -1,0 +1,15 @@
+Ticket ID: TCK-00252
+Customer ID: CUST-0098
+Contact: Joshua Eriksson
+Priority: Urgent
+Status: Closed
+Created: 2025-11-15
+
+Subject: Can't export more than a few thousand records
+
+Hi support team,
+
+We tried exporting our full dataset and it just times out. This only seems to happen with the larger exports, anything under about 42 thousand rows comes through fine. Could someone check what's happening with larger exports?
+
+Best,
+Joshua

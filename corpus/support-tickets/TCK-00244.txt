@@ -1,0 +1,15 @@
+Ticket ID: TCK-00244
+Customer ID: CUST-0135
+Contact: Donald Young
+Priority: High
+Status: Closed
+Created: 2025-05-13
+
+Subject: Proration on our upgrade doesn't add up
+
+To the Larkspur Flow team,
+
+It looks like we were billed twice for this month, can someone confirm? Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Happy to send over the contract for reference if that helps sort it out.
+
+Best regards,
+Donald

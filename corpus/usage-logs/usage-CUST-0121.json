@@ -1,0 +1,1840 @@
+{
+  "customer_id": "CUST-0121",
+  "plan_tier": "Starter",
+  "usage_period": {
+    "start_date": "2025-08-13",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-08-13",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 122,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 40,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 346,
+          "unique_users": 41
+        }
+      ]
+    },
+    {
+      "date": "2025-08-14",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 53,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 26,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 188,
+          "unique_users": 24
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 69,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 310,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 272,
+          "unique_users": 53
+        }
+      ]
+    },
+    {
+      "date": "2025-08-17",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 17,
+          "unique_users": 4
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 64,
+          "unique_users": 13
+        }
+      ]
+    },
+    {
+      "date": "2025-08-18",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 147,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 154,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 118,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 288,
+          "unique_users": 52
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 205,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 184,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 61,
+          "unique_users": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 42,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 193,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 76,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 72,
+          "unique_users": 25
+        }
+      ]
+    },
+    {
+      "date": "2025-08-21",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 72,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 70,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 14,
+          "unique_users": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 31,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 61,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 86,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 245,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 95,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 83,
+          "unique_users": 25
+        }
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 317,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 289,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 19,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 90,
+          "unique_users": 11
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 276,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 121,
+          "unique_users": 39
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 283,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 90,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 287,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 16,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 256,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 134,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 254,
+          "unique_users": 44
+        }
+      ]
+    },
+    {
+      "date": "2025-08-30",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 29,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 70,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 67,
+          "unique_users": 8
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 377,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 154,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 184,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 210,
+          "unique_users": 27
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 221,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 235,
+          "unique_users": 37
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 214,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 58,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 35,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 101,
+          "unique_users": 13
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 53,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 106,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 209,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 62,
+          "unique_users": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 279,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 54,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 165,
+          "unique_users": 19
+        }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 29,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 150,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 33,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 66,
+          "unique_users": 19
+        }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 66,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 183,
+          "unique_users": 29
+        }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 19,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 334,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 228,
+          "unique_users": 35
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 366,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 25,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 59,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 69,
+          "unique_users": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 150,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 101,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 425,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 82,
+          "unique_users": 36
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 125,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 188,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 256,
+          "unique_users": 46
+        }
+      ]
+    },
+    {
+      "date": "2025-09-14",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 10,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 150,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 252,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 174,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 144,
+          "unique_users": 43
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 18,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 175,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 131,
+          "unique_users": 53
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 75,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 330,
+          "unique_users": 53
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 86,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 133,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 86,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 114,
+          "unique_users": 28
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 47,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 98,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2025-09-20",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 21,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 61,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 110,
+          "unique_users": 13
+        }
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 119,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 123,
+          "unique_users": 43
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 318,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 22,
+          "unique_users": 4
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 115,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 58,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 294,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 98,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 46,
+          "unique_users": 10
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 195,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 330,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 76,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 136,
+          "unique_users": 19
+        }
+      ]
+    },
+    {
+      "date": "2025-09-28",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 16,
+          "unique_users": 3
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 47,
+          "unique_users": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 98,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 286,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 459,
+          "unique_users": 52
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 135,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 77,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 232,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 203,
+          "unique_users": 44
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 54,
+          "unique_users": 8
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 29,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 84,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 160,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 225,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 36,
+          "unique_users": 6
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 89,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 307,
+          "unique_users": 35
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 22,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 60,
+          "unique_users": 8
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 36,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 19,
+          "unique_users": 3
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 32,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 43,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 172,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 202,
+          "unique_users": 27
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 38,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 98,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 171,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 260,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 360,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 19,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 103,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 51,
+          "unique_users": 15
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 79,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 151,
+          "unique_users": 19
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 11,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 231,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 287,
+          "unique_users": 52
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 237,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 338,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 88,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 349,
+          "unique_users": 41
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 103,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 64,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 240,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 244,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 22,
+          "unique_users": 9
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 77,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 216,
+          "unique_users": 52
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 203,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 69,
+          "unique_users": 10
+        }
+      ]
+    },
+    {
+      "date": "2025-10-18",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 37,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 60,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 225,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 122,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 53,
+          "unique_users": 7
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 151,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 257,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 91,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 94,
+          "unique_users": 16
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 259,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 62,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 57,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 186,
+          "unique_users": 31
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 345,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 152,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 59,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 29,
+          "unique_users": 11
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 289,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 262,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 50,
+          "unique_users": 16
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 97,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 281,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 55,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 120,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 272,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 156,
+          "unique_users": 53
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 302,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 238,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 311,
+          "unique_users": 40
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 82,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 231,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 39,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 279,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 192,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 171,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 16,
+          "unique_users": 4
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 88,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 65,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 92,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 432,
+          "unique_users": 50
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 42,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 63,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 61,
+          "unique_users": 26
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 150,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 119,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 32,
+          "unique_users": 8
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 163,
+          "unique_users": 51
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 92,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 76,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 44,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 380,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 119,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 152,
+          "unique_users": 29
+        }
+      ]
+    },
+    {
+      "date": "2025-11-09",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 36,
+          "unique_users": 9
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 28,
+          "unique_users": 6
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 200,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 158,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 13,
+          "unique_users": 5
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 379,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 138,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 87,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 83,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 113,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 67,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 222,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 125,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 106,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 181,
+          "unique_users": 35
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 84,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 287,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 73,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 107,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 39,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 53,
+          "unique_users": 6
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 108,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 421,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 84,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 28,
+          "unique_users": 4
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 218,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 62,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 239,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 65,
+          "unique_users": 8
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 254,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 34,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 228,
+          "unique_users": 42
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 63,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 89,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 57,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 328,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 306,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 90,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 210,
+          "unique_users": 46
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 160,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 258,
+          "unique_users": 38
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 52,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 229,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 65,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 311,
+          "unique_users": 48
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 49,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 29,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 244,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 173,
+          "unique_users": 44
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 280,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 174,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 152,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 97,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 56,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 27,
+          "unique_users": 6
+        }
+      ]
+    },
+    {
+      "date": "2025-11-29",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 26,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 54,
+          "unique_users": 7
+        }
+      ]
+    }
+  ]
+}

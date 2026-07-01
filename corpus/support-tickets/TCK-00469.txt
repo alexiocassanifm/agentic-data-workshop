@@ -1,0 +1,15 @@
+Ticket ID: TCK-00469
+Customer ID: CUST-0087
+Contact: John King
+Priority: High
+Status: Waiting on Customer
+Created: 2025-07-20
+
+Subject: Single sign-on redirect loop
+
+Hey there,
+
+Half of our team can log in fine, the other half gets stuck in a redirect loop. Clearing cookies fixes it temporarily but it comes back within a day. The error message we get is something like 'invalid SAML response' right after the redirect back from our identity provider. We'd appreciate a fix soon since it's blocking daily work for several people.
+
+Best,
+John

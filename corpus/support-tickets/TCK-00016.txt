@@ -1,0 +1,15 @@
+Ticket ID: TCK-00016
+Customer ID: CUST-0028
+Contact: Anjali Lopez
+Priority: Medium
+Status: Resolved
+Created: 2025-11-12
+
+Subject: Can't export more than a few thousand records
+
+Hi team,
+
+Something's wrong with the encoding on our exports, names with accents show up as garbage characters. The export finished but when we open it in a spreadsheet tool, some columns are shifted, like a comma inside a field broke the formatting. We compared the row count in the export to what we see in the dashboard and it's short by a few hundred records. This only seems to happen with the larger exports, anything under about 50 thousand rows comes through fine. Could someone check what's happening with larger exports?
+
+Best regards,
+Anjali

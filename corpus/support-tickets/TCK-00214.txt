@@ -1,0 +1,15 @@
+Ticket ID: TCK-00214
+Customer ID: CUST-0066
+Contact: Carol Scott
+Priority: Medium
+Status: In Progress
+Created: 2023-05-14
+
+Subject: Charged twice this month?
+
+Hello,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. Let me know if you need anything else from our side to fix this.
+
+Thank you,
+Carol

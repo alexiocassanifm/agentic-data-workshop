@@ -1,0 +1,15 @@
+Ticket ID: TCK-00212
+Customer ID: CUST-0121
+Contact: Emily Van der Berg
+Priority: Medium
+Status: Resolved
+Created: 2024-12-11
+
+Subject: Intermittent 'too many requests' errors
+
+Hi folks,
+
+We recently increased the frequency of our API calls and now we're seeing a lot of failures. This is affecting our Salesforce sync specifically, other endpoints seem fine. The failures seem to cluster around the top of the hour, which lines up with when several of our scheduled jobs kick off at once. Happy to share request logs if that helps you investigate.
+
+Appreciate the help,
+Emily

@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Victor Wilson <victor.wilson@windham-grid.com>
+Subject: A few setup tips for your team
+Date: 2023-05-30
+
+Hi Victor, following up on getting Windham Grid fully set up. If your team hasn't been invited yet, that's usually the next step, you can do this in bulk from the team settings page. Also worth setting up at least one automation workflow early so it becomes part of the daily routine.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

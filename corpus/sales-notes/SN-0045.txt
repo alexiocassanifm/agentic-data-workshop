@@ -1,0 +1,7 @@
+Account: CUST-0035 - Silver Health
+Contact: Melissa Allen (Business Systems Analyst)
+Account Executive: Greta Halvorsen
+Date: 2024-08-26
+Type: Expansion Conversation
+
+During the call, Melissa flagged that we think we're hitting a rate limit, but the error message doesn't say what the actual limit is. Their take was that we're making roughly 28 requests per minute during our sync window, which used to work fine a month ago. Wanted to make sure this doesn't become a renewal talking point later, so flagging it now.

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00211
+Customer ID: CUST-0119
+Contact: Ines Baker
+Priority: Medium
+Status: Open
+Created: 2025-07-25
+
+Subject: Question about a line item on our latest invoice
+
+Hello,
+
+Quick billing question before I forward this to our finance team. The contract states 33 seats at the agreed rate, but the invoice shows a higher seat count. Our finance team is asking about this so a quick turnaround would be great.
+
+Thanks,
+Ines

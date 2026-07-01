@@ -1,0 +1,15 @@
+Ticket ID: TCK-00428
+Customer ID: CUST-0042
+Contact: Ronald Roberts
+Priority: Medium
+Status: Resolved
+Created: 2023-10-15
+
+Subject: Considering other options before we renew
+
+Hi,
+
+Honestly, adoption on our side has dropped off and I'm not sure the subscription is worth it anymore. Only a handful of people on our team log in regularly anymore, compared to nearly everyone in the first few months. Let us know what options exist, whether that's addressing the issues or discussing pricing.
+
+Appreciate the help,
+Ronald

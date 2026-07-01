@@ -1,0 +1,15 @@
+Ticket ID: TCK-00045
+Customer ID: CUST-0049
+Contact: Lisa Johnson
+Priority: Medium
+Status: Open
+Created: 2023-07-28
+
+Subject: Need a higher rate limit for our integration
+
+Hi support team,
+
+Our integration has started throwing 429 errors a few times a day. This is affecting our Salesforce sync specifically, other endpoints seem fine. Thanks for looking into this.
+
+Thank you,
+Lisa

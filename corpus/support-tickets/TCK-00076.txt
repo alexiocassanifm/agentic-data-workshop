@@ -1,0 +1,15 @@
+Ticket ID: TCK-00076
+Customer ID: CUST-0173
+Contact: Susan Nelson
+Priority: Medium
+Status: Resolved
+Created: 2023-06-19
+
+Subject: Timeouts when loading larger accounts
+
+Hi,
+
+Not sure if this is just us, but performance has taken a real hit recently. Larger views, like the one with our full customer list, time out entirely rather than just being slow. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. Is there a known performance issue right now, or something on our account causing it?
+
+Thanks a lot,
+Susan

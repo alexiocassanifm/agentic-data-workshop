@@ -1,0 +1,181 @@
+customer_id,company_name,industry,company_size_band,country,signup_date,plan_tier
+CUST-0001,Alder Communications K.K.,Telecommunications,201-500,Japan,2023-11-22,Growth
+CUST-0002,Crestline Consulting Pty Ltd,Professional Services,"1,000+",Australia,2023-03-05,Professional
+CUST-0003,Crestline Hospitality SAS,Hospitality & Travel,201-500,France,2024-04-05,Professional
+CUST-0004,Windham Underwriters LLC,Insurance,51-200,United States,2023-10-08,Growth
+CUST-0005,Meadow Initiative Inc.,Nonprofit & Public Sector,51-200,United States,2022-12-26,Growth
+CUST-0006,Palisade Hotels S.A.,Hospitality & Travel,51-200,Spain,2023-02-25,Professional
+CUST-0007,Highland Supply Corp.,Logistics & Supply Chain,201-500,United States,2022-06-06,Enterprise
+CUST-0008,Driftwood Partners NV,Professional Services,51-200,Belgium,2/17/2023,Growth
+CUST-0009,Thistle Trust LLC,Financial Services,1-10,United States,2025-06-13,Growth
+CUST-0010,Amber Entertainment Ltd.,Media & Entertainment,201-500,United Kingdom,2025-02-20,Professional
+CUST-0011,Vista Grid SA,Energy & Utilities,51-200,France,2024-12-27,Professional
+CUST-0012,Fern Medical AB,Healthcare & Life Sciences,"1,000+",Sweden,2022-03-01,Growth
+CUST-0013,Lakeshore Travel Ltd.,Hospitality & Travel,11-50,Canada,10/4/2022,Growth
+CUST-0014,Falcon Networks A/S,Software & Technology,11-50,Denmark,2025-01-20,Growth
+CUST-0015,Fern Estates Inc.,Real Estate & Construction,51-200,United States,2025-06-04,Professional
+CUST-0016,Cobalt Renewables GmbH,Energy & Utilities,201-500,Switzerland,2022-11-24,Growth
+CUST-0017,Meadow Cloud Pty Ltd,Software & Technology,11-50,Australia,9/16/2025,Starter
+CUST-0018,Wren Alliance Pty Ltd,Nonprofit & Public Sector,11-50,Australia,2024-03-22,Professional
+CUST-0019,Wren Networks Ltd.,Telecommunications,201-500,United Kingdom,2023-11-24,Growth
+CUST-0020,Halden Associates Pty Ltd,Professional Services,"501-1,000",Australia,8/27/2024,Professional
+CUST-0021,Falcon Telecom B.V.,Telecommunications,51-200,Netherlands,2023-02-07,Growth
+CUST-0022,Halden Initiative Ltd.,Nonprofit & Public Sector,201-500,United Kingdom,2024-01-14,Professional
+CUST-0023,Thistle Outfitters Sp. z o.o.,Retail & E-commerce,"1,000+",Poland,2024-02-27,Professional
+CUST-0024,Hollow Biosciences Pty Ltd,Healthcare & Life Sciences,201-500,Australia,2022-07-04,Professional
+CUST-0025,Copper Institute B.V.,Higher Education,51-200,Netherlands,2025-05-10,Starter
+CUST-0026,Harbor Insurance Ltd.,Insurance,11-50,United Kingdom,2024-07-07,Starter
+CUST-0027,Larch Capital SAS,Financial Services,201-500,France,2023-03-21,Enterprise
+CUST-0028,Hollow Entertainment GmbH,Media & Entertainment,201-500,Germany,2025-10-19,Professional
+CUST-0029,Ember Health Ltd.,Healthcare & Life Sciences,11-50,Canada,2022-11-10,Starter
+CUST-0030,Clear Wellness Ltd.,Healthcare & Life Sciences,"501-1,000",Canada,2022-02-21,Professional
+CUST-0031,Cedar Biosciences Pte Ltd,Healthcare & Life Sciences,51-200,Singapore,7/28/2025,Professional
+CUST-0032,Alder Leisure Ltd.,Hospitality & Travel,201-500,United Kingdom,3/2/2022,Growth
+CUST-0033,Slate Energy Ltd.,Energy & Utilities,1-10,United Kingdom,2022-02-10,Starter
+CUST-0034,CafÃ© Renard Studios SAS,Media & Entertainment,51-200,France,2023-02-10,Growth
+CUST-0035,Silver Health SA,Healthcare & Life Sciences,51-200,France,4/17/2024,Starter
+CUST-0036,Fern Wireless Pty Ltd,Telecommunications,201-500,Australia,2024-05-10,Professional
+CUST-0037,Willow Pictures S.A.,Media & Entertainment,1-10,Spain,2022-05-28,Growth
+CUST-0038,Harbor Construction SAS,Real Estate & Construction,51-200,France,7 Mar 2022,Growth
+CUST-0039,"Palisade Dynamics Co., Ltd.",Software & Technology,51-200,South Korea,2022-09-02,Growth
+CUST-0040,Redwood Construction SAS,Real Estate & Construction,11-50,France,2022-01-24,Professional
+CUST-0041,Larch Builders S.A.,Real Estate & Construction,1-10,Spain,10/1/2025,Growth
+CUST-0042,Basalt Media Inc.,Media & Entertainment,201-500,United States,2022-04-29,Professional
+CUST-0043,Elm Estates AB,Real Estate & Construction,51-200,Sweden,2022-12-31,Growth
+CUST-0044,Palisade Networks Inc.,Software & Technology,11-50,Canada,2024-05-29,Growth
+CUST-0045,Ridgeline Outfitters Inc.,Retail & E-commerce,51-200,United States,2025-05-28,Growth
+CUST-0046,Amber Estates Inc.,Real Estate & Construction,51-200,United States,2024-05-29,Enterprise
+CUST-0047,Larch Freight AG,Logistics & Supply Chain,11-50,Germany,10/10/2024,Growth
+CUST-0048,Falcon Media Pvt Ltd,Media & Entertainment,51-200,India,11/18/2023,Starter
+CUST-0049,Silver Indemnity B.V.,Insurance,201-500,Netherlands,2022-05-16,Professional
+CUST-0050,Redwood Partners SAS,Professional Services,1-10,France,8/20/2025,Starter
+CUST-0051,Elm Digital SAS,Software & Technology,1-10,France,30 Oct 2023,Professional
+CUST-0052,Thistle Connect GmbH,Telecommunications,1-10,Germany,2025-04-22,Starter
+CUST-0053,Crestline Trust S.A.,Nonprofit & Public Sector,11-50,Spain,2022-08-18,Growth
+CUST-0054,Pinecrest Goods Pte Ltd,Retail & E-commerce,11-50,Singapore,7/7/2023,Professional
+CUST-0055,Bright Consulting Inc.,Professional Services,11-50,Canada,2025-05-22,Growth
+CUST-0056,Lakeshore Insurance Ltd.,Insurance,51-200,Canada,2022-11-15,Growth
+CUST-0057,Vista Power Corp.,Energy & Utilities,201-500,United States,2022-11-17,Professional
+CUST-0058,Fern Dynamics SAS,Software & Technology,11-50,France,2023-02-22,Growth
+CUST-0059,Timber Coalition Corp.,Nonprofit & Public Sector,51-200,United States,2/24/2024,Professional
+CUST-0060,Clear Power S.A. de C.V.,Energy & Utilities,201-500,Mexico,2024-01-18,Professional
+CUST-0061,Windham Grid Corp.,Energy & Utilities,"501-1,000",United States,2023-05-21,Growth
+CUST-0062,Falcon Partners LLC,Financial Services,"501-1,000",united states,2022-04-08,Enterprise
+CUST-0063,Copper Industries Ltd.,Manufacturing,51-200,United Kingdom,2022-03-21,Enterprise
+CUST-0064,Fern Assurance LLC,,51-200,United States,10/27/2024,Professional
+CUST-0065,Copper Alliance Pte Ltd,Nonprofit & Public Sector,"1,000+",Singapore,2025-09-19,Professional
+CUST-0066,Ember Dynamics Ltd.,Software & Technology,201-500,United Kingdom,2023-03-11,Growth
+CUST-0067,Driftwood Leisure AG,Hospitality & Travel,"1,000+",Germany,5/6/2025,Professional
+CUST-0068,Cinderline Medical Ltd.,Healthcare & Life Sciences,1-10,United Kingdom,2023-11-18,Growth
+CUST-0069,Frost Care Corp.,Healthcare & Life Sciences,51-200,United States,2022-08-15,Professional
+CUST-0070,Harbor Partners Pty Ltd,Financial Services,11-50,Australia,9/15/2022,Professional
+CUST-0071,Anchor Trust Corp.,,51-200,united states,2022-02-14,Starter
+CUST-0072,"Clear Leisure Co., Ltd.",Hospitality & Travel,51-200,South Korea,8/4/2024,Professional
+CUST-0073,Fern Hotels Inc.,Hospitality & Travel,201-500,United States,2023-04-29,Enterprise
+CUST-0074,Summit Energy Corp.,Energy & Utilities,"1,000+",United States,2025-04-20,Growth
+CUST-0075,Frost Shipping Pty Ltd,Logistics & Supply Chain,51-200,Australia,2023-12-14,Professional
+CUST-0076,Alder Mercantile LLC,Retail & E-commerce,"501-1,000",United States,2025-06-14,Enterprise
+CUST-0077,Copper Advisory Pte Ltd,Professional Services,51-200,Singapore,2024-03-30,Enterprise
+CUST-0078,Elm Mutual Inc.,Insurance,51-200,United States,2025-07-29,Growth
+CUST-0079,Alder Trust Inc.,Financial Services,51-200,United States,2025-05-11,Professional
+CUST-0080,Thistle Networks Inc.,Telecommunications,1-10,United States,8/8/2025,Growth
+CUST-0081,Summit Works Corp.,Manufacturing,,United States,2024-09-13,Growth
+CUST-0082,Fern Partners Inc.,Professional Services,51-200,United States,2023-07-07,Growth
+CUST-0083,Highland Telecom Ltd.,Telecommunications,,Canada,2024-04-16,Professional
+CUST-0084,Cobalt Networks AG,Telecommunications,51-200,Germany,2025-01-25,Growth
+CUST-0085,Brookfield Care Ltd.,Healthcare & Life Sciences,51-200,Canada,2024-08-31,Enterprise
+CUST-0086,Redwood Supply S.A.,Logistics & Supply Chain,51-200,Spain,2025-02-14,Starter
+CUST-0087,Cobalt Logistics Ltd.,Logistics & Supply Chain,201-500,United Kingdom,2025-06-25,Growth
+CUST-0088,Juniper Associates Inc.,Professional Services,11-50,United States,7/7/2023,Starter
+CUST-0089,Amber Care Pty Ltd,Healthcare & Life Sciences,51-200,Australia,2022-05-30,Growth
+CUST-0090,Granite Alliance Corp.,Nonprofit & Public Sector,201-500,United States,4/26/2023,Enterprise
+CUST-0091,Elm Outfitters Ltd.,Retail & E-commerce,201-500,Canada,2022-07-24,Growth
+CUST-0092,Cobalt Realty S.A.,Real Estate & Construction,201-500,Spain,2025-03-20,Enterprise
+CUST-0093,Ridgeline Renewables Corp.,Energy & Utilities,51-200,United States,2/23/2023,Enterprise
+CUST-0094,Falcon Trust LLC,,11-50,United Arab Emirates,2025-01-15,Professional
+CUST-0095,Hollow Shipping S.A. de C.V.,Logistics & Supply Chain,11-50,Mexico,2022-08-12,Growth
+CUST-0096,Cobalt Institute Inc.,Higher Education,"1,000+",United States,2023-08-07,Professional
+CUST-0097,Foxglove Power Inc.,Energy & Utilities,11-50,United States,2022-12-26,Growth
+CUST-0098,Crestline Partners GmbH,Financial Services,11-50,Germany,2023-07-09,Growth
+CUST-0099,Elm Freight Ltd.,Logistics & Supply Chain,201-500,united kingdom,2/8/2023,Growth
+CUST-0100,Quarry Construction AS,Real Estate & Construction,"501-1,000",Norway,2/26/2024,Professional
+CUST-0101,Highland Partners Pty Ltd,Financial Services,11-50,Australia,2024-12-17,Growth
+CUST-0102,Quarry Pictures Sp. z o.o.,Media & Entertainment,51-200,Poland,8/7/2023,Starter
+CUST-0103,Frost Academy SAS,Higher Education,51-200,France,2022-04-28,Professional
+CUST-0104,Falcon Coalition GmbH,Nonprofit & Public Sector,11-50,Germany,2025-06-25,Growth
+CUST-0105,Larch Biosciences AB,Healthcare & Life Sciences,51-200,Sweden,2025-02-28,Growth
+CUST-0106,Slate Utilities Inc.,Energy & Utilities,11-50,United States,11/1/2023,Starter
+CUST-0107,Halden Shipping Pty Ltd,Logistics & Supply Chain,"501-1,000",Australia,2025-08-13,Professional
+CUST-0108,Slate Distribution Corp.,Logistics & Supply Chain,51-200,United States,2022-09-28,Growth
+CUST-0109,Meadow Utilities Inc.,Energy & Utilities,11-50,US,9/15/2023,Growth
+CUST-0110,Marsh Coalition GmbH,Nonprofit & Public Sector,11-50,Germany,2023-09-07,Starter
+CUST-0111,Cedar Initiative LLC,Nonprofit & Public Sector,201-500,united states,2023-11-11,Enterprise
+CUST-0112,Maple Energy Corp.,Energy & Utilities,51-200,United States,2024-10-29,Starter
+CUST-0113,Ridgeline Mercantile B.V.,Retail & E-commerce,11-50,Netherlands,2023-03-22,Growth
+CUST-0114,Frost Outfitters LLC,Retail & E-commerce,"1,000+",United States,2023-01-27,Enterprise
+CUST-0115,Copper Telecom Ltd.,Telecommunications,11-50,Canada,2025-03-29,Growth
+CUST-0116,Cobalt Fabrication Ltd.,Manufacturing,51-200,United Kingdom,2023-10-22,Starter
+CUST-0117,Amber Resorts LLC,Hospitality & Travel,11-50,United States,2024-06-02,Growth
+CUST-0118,Copper Distribution Corp.,Logistics & Supply Chain,201-500,United States,2023-12-19,Enterprise
+CUST-0119,Quarry College Pty Ltd,Higher Education,51-200,Australia,2024-11-18,Growth
+CUST-0120,Thistle Pictures Inc.,Media & Entertainment,,United States,9/14/2025,Enterprise
+CUST-0121,Granite Trust Inc.,Financial Services,51-200,United States,2024-04-03,Starter
+CUST-0122,Windham Mutual A/S,Insurance,11-50,DENMARK,8/17/2023,Starter
+CUST-0123,Falcon Leisure GmbH,Hospitality & Travel,51-200,Germany,2022-03-14,Growth
+CUST-0124,Meadow Dynamics Corp.,Software & Technology,51-200,United States,2024-12-02,Starter
+CUST-0125,Timber Pictures Pty Ltd,Media & Entertainment,51-200,Australia,2023-06-29,Professional
+CUST-0126,Elm Analytics LLC,Software & Technology,1-10,United States,2022-07-05,Growth
+CUST-0127,Brühlmann Energie AG,Energy & Utilities,51-200,Germany,2023-12-30,Growth
+CUST-0128,Pinecrest Shipping Pty Ltd,Logistics & Supply Chain,51-200,Australia,2023-02-16,Growth
+CUST-0129,River Financial B.V.,Financial Services,51-200,Netherlands,2025-01-05,Enterprise
+CUST-0130,Foxglove Capital Lda.,Financial Services,"1,000+",Portugal,2023-10-24,Enterprise
+CUST-0131,Iron Mutual Corp.,Insurance,"501-1,000",United States,2025-10-29,Professional
+CUST-0132,Iron Initiative Ltd.,Nonprofit & Public Sector,"1,000+",United Kingdom,2023-04-13,Enterprise
+CUST-0133,Crestline Communications Inc.,Telecommunications,201-500,United States,2024-09-10,Enterprise
+CUST-0134,Cobalt Media Pte Ltd,Media & Entertainment,201-500,Singapore,2022-06-27,Professional
+CUST-0135,Summit Initiative Ltd.,Nonprofit & Public Sector,"1,000+",New Zealand,2025-03-05,Growth
+CUST-0136,Brookfield Properties AB,Real Estate & Construction,51-200,Sweden,4/25/2024,Growth
+CUST-0137,Foxglove Energy Inc.,Energy & Utilities,201-500,United States,2023-05-02,Starter
+CUST-0138,Marsh Studios Pvt Ltd,Media & Entertainment,201-500,India,,Enterprise
+CUST-0139,Maple Builders LLC,Real Estate & Construction,51-200,United States,1/13/2024,Professional
+CUST-0140,Clear Networks AG,Software & Technology,201-500,Switzerland,2022-02-09,Growth
+CUST-0141,Amber Goods Ltd.,Retail & E-commerce,201-500,United Kingdom,2022-12-24,Professional
+CUST-0142,Hollow Coalition K.K.,Nonprofit & Public Sector,51-200,Japan,2023-07-16,Professional
+CUST-0143,Foxglove Pictures Inc.,Media & Entertainment,51-200,Canada,4/9/2024,Professional
+CUST-0144,Alder Institute Ltd.,Higher Education,201-500,Ireland,2023-08-22,Growth
+CUST-0145,Bramble Coalition LLC,Nonprofit & Public Sector,201-500,United States,7/27/2023,Enterprise
+CUST-0146,Vista Initiative Inc.,Nonprofit & Public Sector,11-50,United States,2022-03-24,Starter
+CUST-0147,Iron Grid Lda.,Energy & Utilities,11-50,Portugal,2023-06-21,Growth
+CUST-0148,Windham Studios LLC,Media & Entertainment,51-200,United States,10/13/2024,Starter
+CUST-0149,Clear Properties Ltda.,Real Estate & Construction,11-50,Brazil,2024-08-21,Starter
+CUST-0150,Redwood Systems Sp. z o.o.,Software & Technology,51-200,Poland,2024-05-27,Growth
+CUST-0151,Fern Cloud Ltd.,Software & Technology,201-500,United Kingdom,2023-11-02,Professional
+CUST-0152,Lakeshore Trust Ltd.,Nonprofit & Public Sector,11-50,Canada,3/31/2022,Starter
+CUST-0153,Timber Wellness B.V.,Healthcare & Life Sciences,11-50,Netherlands,6/27/2025,Starter
+CUST-0154,Bright Outfitters Corp.,Retail & E-commerce,11-50,United States,2022-03-18,Starter
+CUST-0155,Harbor Medical Ltd.,Healthcare & Life Sciences,51-200,Ireland,2024-11-17,Enterprise
+CUST-0156,Amber Mutual LLC,,"501-1,000",United States,2025-06-02,Enterprise
+CUST-0157,River Properties Corp.,Real Estate & Construction,11-50,United States,2022-10-30,Growth
+CUST-0158,Vista Broadcasting Inc.,Media & Entertainment,11-50,United States,2025-08-16,Professional
+CUST-0159,Lakeshore Renewables LLC,Energy & Utilities,201-500,United States,2024-11-11,Professional
+CUST-0160,Vista Indemnity AB,Insurance,11-50,Sweden,2023-08-04,Professional
+CUST-0161,Crestline Goods AB,Retail & E-commerce,"1,000+",Sweden,2023-03-30,Enterprise
+CUST-0162,Bright Group AB,Professional Services,201-500,Sweden,2024-07-09,Professional
+CUST-0163,Fern Foundation Inc.,Nonprofit & Public Sector,51-200,United States,2024-06-24,Professional
+CUST-0164,Birchwood Mutual AB,Insurance,201-500,Sweden,2023-07-17,Starter
+CUST-0165,Ember Mercantile Inc.,Retail & E-commerce,201-500,United States,2025-09-16,Professional
+CUST-0166,Falcon Construction B.V.,Real Estate & Construction,51-200,Netherlands,2024-02-15,Growth
+CUST-0167,Summit Entertainment Pty Ltd,Media & Entertainment,"1,000+",South Africa,2025-06-13,Enterprise
+CUST-0168,Hollow Mutual Corp.,Insurance,51-200,United States,10/17/2022,Growth
+CUST-0169,Maple Networks Corp.,Telecommunications,1-10,United States,2025-09-06,Growth
+CUST-0170,Iron Mercantile Corp.,Retail & E-commerce,11-50,United States,2025-03-29,Professional
+CUST-0171,Basalt Studios LLC,Media & Entertainment,1-10,United Arab Emirates,2023-12-31,Growth
+CUST-0172,Cobalt Works S.A.,Manufacturing,1-10,Spain,1/28/2023,Growth
+CUST-0173,Maple Resorts Corp.,Hospitality & Travel,11-50,United States,2023-03-27,Professional
+CUST-0174,Ember Initiative SA,Nonprofit & Public Sector,11-50,France,2/12/2023,Growth
+CUST-0175,Silver Grid Ltd.,Energy & Utilities,1-10,United Kingdom,2025-10-27,Starter
+CUST-0176,Harbor Group Pvt Ltd,Professional Services,"501-1,000",India,2023-01-12,Enterprise
+CUST-0177,Iron Trust B.V.,Nonprofit & Public Sector,11-50,Netherlands,2025-10-17,Growth
+CUST-0178,Harbor Indemnity Inc.,Insurance,51-200,Canada,2023-07-10,Starter
+CUST-0179,Copper Freight AB,Logistics & Supply Chain,11-50,Sweden,2024-11-08,Starter
+CUST-0180,Windham Biosciences S.A.,Healthcare & Life Sciences,11-50,Spain,2/23/2022,Growth

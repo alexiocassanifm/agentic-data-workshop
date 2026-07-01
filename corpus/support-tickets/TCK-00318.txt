@@ -1,0 +1,15 @@
+Ticket ID: TCK-00318
+Customer ID: CUST-0026
+Contact: Ronald Garcia
+Priority: Low
+Status: Open
+Created: 2024-10-25
+
+Subject: Can't log in on the iOS app
+
+Hi support team,
+
+The numbers I see on the mobile app don't match what's on the desktop dashboard. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. I mostly use the app while traveling for the reporting view, and that's exactly the part that's missing. Happy to send a screen recording if that's useful.
+
+Thanks a lot,
+Ronald

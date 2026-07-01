@@ -1,0 +1,7 @@
+Account: CUST-0060 - Clear Power
+Contact: Diego Berg (Office Manager)
+Account Executive: Isabella Conti
+Date: 2024-03-21
+Type: Renewal Call
+
+Diego brought up on the call that our nightly batch job that pulls records via the API has started failing partway through. They said would it be possible to get documentation on the exact limits per endpoint? right now we're guessing. I've opened a ticket on their behalf and promised a follow-up this week.

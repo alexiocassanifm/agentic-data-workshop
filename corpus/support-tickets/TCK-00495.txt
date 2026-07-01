@@ -1,0 +1,15 @@
+Ticket ID: TCK-00495
+Customer ID: CUST-0132
+Contact: Amara Whitfield
+Priority: Urgent
+Status: Resolved
+Created: 2023-10-16
+
+Subject: Export button just spins forever
+
+Hi support team,
+
+Our weekly scheduled export didn't show up in the inbox this week. We rely on this export to feed our own reporting, so the missing rows are throwing off our numbers downstream. Happy to send the file we downloaded if it helps you reproduce it.
+
+Thanks,
+Amara

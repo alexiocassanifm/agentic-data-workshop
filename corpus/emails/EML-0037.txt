@@ -1,0 +1,10 @@
+From: Grace Petrov <grace.petrov@larkspurflow.com>
+To: Melissa Hall <melissa.hall@redwood-supply.es>
+Subject: Next steps for getting fully set up
+Date: 2025-02-23
+
+Quick note on setup: if you haven't connected your integrations yet (Salesforce and Slack are the most common), now's a good time. It tends to make the first few weeks much smoother once notifications and data sync are flowing automatically.
+
+Best,
+Grace
+Customer Success, Larkspur Flow

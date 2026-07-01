@@ -1,0 +1,15 @@
+Ticket ID: TCK-00359
+Customer ID: CUST-0035
+Contact: Melissa Allen
+Priority: High
+Status: Closed
+Created: 2025-03-13
+
+Subject: Need your SOC 2 report for our security review
+
+Hi,
+
+Quick compliance question, is data encrypted both in transit and at rest? The questionnaire also asks about your incident response process and average time to notify customers of an incident. We're on a bit of a deadline with our own audit, so a quick turnaround would help.
+
+Appreciate the help,
+Melissa

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00392
+Customer ID: CUST-0084
+Contact: Mei Dubois
+Priority: Medium
+Status: Resolved
+Created: 2025-03-21
+
+Subject: Onboarding checklist seems out of date
+
+To the Larkspur Flow team,
+
+We're trying to get everything ready before our internal kickoff next week and running into a few snags. We imported a test batch of records and some fields came through blank that had data in the source file. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. We'd like to get this sorted before our internal rollout next week if possible.
+
+Thank you,
+Mei

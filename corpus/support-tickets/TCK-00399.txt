@@ -1,0 +1,15 @@
+Ticket ID: TCK-00399
+Customer ID: CUST-0037
+Contact: Joseph Anderson
+Priority: Low
+Status: Waiting on Customer
+Created: 2025-05-19
+
+Subject: Confused about which plan features we actually have
+
+Hi,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. A couple of us are non-technical and the current instructions assume more familiarity than we have. It would help to have a clearer sense of what's included in our plan versus what needs an upgrade. Thanks, we're excited to get going once we're past this part.
+
+Regards,
+Joseph

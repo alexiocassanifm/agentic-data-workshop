@@ -1,0 +1,15 @@
+Ticket ID: TCK-00499
+Customer ID: CUST-0015
+Contact: Elena Larsen
+Priority: Urgent
+Status: Open
+Created: 2025-08-20
+
+Subject: Need a higher rate limit for our integration
+
+Hi support team,
+
+We think we're hitting a rate limit, but the error message doesn't say what the actual limit is. We added exponential backoff on our end but we're still losing a portion of requests during peak load. The failures seem to cluster around the top of the hour, which lines up with when several of our scheduled jobs kick off at once. This is affecting our Slack sync specifically, other endpoints seem fine. Thanks for looking into this.
+
+Appreciate the help,
+Elena

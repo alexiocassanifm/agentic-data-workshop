@@ -1,0 +1,15 @@
+Ticket ID: TCK-00036
+Customer ID: CUST-0165
+Contact: Nadia Muller
+Priority: Medium
+Status: In Progress
+Created: 2025-10-29
+
+Subject: Question about encryption at rest
+
+Hi team,
+
+Our procurement team sent over a security questionnaire that we need help answering. The questionnaire also asks about your incident response process and average time to notify customers of an incident. Does the platform support exporting an audit log of who accessed or changed what, and for how long is that retained? Let us know what's the best way to get these documents.
+
+Best regards,
+Nadia

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00283
+Customer ID: CUST-0020
+Contact: Marco Mensah
+Priority: High
+Status: Open
+Created: 2024-09-07
+
+Subject: Question about data residency for EU customers
+
+Hello,
+
+We need to confirm where our data is physically hosted for a compliance requirement. We're trying to close this out before renewal, so any documentation you can point us to would save time. Our legal team wants to see the data processing agreement, if there's an updated version available. Let us know what's the best way to get these documents.
+
+Thanks a lot,
+Marco

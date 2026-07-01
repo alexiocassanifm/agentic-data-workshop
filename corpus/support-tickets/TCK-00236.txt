@@ -1,0 +1,15 @@
+Ticket ID: TCK-00236
+Customer ID: CUST-0170
+Contact: Tomas Young
+Priority: Medium
+Status: Open
+Created: 2025-11-07
+
+Subject: Analytics feels limited compared to what we need
+
+Hi,
+
+Is there a way to build a custom report, or are we limited to the pre-built ones? A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Thanks for considering it.
+
+Appreciate the help,
+Tomas

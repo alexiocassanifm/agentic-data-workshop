@@ -1,0 +1,15 @@
+Ticket ID: TCK-00124
+Customer ID: CUST-0076
+Contact: Andrew Carter
+Priority: Medium
+Status: Resolved
+Created: 2025-10-12
+
+Subject: Team member can see accounts they shouldn't
+
+Hi team,
+
+One of our new hires can apparently see data from a different department, which shouldn't be the case. This person joined the sales team last month and somehow has visibility into a completely separate business unit's data. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. It's unclear whether permission changes apply immediately or need the user to log out and back in. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Thanks a lot,
+Andrew

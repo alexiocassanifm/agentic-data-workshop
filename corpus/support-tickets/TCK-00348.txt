@@ -1,0 +1,15 @@
+Ticket ID: TCK-00348
+Customer ID: CUST-0077
+Contact: Barbara Harris
+Priority: Urgent
+Status: Resolved
+Created: 2024-07-07
+
+Subject: Integration shows connected but nothing is syncing
+
+Hey there,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. Could someone check the sync status on your end?
+
+Thanks a lot,
+Barbara

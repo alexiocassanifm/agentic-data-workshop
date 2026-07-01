@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Ingrid King <ingrid.king@silver-grid.co.uk>
+Subject: How's onboarding going so far?
+Date: 2025-11-28
+
+Checking in to see how things are going for Silver Grid. Sometimes a month in is when teams start hitting more advanced use cases, custom reports, deeper automation, that kind of thing. Let me know if there's anything you'd like help configuring.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

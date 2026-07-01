@@ -1,0 +1,15 @@
+Ticket ID: TCK-00131
+Customer ID: CUST-0155
+Contact: Joseph Miller
+Priority: Medium
+Status: Closed
+Created: 2025-06-07
+
+Subject: Stuck on step 3 of setup
+
+Hi,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. We imported a test batch of records and some fields came through blank that had data in the source file. We have about 36 people to add and doing it one at a time doesn't seem practical. We'd like to get this sorted before our internal rollout next week if possible.
+
+Appreciate the help,
+Joseph

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00068
+Customer ID: CUST-0043
+Contact: Sarah Flores
+Priority: Low
+Status: Open
+Created: 2023-12-25
+
+Subject: Need a read-only role for auditors
+
+Hello,
+
+One of our new hires can apparently see data from a different department, which shouldn't be the case. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. Thanks for the help.
+
+Thanks,
+Sarah

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00261
+Customer ID: CUST-0054
+Contact: Stephanie Dubois
+Priority: Medium
+Status: Resolved
+Created: 2025-08-05
+
+Subject: Can't figure out how to remove someone's admin access
+
+Hi team,
+
+We're trying to set up permissions so that only a few people have admin rights, and the options are a bit confusing. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. We have roughly 34 different teams that should each only see their own accounts, and right now everyone can see everything. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Best regards,
+Stephanie

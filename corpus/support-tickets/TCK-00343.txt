@@ -1,0 +1,15 @@
+Ticket ID: TCK-00343
+Customer ID: CUST-0074
+Contact: Diego Garcia
+Priority: Medium
+Status: Open
+Created: 2025-05-18
+
+Subject: Unexpected overage charge
+
+To the Larkspur Flow team,
+
+We upgraded plans mid-month and the proration on the invoice looks off. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Let me know if you need anything else from our side to fix this.
+
+Best,
+Diego

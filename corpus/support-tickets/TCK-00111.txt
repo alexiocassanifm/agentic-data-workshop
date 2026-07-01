@@ -1,0 +1,15 @@
+Ticket ID: TCK-00111
+Customer ID: CUST-0124
+Contact: Mei Moreau
+Priority: High
+Status: In Progress
+Created: 2025-06-13
+
+Subject: Does the platform support audit logging?
+
+Hello,
+
+Could you send over your latest SOC 2 report? Our auditors are asking for it. Our legal team wants to see the data processing agreement, if there's an updated version available. Specifically we need to know if EU customer data stays within the EU or if it's processed elsewhere. Thank you for your help with this.
+
+Thanks a lot,
+Mei

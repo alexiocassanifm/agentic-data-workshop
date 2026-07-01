@@ -1,0 +1,15 @@
+Ticket ID: TCK-00371
+Customer ID: CUST-0160
+Contact: Kevin Nguyen
+Priority: Medium
+Status: Resolved
+Created: 2024-02-21
+
+Subject: Can we get scheduled report emails?
+
+Hi folks,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. Is this something on the roadmap, or a configuration we're missing?
+
+Regards,
+Kevin

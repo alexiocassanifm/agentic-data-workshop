@@ -1,0 +1,15 @@
+Ticket ID: TCK-00171
+Customer ID: CUST-0093
+Contact: Sandra Johnson
+Priority: Medium
+Status: Closed
+Created: 2024-08-26
+
+Subject: Mobile app is missing a feature the desktop has
+
+Hey there,
+
+Trying to attach a file from my phone just fails with no real error message. I tried reinstalling the app and clearing the cache, no change. Would help to know if a fix is already in progress.
+
+Thanks a lot,
+Sandra

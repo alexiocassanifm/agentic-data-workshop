@@ -1,0 +1,15 @@
+Ticket ID: TCK-00424
+Customer ID: CUST-0140
+Contact: Ronald Eriksson
+Priority: Medium
+Status: In Progress
+Created: 2024-06-23
+
+Subject: Missing a breakdown by region in reporting
+
+Hi support team,
+
+The reporting is good as far as it goes, but it's missing a breakdown we need for our board meetings. A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. Would love to hear if there's a workaround in the meantime.
+
+Regards,
+Ronald

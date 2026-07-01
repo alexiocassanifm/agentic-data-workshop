@@ -1,0 +1,15 @@
+Ticket ID: TCK-00294
+Customer ID: CUST-0051
+Contact: Sandra Hall
+Priority: Medium
+Status: Waiting on Customer
+Created: 2024-05-11
+
+Subject: Can we get a corrected invoice?
+
+Hi,
+
+Quick billing question before I forward this to our finance team. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Could someone from billing take a look and send a corrected invoice if needed?
+
+Best,
+Sandra

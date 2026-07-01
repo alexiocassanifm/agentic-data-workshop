@@ -1,0 +1,15 @@
+Ticket ID: TCK-00466
+Customer ID: CUST-0160
+Contact: Kevin Nguyen
+Priority: Low
+Status: Resolved
+Created: 2024-12-14
+
+Subject: Mobile app crashes on opening
+
+Hi,
+
+The mobile app crashes immediately for me every time I try to open it. The upload bar fills up and then just resets back to zero with no error shown. Would help to know if a fix is already in progress.
+
+Thanks,
+Kevin

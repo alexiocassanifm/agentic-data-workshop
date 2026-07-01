@@ -1,0 +1,15 @@
+Ticket ID: TCK-00216
+Customer ID: CUST-0026
+Contact: Ronald Garcia
+Priority: Medium
+Status: Resolved
+Created: 2025-03-14
+
+Subject: Question about a line item on our latest invoice
+
+Hi support team,
+
+Our finance team flagged an odd charge on the statement from this week. The proration credit for our recent change doesn't appear anywhere on the statement. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Could someone from billing take a look and send a corrected invoice if needed?
+
+Best,
+Ronald

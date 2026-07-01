@@ -1,0 +1,15 @@
+Ticket ID: TCK-00043
+Customer ID: CUST-0172
+Contact: Ravi Novak
+Priority: Urgent
+Status: Resolved
+Created: 2025-11-23
+
+Subject: Need a read-only role for auditors
+
+Hi folks,
+
+We changed a permission setting a few days ago and it doesn't seem to be respected anywhere. It's unclear whether permission changes apply immediately or need the user to log out and back in. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Thanks a lot,
+Ravi

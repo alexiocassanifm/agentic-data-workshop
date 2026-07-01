@@ -1,0 +1,15 @@
+Ticket ID: TCK-00346
+Customer ID: CUST-0080
+Contact: Donald Okafor
+Priority: Low
+Status: Closed
+Created: 2025-09-12
+
+Subject: Integration shows connected but nothing is syncing
+
+Hi,
+
+A webhook we rely on for a downstream process seems to have stopped firing. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Best regards,
+Donald

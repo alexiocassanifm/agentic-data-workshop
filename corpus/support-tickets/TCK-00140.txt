@@ -1,0 +1,15 @@
+Ticket ID: TCK-00140
+Customer ID: CUST-0137
+Contact: Patricia Lee
+Priority: Low
+Status: Closed
+Created: 2024-02-15
+
+Subject: Onboarding checklist seems out of date
+
+Hey there,
+
+We just signed up and aren't totally sure where to start. We have about 46 people to add and doing it one at a time doesn't seem practical. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. Let us know the best next step.
+
+Best regards,
+Patricia

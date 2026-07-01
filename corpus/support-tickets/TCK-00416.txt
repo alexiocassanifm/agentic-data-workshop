@@ -1,0 +1,15 @@
+Ticket ID: TCK-00416
+Customer ID: CUST-0117
+Contact: Stephanie Osei
+Priority: Medium
+Status: Resolved
+Created: 2024-08-27
+
+Subject: Analytics feels limited compared to what we need
+
+Hello,
+
+Not a bug, more of a feature request around analytics. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. We're on the Enterprise plan, is custom reporting something that's only available at a higher tier? Happy to jump on a call to explain exactly what we're trying to build.
+
+Thanks,
+Stephanie

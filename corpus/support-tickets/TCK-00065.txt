@@ -1,0 +1,15 @@
+Ticket ID: TCK-00065
+Customer ID: CUST-0063
+Contact: Melissa Halvorsen
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2025-02-18
+
+Subject: Can't log in via SSO this morning
+
+Hi,
+
+Quick question about the SSO setup, is there a known issue today? We tried both Chrome and Safari and get the same redirect loop in both. Any chance this is a known issue today? Happy to hop on a call if that's faster.
+
+Thanks a lot,
+Melissa

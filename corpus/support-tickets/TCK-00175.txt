@@ -1,0 +1,15 @@
+Ticket ID: TCK-00175
+Customer ID: CUST-0050
+Contact: Deborah Hill
+Priority: Medium
+Status: Open
+Created: 2025-09-12
+
+Subject: Can't figure out how to remove someone's admin access
+
+Hi support team,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. This person joined the support team last month and somehow has visibility into a completely separate business unit's data. Happy to hop on a call if it's easier to explain live.
+
+Appreciate the help,
+Deborah

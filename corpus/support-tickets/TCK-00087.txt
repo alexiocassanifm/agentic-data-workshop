@@ -1,0 +1,15 @@
+Ticket ID: TCK-00087
+Customer ID: CUST-0128
+Contact: William Rodriguez
+Priority: Low
+Status: Closed
+Created: 2024-09-17
+
+Subject: Webhook stopped firing
+
+Hi folks,
+
+A webhook we rely on for a downstream process seems to have stopped firing. We noticed about 31 duplicate contact records that seem to have been created during last Tuesday's sync. This integration is pretty central to how our customer success team works, so the gap has been noticed internally. Thanks for digging in.
+
+Thanks a lot,
+William

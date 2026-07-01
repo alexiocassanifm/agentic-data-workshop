@@ -1,0 +1,15 @@
+Ticket ID: TCK-00458
+Customer ID: CUST-0142
+Contact: Grace Van der Berg
+Priority: High
+Status: Open
+Created: 2025-02-22
+
+Subject: API throttling is breaking our nightly sync
+
+Hi folks,
+
+Is there a way to see our current API usage against the limit? We keep getting throttled. Would it be possible to get documentation on the exact limits per endpoint? Right now we're guessing. Happy to share request logs if that helps you investigate.
+
+Regards,
+Grace

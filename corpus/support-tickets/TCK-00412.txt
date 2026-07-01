@@ -1,0 +1,15 @@
+Ticket ID: TCK-00412
+Customer ID: CUST-0016
+Contact: Emily Nguyen
+Priority: Medium
+Status: Waiting on Customer
+Created: 2023-10-12
+
+Subject: Slow load times during business hours
+
+Hi,
+
+We're seeing pages take ten seconds or more to load, especially first thing in the morning. A workflow that used to run within a few minutes is now taking closer to 51 minutes to complete. We've tried different browsers and different machines, so it doesn't seem to be on our end. Support tickets and dashboard views both feel affected, not just one part of the product. Any status update would help us know whether to expect improvement soon.
+
+Regards,
+Emily

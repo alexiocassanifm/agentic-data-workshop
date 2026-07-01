@@ -1,0 +1,15 @@
+Ticket ID: TCK-00334
+Customer ID: CUST-0097
+Contact: Lisa Walker
+Priority: High
+Status: Closed
+Created: 2025-09-03
+
+Subject: Integration shows connected but nothing is syncing
+
+Hey there,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Regards,
+Lisa

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00137
+Customer ID: CUST-0163
+Contact: Kimberly Harris
+Priority: Low
+Status: Open
+Created: 2025-03-04
+
+Subject: Analytics feels limited compared to what we need
+
+Hello,
+
+Is there a way to build a custom report, or are we limited to the pre-built ones? A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. Happy to jump on a call to explain exactly what we're trying to build.
+
+Appreciate the help,
+Kimberly

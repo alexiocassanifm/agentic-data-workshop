@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Ronald Adams <ronald.adams@cobalt-fabrication.co.uk>
+Subject: You're all set up, let's get started
+Date: 2023-10-24
+
+Welcome to Larkspur Flow! We're glad to have Cobalt Fabrication on board. Over the next couple of weeks I'll be your point of contact for getting set up. To start, take a look at the setup checklist in your account, it walks through connecting your data source and inviting your team. If anything is unclear, just reply here and I'll help directly.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

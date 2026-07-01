@@ -1,0 +1,15 @@
+Ticket ID: TCK-00339
+Customer ID: CUST-0140
+Contact: John Miller
+Priority: High
+Status: Waiting on Customer
+Created: 2023-03-30
+
+Subject: Proration on our upgrade doesn't add up
+
+Hello,
+
+We upgraded plans mid-month and the proration on the invoice looks off. The proration credit for our recent change doesn't appear anywhere on the statement. The contract states 43 seats at the agreed rate, but the invoice shows a higher seat count. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Appreciate the help,
+John

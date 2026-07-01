@@ -1,0 +1,7 @@
+Account: CUST-0169 - Maple Networks
+Contact: Isabella Carter (Head of Customer Success)
+Account Executive: Tomás Farrow
+Date: 2025-11-30
+Type: Renewal Call
+
+Isabella brought up on the call that since this morning, none of our team can get past the login screen. They said the error message we get is something like 'invalid saml response' right after the redirect back from our identity provider. I told them I'd relay this to the support team and follow up once there's an update.

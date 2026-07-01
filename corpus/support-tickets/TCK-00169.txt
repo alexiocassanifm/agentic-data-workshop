@@ -1,0 +1,15 @@
+Ticket ID: TCK-00169
+Customer ID: CUST-0098
+Contact: Joshua Eriksson
+Priority: High
+Status: Closed
+Created: 2023-11-01
+
+Subject: Everything feels sluggish since Monday
+
+Hi support team,
+
+Not sure if this is just us, but performance has taken a real hit recently. This is starting to affect how quickly our team can respond to things during the day. Any status update would help us know whether to expect improvement soon.
+
+Best regards,
+Joshua

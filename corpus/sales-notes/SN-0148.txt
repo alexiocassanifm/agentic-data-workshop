@@ -1,0 +1,7 @@
+Account: CUST-0066 - Ember Dynamics
+Contact: Carol Scott (Customer Success Manager)
+Account Executive: Jamal Osei
+Date: 2025-06-07
+Type: Onsite Visit Follow-up
+
+On a related note, Carol said not a bug, more of a feature request around analytics. They added that specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. I told them I'd relay this to the support team and follow up once there's an update.

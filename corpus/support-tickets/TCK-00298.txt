@@ -1,0 +1,15 @@
+Ticket ID: TCK-00298
+Customer ID: CUST-0025
+Contact: Chloe King
+Priority: Low
+Status: Closed
+Created: 2025-06-11
+
+Subject: Automation workflows are lagging behind
+
+Hi team,
+
+Loading anything with a lot of records has become painfully slow. It seems worse between about 9 and 11am, which is when most of our team logs in. A workflow that used to run within a few minutes is now taking closer to 48 minutes to complete. This is becoming a real drag on our day-to-day, so we'd appreciate a look.
+
+Thanks a lot,
+Chloe

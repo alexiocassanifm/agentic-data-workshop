@@ -1,0 +1,15 @@
+Ticket ID: TCK-00047
+Customer ID: CUST-0141
+Contact: Rahul Smith
+Priority: Medium
+Status: Resolved
+Created: 2025-10-05
+
+Subject: Sales tax on our invoice looks wrong
+
+Hi folks,
+
+Someone in accounting asked me to follow up about a discrepancy on our latest bill. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Thanks a lot,
+Rahul

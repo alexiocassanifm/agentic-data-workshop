@@ -1,0 +1,15 @@
+Ticket ID: TCK-00084
+Customer ID: CUST-0009
+Contact: Mohammed Ellery
+Priority: High
+Status: Open
+Created: 2025-10-23
+
+Subject: Slack channel missing daily summaries
+
+Hi folks,
+
+A webhook we rely on for a downstream process seems to have stopped firing. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Best regards,
+Mohammed

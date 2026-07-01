@@ -1,0 +1,15 @@
+Ticket ID: TCK-00311
+Customer ID: CUST-0049
+Contact: Emily Berg
+Priority: Medium
+Status: Closed
+Created: 2022-11-01
+
+Subject: Need a read-only role for auditors
+
+To the Larkspur Flow team,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. This person joined the sales team last month and somehow has visibility into a completely separate business unit's data. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. Happy to hop on a call if it's easier to explain live.
+
+Thank you,
+Emily

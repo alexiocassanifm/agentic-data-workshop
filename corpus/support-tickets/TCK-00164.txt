@@ -1,0 +1,15 @@
+Ticket ID: TCK-00164
+Customer ID: CUST-0100
+Contact: Carlos Kim
+Priority: High
+Status: Waiting on Customer
+Created: 2024-07-12
+
+Subject: Stuck on step 3 of setup
+
+To the Larkspur Flow team,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. We imported a test batch of records and some fields came through blank that had data in the source file. Let us know the best next step.
+
+Thank you,
+Carlos

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00030
+Customer ID: CUST-0021
+Contact: Anthony Gonzalez
+Priority: Medium
+Status: In Progress
+Created: 2025-02-27
+
+Subject: Not sure how to invite our whole team
+
+To the Larkspur Flow team,
+
+The setup checklist mentions a step that doesn't seem to exist in our account anymore. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. Any help getting unstuck here would be appreciated.
+
+Thank you,
+Anthony

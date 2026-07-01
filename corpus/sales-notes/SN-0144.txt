@@ -1,0 +1,7 @@
+Account: CUST-0058 - Fern Dynamics
+Contact: Andrew King (Senior Systems Administrator)
+Account Executive: Dana Whitfield
+Date: 2024-12-06
+Type: Renewal Call
+
+Andrew asked how our roadmap compares to Ridgepoint CRM on the reporting side, said a colleague at another company had been talking it up. I positioned our upcoming features but want to follow up with a comparison sheet.

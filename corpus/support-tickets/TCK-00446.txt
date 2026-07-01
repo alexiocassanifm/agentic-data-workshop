@@ -1,0 +1,15 @@
+Ticket ID: TCK-00446
+Customer ID: CUST-0175
+Contact: Ingrid King
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-11-02
+
+Subject: Can't log in on the iOS app
+
+Hi,
+
+A feature I use constantly on desktop doesn't seem to exist at all on mobile. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. This is on the latest version of the app, on a phone that's about 9 months old, and it happens every single time, not intermittently. A few other people on our team have confirmed they're seeing the same thing on their phones. This is making the mobile app pretty much unusable for me right now.
+
+Regards,
+Ingrid

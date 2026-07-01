@@ -1,0 +1,15 @@
+Ticket ID: TCK-00049
+Customer ID: CUST-0041
+Contact: Kenneth Miller
+Priority: High
+Status: Waiting on Customer
+Created: 2025-11-25
+
+Subject: Webhook stopped firing
+
+Hey there,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. We double-checked the Salesforce connection and the API user still has the right permissions on their side. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. We noticed about 35 duplicate contact records that seem to have been created during last Tuesday's sync. Could someone check the sync status on your end?
+
+Thanks a lot,
+Kenneth

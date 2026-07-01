@@ -1,0 +1,15 @@
+Ticket ID: TCK-00266
+Customer ID: CUST-0088
+Contact: Greta Wilson
+Priority: Medium
+Status: In Progress
+Created: 2024-02-07
+
+Subject: Proration on our upgrade doesn't add up
+
+Hello,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Our finance team is asking about this so a quick turnaround would be great.
+
+Thanks a lot,
+Greta

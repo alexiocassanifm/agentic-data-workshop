@@ -1,0 +1,15 @@
+Ticket ID: TCK-00329
+Customer ID: CUST-0062
+Contact: Elizabeth Roberts
+Priority: High
+Status: Resolved
+Created: 2022-06-02
+
+Subject: Single sign-on redirect loop
+
+Hey there,
+
+I'm not sure if this is on our end or yours, but SSO stopped working for everyone right after your last release. The error message we get is something like 'invalid SAML response' right after the redirect back from our identity provider. Any chance this is a known issue today? Happy to hop on a call if that's faster.
+
+Thank you,
+Elizabeth

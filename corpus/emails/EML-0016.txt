@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Ronald Adams <ronald.adams@cobalt-fabrication.co.uk>
+Subject: Next steps for getting fully set up
+Date: 2023-11-02
+
+Quick note on setup: if you haven't connected your integrations yet (Salesforce and Slack are the most common), now's a good time. It tends to make the first few weeks much smoother once notifications and data sync are flowing automatically.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

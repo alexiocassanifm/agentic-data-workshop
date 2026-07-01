@@ -1,0 +1,15 @@
+Ticket ID: TCK-00088
+Customer ID: CUST-0122
+Contact: Susan Osei
+Priority: Medium
+Status: Resolved
+Created: 2024-09-12
+
+Subject: Invoice amount doesn't match our contract
+
+Hi folks,
+
+Our finance team flagged an odd charge on the statement from this week. The proration credit for our recent change doesn't appear anywhere on the statement. Happy to send over the contract for reference if that helps sort it out.
+
+Appreciate the help,
+Susan

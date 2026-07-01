@@ -1,0 +1,7 @@
+Account: CUST-0011 - Vista Grid
+Contact: Betty Harris (Director of IT Operations)
+Account Executive: Naomi Abara
+Date: 2025-03-17
+Type: Discovery Call
+
+During the call, Betty flagged that our procurement team sent over a security questionnaire that we need help answering. Their take was that we need to confirm password policy options and whether sso can be made mandatory for all users on our account. Wanted to make sure this doesn't become a renewal talking point later, so flagging it now.

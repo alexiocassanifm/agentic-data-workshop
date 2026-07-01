@@ -1,0 +1,15 @@
+Ticket ID: TCK-00098
+Customer ID: CUST-0072
+Contact: Daniel Martin
+Priority: Medium
+Status: In Progress
+Created: 2024-09-17
+
+Subject: Sales tax on our invoice looks wrong
+
+Hi,
+
+Our finance team flagged an odd charge on the statement from this week. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Thanks,
+Daniel

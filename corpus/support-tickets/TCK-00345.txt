@@ -1,0 +1,15 @@
+Ticket ID: TCK-00345
+Customer ID: CUST-0079
+Contact: Lisa Miller
+Priority: High
+Status: Resolved
+Created: 2025-08-19
+
+Subject: Export button just spins forever
+
+Hi folks,
+
+The export we downloaded has a bunch of duplicate rows in it. We've tried this in two different browsers with the same result. Thanks for taking a look.
+
+Best,
+Lisa

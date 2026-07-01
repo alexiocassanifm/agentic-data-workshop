@@ -1,0 +1,15 @@
+Ticket ID: TCK-00452
+Customer ID: CUST-0171
+Contact: Thomas Lee
+Priority: Medium
+Status: Open
+Created: 2024-02-21
+
+Subject: Stuck on step 3 of setup
+
+Hi folks,
+
+The setup checklist mentions a step that doesn't seem to exist in our account anymore. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. We imported a test batch of records and some fields came through blank that had data in the source file. Could someone point us to a guide, or better yet hop on a short call?
+
+Best,
+Thomas

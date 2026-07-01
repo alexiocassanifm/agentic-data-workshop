@@ -1,0 +1,15 @@
+Ticket ID: TCK-00099
+Customer ID: CUST-0111
+Contact: James Allen
+Priority: Urgent
+Status: In Progress
+Created: 2025-09-24
+
+Subject: Considering other options before we renew
+
+To the Larkspur Flow team,
+
+Our team has mostly moved back to spreadsheets for this, which isn't a great sign. A competitor reached out with a pretty aggressive offer and it's making us look more closely at what we're paying here. Only a handful of people on our team log in regularly anymore, compared to nearly everyone in the first few months. If there's anything that could change the picture, now would be the time.
+
+Thanks,
+James

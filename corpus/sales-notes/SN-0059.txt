@@ -1,0 +1,7 @@
+Account: CUST-0025 - Copper Institute
+Contact: Thomas Perez (Compliance Officer)
+Account Executive: Naomi Abara
+Date: 2025-09-08
+Type: Onsite Visit Follow-up
+
+Quarterly touchpoint with Thomas. Things are stable, team usage looks healthy, nothing urgent to report other than a general request to be kept in the loop on new feature releases.

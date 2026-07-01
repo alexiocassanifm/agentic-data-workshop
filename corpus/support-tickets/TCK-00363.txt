@@ -1,0 +1,15 @@
+Ticket ID: TCK-00363
+Customer ID: CUST-0138
+Contact: Amara Green
+Priority: Urgent
+Status: Resolved
+Created: 2024-03-06
+
+Subject: Slack channel missing daily summaries
+
+Hi folks,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. The sync log shows a 'success' status even on the days when nothing actually changed, which is confusing. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. Thanks for digging in.
+
+Thank you,
+Amara

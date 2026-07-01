@@ -1,0 +1,15 @@
+Ticket ID: TCK-00450
+Customer ID: CUST-0063
+Contact: Betty Taylor
+Priority: Medium
+Status: Resolved
+Created: 2025-06-13
+
+Subject: Analytics feels limited compared to what we need
+
+Hi team,
+
+Our leadership team asked for a metric that doesn't seem to exist in the current reporting. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. Is this something on the roadmap, or a configuration we're missing?
+
+Thank you,
+Betty

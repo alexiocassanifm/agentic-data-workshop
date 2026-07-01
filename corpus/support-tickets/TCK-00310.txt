@@ -1,0 +1,15 @@
+Ticket ID: TCK-00310
+Customer ID: CUST-0146
+Contact: Barbara Rodriguez
+Priority: Low
+Status: In Progress
+Created: 2022-11-28
+
+Subject: Confused about which plan features we actually have
+
+Hey there,
+
+We're trying to get everything ready before our internal kickoff next week and running into a few snags. It's not clear from the checklist whether we need to finish setup before inviting other users, or if it can happen in parallel. Let us know the best next step.
+
+Best,
+Barbara

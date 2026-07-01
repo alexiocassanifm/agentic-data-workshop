@@ -1,0 +1,15 @@
+Ticket ID: TCK-00122
+Customer ID: CUST-0052
+Contact: James Brown
+Priority: High
+Status: In Progress
+Created: 2025-11-21
+
+Subject: Pages taking 10+ seconds to load
+
+To the Larkspur Flow team,
+
+Loading anything with a lot of records has become painfully slow. We've tried different browsers and different machines, so it doesn't seem to be on our end. It seems worse between about 9 and 11am, which is when most of our team logs in. Is there a known performance issue right now, or something on our account causing it?
+
+Thanks,
+James

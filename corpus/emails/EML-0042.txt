@@ -1,0 +1,10 @@
+From: Hannah Reyes <hannah.reyes@larkspurflow.com>
+To: Joseph Harris <joseph.harris@alder-institute.ie>
+Subject: Next steps for getting fully set up
+Date: 2023-09-05
+
+Hi Joseph, following up on getting Alder Institute fully set up. If your team hasn't been invited yet, that's usually the next step, you can do this in bulk from the team settings page. Also worth setting up at least one automation workflow early so it becomes part of the daily routine.
+
+Best,
+Hannah
+Customer Success, Larkspur Flow

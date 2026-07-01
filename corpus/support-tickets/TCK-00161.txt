@@ -1,0 +1,15 @@
+Ticket ID: TCK-00161
+Customer ID: CUST-0119
+Contact: Rahul Dubois
+Priority: Medium
+Status: Resolved
+Created: 2025-02-25
+
+Subject: Would love a way to build custom reports
+
+Hi,
+
+The reporting is good as far as it goes, but it's missing a breakdown we need for our board meetings. We can see the raw numbers on the dashboard but there's no way to export a nicely formatted PDF version for stakeholders who don't log in. We're on the Growth plan, is custom reporting something that's only available at a higher tier? A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. Is this something on the roadmap, or a configuration we're missing?
+
+Best regards,
+Rahul

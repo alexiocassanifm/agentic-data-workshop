@@ -1,0 +1,15 @@
+Ticket ID: TCK-00374
+Customer ID: CUST-0111
+Contact: James Allen
+Priority: High
+Status: Open
+Created: 2024-11-21
+
+Subject: Security questionnaire from our procurement team
+
+Hey there,
+
+Quick compliance question, is data encrypted both in transit and at rest? Does the platform support exporting an audit log of who accessed or changed what, and for how long is that retained? We're trying to close this out before renewal, so any documentation you can point us to would save time. Our legal team wants to see the data processing agreement, if there's an updated version available. Thank you for your help with this.
+
+Thank you,
+James

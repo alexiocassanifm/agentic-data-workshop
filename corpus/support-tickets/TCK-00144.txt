@@ -1,0 +1,15 @@
+Ticket ID: TCK-00144
+Customer ID: CUST-0047
+Contact: Melissa Silva
+Priority: High
+Status: In Progress
+Created: 2025-10-07
+
+Subject: Pages taking 10+ seconds to load
+
+Hi team,
+
+Not sure if this is just us, but performance has taken a real hit recently. A workflow that used to run within a few minutes is now taking closer to 18 minutes to complete. It seems worse between about 9 and 11am, which is when most of our team logs in. Larger views, like the one with our full customer list, time out entirely rather than just being slow. Thanks for checking into it.
+
+Best regards,
+Melissa

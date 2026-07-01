@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Priya Fischer <priya.fischer@ridgeline-outfitters.com>
+Subject: Next steps for getting fully set up
+Date: 2025-06-10
+
+Just checking in on setup, Priya. A couple of things worth doing this week if you haven't already: connect your primary data source, invite the rest of your team, and take a look at the default dashboard views so you know what's available out of the box. Let me know if you hit any snags.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

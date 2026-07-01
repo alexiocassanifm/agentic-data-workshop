@@ -1,0 +1,7 @@
+Account: CUST-0171 - Basalt Studios
+Contact: Thomas Lee (Finance Manager)
+Account Executive: Marcus Ellery
+Date: 2025-09-14
+Type: Onsite Visit Follow-up
+
+On a related note, Thomas said the integration status page says everything is fine, but data clearly isn't flowing through. They added that the sync log shows a 'success' status even on the days when nothing actually changed, which is confusing. I've opened a ticket on their behalf and promised a follow-up this week.

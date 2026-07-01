@@ -1,0 +1,15 @@
+Ticket ID: TCK-00301
+Customer ID: CUST-0097
+Contact: Greta Perez
+Priority: Medium
+Status: Resolved
+Created: 2024-01-04
+
+Subject: Timeouts when loading larger accounts
+
+Hey there,
+
+Loading anything with a lot of records has become painfully slow. This is starting to affect how quickly our team can respond to things during the day. We've tried different browsers and different machines, so it doesn't seem to be on our end. Is there a known performance issue right now, or something on our account causing it?
+
+Appreciate the help,
+Greta

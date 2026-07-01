@@ -1,0 +1,7 @@
+Account: CUST-0032 - Alder Leisure
+Contact: Victor Thomas (Head of IT)
+Account Executive: Naomi Abara
+Date: 2024-11-21
+Type: QBR
+
+Victor brought up on the call that is there a way to build a custom report, or are we limited to the pre-built ones? They said a monthly email with the top-line numbers would save someone on our team from manually pulling this every monday. Not a deal-breaker for them yet, but it's the kind of thing that could add up if it keeps happening.

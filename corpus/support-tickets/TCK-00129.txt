@@ -1,0 +1,15 @@
+Ticket ID: TCK-00129
+Customer ID: CUST-0141
+Contact: Karen Kowalski
+Priority: Urgent
+Status: Resolved
+Created: 2023-02-02
+
+Subject: Slack channel missing daily summaries
+
+Hello,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. It's possible this started right around your last product update, though we can't say for certain. Let us know what logs would be useful for you to see.
+
+Thank you,
+Karen

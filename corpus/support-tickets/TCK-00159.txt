@@ -1,0 +1,15 @@
+Ticket ID: TCK-00159
+Customer ID: CUST-0094
+Contact: Elena Costa
+Priority: Medium
+Status: Closed
+Created: 2025-11-15
+
+Subject: Confused about which plan features we actually have
+
+Hey there,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. We have about 55 people to add and doing it one at a time doesn't seem practical. We'd like to get this sorted before our internal rollout next week if possible.
+
+Thanks,
+Elena

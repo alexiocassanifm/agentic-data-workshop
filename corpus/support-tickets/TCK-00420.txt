@@ -1,0 +1,15 @@
+Ticket ID: TCK-00420
+Customer ID: CUST-0074
+Contact: Diego Garcia
+Priority: Low
+Status: Resolved
+Created: 2025-06-24
+
+Subject: Confused about which plan features we actually have
+
+Hi support team,
+
+The setup checklist mentions a step that doesn't seem to exist in our account anymore. A couple of us are non-technical and the current instructions assume more familiarity than we have. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. Could someone point us to a guide, or better yet hop on a short call?
+
+Regards,
+Diego

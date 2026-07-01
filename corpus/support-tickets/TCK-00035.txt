@@ -1,0 +1,15 @@
+Ticket ID: TCK-00035
+Customer ID: CUST-0001
+Contact: Chloe Hernandez
+Priority: High
+Status: Closed
+Created: 2024-08-03
+
+Subject: Charged twice this month?
+
+Hi,
+
+We upgraded plans mid-month and the proration on the invoice looks off. The contract states 51 seats at the agreed rate, but the invoice shows a higher seat count. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. Happy to send over the contract for reference if that helps sort it out.
+
+Best regards,
+Chloe

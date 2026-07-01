@@ -1,0 +1,15 @@
+Ticket ID: TCK-00274
+Customer ID: CUST-0026
+Contact: Ronald Garcia
+Priority: High
+Status: In Progress
+Created: 2025-04-26
+
+Subject: Everything feels sluggish since Monday
+
+To the Larkspur Flow team,
+
+Our automation workflows seem to be running well behind schedule lately. Larger views, like the one with our full customer list, time out entirely rather than just being slow. This is becoming a real drag on our day-to-day, so we'd appreciate a look.
+
+Thank you,
+Ronald

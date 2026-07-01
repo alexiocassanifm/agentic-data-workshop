@@ -1,0 +1,935 @@
+{
+  "customer_id": "CUST-0131",
+  "plan_tier": "Professional",
+  "usage_period": {
+    "start_date": "2025-10-31",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1302,
+          "unique_users": 239
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 95,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 291,
+          "unique_users": 164
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 182,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1710,
+          "unique_users": 201
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 351,
+          "unique_users": 199
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1587,
+          "unique_users": 241
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 297,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 373,
+          "unique_users": 61
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 229,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 341,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 591,
+          "unique_users": 238
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 90,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1427,
+          "unique_users": 261
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 876,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 244,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1794,
+          "unique_users": 203
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 319,
+          "unique_users": 148
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 249,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1602,
+          "unique_users": 226
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1159,
+          "unique_users": 261
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 599,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1181,
+          "unique_users": 241
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 237,
+          "unique_users": 58
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 526,
+          "unique_users": 161
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 919,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1296,
+          "unique_users": 201
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1534,
+          "unique_users": 176
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 297,
+          "unique_users": 144
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 983,
+          "unique_users": 152
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1227,
+          "unique_users": 202
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 685,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 190,
+          "unique_users": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 245,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 571,
+          "unique_users": 163
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 537,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 130,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 641,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 827,
+          "unique_users": 162
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 633,
+          "unique_users": 161
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 815,
+          "unique_users": 238
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 213,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2122,
+          "unique_users": 265
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 172,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 750,
+          "unique_users": 128
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 849,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 589,
+          "unique_users": 145
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1337,
+          "unique_users": 242
+        }
+      ]
+    },
+    {
+      "date": "2025-11-08",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 508,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 561,
+          "unique_users": 93
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 170,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 94,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 281,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 778,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 163,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 636,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 207,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 118,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1089,
+          "unique_users": 248
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 435,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 387,
+          "unique_users": 170
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 595,
+          "unique_users": 172
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1063,
+          "unique_users": 175
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1289,
+          "unique_users": 152
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 824,
+          "unique_users": 227
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1449,
+          "unique_users": 216
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1038,
+          "unique_users": 219
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1053,
+          "unique_users": 224
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 943,
+          "unique_users": 263
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 774,
+          "unique_users": 251
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 415,
+          "unique_users": 217
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 253,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 371,
+          "unique_users": 240
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 170,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 886,
+          "unique_users": 170
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1182,
+          "unique_users": 253
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 781,
+          "unique_users": 199
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 604,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 819,
+          "unique_users": 123
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 119,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 133,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 448,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 172,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 340,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 296,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 582,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 442,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 375,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 768,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 165,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 77,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 332,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 240,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 971,
+          "unique_users": 132
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 443,
+          "unique_users": 93
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 753,
+          "unique_users": 138
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1001,
+          "unique_users": 152
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1174,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1277,
+          "unique_users": 200
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1256,
+          "unique_users": 205
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 438,
+          "unique_users": 195
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2061,
+          "unique_users": 245
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 795,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1050,
+          "unique_users": 215
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 237,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 144,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 721,
+          "unique_users": 140
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 1507,
+          "unique_users": 250
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 77,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 2025,
+          "unique_users": 269
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 564,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 317,
+          "unique_users": 182
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 841,
+          "unique_users": 128
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 161,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 310,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 328,
+          "unique_users": 78
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1487,
+          "unique_users": 231
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1878,
+          "unique_users": 256
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 377,
+          "unique_users": 200
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 904,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 81,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1109,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1451,
+          "unique_users": 196
+        }
+      ]
+    },
+    {
+      "date": "2025-11-22",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 144,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 420,
+          "unique_users": 89
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 459,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 658,
+          "unique_users": 85
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 302,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1322,
+          "unique_users": 233
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 622,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 2227,
+          "unique_users": 266
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 360,
+          "unique_users": 193
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 1127,
+          "unique_users": 248
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 478,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 819,
+          "unique_users": 176
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1660,
+          "unique_users": 209
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1278,
+          "unique_users": 265
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 611,
+          "unique_users": 102
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1053,
+          "unique_users": 232
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 675,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 487,
+          "unique_users": 155
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 368,
+          "unique_users": 88
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 235,
+          "unique_users": 144
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1001,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1183,
+          "unique_users": 243
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 255,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1514,
+          "unique_users": 169
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 832,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 898,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 578,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1109,
+          "unique_users": 163
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 100,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 828,
+          "unique_users": 236
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 1279,
+          "unique_users": 249
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 858,
+          "unique_users": 169
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 701,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 845,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 786,
+          "unique_users": 212
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1192,
+          "unique_users": 145
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 198,
+          "unique_users": 82
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00367
+Customer ID: CUST-0027
+Contact: Kenneth Lee
+Priority: Medium
+Status: Waiting on Customer
+Created: 2023-12-31
+
+Subject: Analytics feels limited compared to what we need
+
+To the Larkspur Flow team,
+
+We've been using the dashboards for a few months now and keep running into the same gap. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Happy to jump on a call to explain exactly what we're trying to build.
+
+Best regards,
+Kenneth

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00462
+Customer ID: CUST-0050
+Contact: Deborah Hill
+Priority: Medium
+Status: Open
+Created: 2025-10-03
+
+Subject: Can we get a corrected invoice?
+
+Hi,
+
+It looks like we were billed twice for this month, can someone confirm? The contract states 11 seats at the agreed rate, but the invoice shows a higher seat count. Our finance team is asking about this so a quick turnaround would be great.
+
+Thanks a lot,
+Deborah

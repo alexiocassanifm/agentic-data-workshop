@@ -1,0 +1,15 @@
+Ticket ID: TCK-00354
+Customer ID: CUST-0109
+Contact: Victor Torres
+Priority: High
+Status: In Progress
+Created: 2025-02-03
+
+Subject: Considering other options before we renew
+
+Hi team,
+
+I wanted to be upfront that we're reconsidering whether to renew next quarter. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. Budget has tightened this year and we're being asked to justify every recurring cost, and usage on our side hasn't been strong enough to make an easy case. Would appreciate a conversation with our account team before we decide anything.
+
+Thanks,
+Victor

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00415
+Customer ID: CUST-0101
+Contact: Naomi Haddad
+Priority: Low
+Status: Resolved
+Created: 2025-05-04
+
+Subject: Stuck on step 3 of setup
+
+Hi team,
+
+We just signed up and aren't totally sure where to start. We imported a test batch of records and some fields came through blank that had data in the source file. Could someone point us to a guide, or better yet hop on a short call?
+
+Best regards,
+Naomi

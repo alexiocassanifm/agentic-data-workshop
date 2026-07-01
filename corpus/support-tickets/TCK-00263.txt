@@ -1,0 +1,15 @@
+Ticket ID: TCK-00263
+Customer ID: CUST-0167
+Contact: Deborah Smith
+Priority: Low
+Status: Resolved
+Created: 2025-11-01
+
+Subject: Sales tax on our invoice looks wrong
+
+Hi support team,
+
+We upgraded plans mid-month and the proration on the invoice looks off. The proration credit for our recent change doesn't appear anywhere on the statement. Let me know if you need anything else from our side to fix this.
+
+Thanks,
+Deborah

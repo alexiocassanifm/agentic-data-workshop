@@ -1,0 +1,15 @@
+Ticket ID: TCK-00239
+Customer ID: CUST-0097
+Contact: Greta Perez
+Priority: Medium
+Status: Open
+Created: 2025-07-28
+
+Subject: Webhook stopped firing
+
+Hello,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. We double-checked the Salesforce connection and the API user still has the right permissions on their side. Thanks for digging in.
+
+Thank you,
+Greta

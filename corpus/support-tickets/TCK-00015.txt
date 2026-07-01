@@ -1,0 +1,15 @@
+Ticket ID: TCK-00015
+Customer ID: CUST-0079
+Contact: Paul Singh
+Priority: High
+Status: In Progress
+Created: 2025-10-07
+
+Subject: Permission changes aren't taking effect
+
+Hey there,
+
+We're trying to set up permissions so that only a few people have admin rights, and the options are a bit confusing. This person joined the support team last month and somehow has visibility into a completely separate business unit's data. Specifically we want a role that can view reports but not edit or export anything, and it's not clear if that combination exists. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Best regards,
+Paul

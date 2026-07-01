@@ -1,0 +1,15 @@
+Ticket ID: TCK-00403
+Customer ID: CUST-0084
+Contact: Mei Dubois
+Priority: High
+Status: Resolved
+Created: 2025-04-16
+
+Subject: Export includes duplicate entries
+
+Hey there,
+
+The export we downloaded has a bunch of duplicate rows in it. Company names with accented characters, like some of our European customers, come out looking like mojibake in the CSV. The export finished but when we open it in a spreadsheet tool, some columns are shifted, like a comma inside a field broke the formatting. This only seems to happen with the larger exports, anything under about 14 thousand rows comes through fine. Would appreciate a fix or a workaround since we use this export weekly.
+
+Best,
+Mei

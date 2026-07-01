@@ -1,0 +1,15 @@
+Ticket ID: TCK-00163
+Customer ID: CUST-0116
+Contact: Elena Moore
+Priority: Medium
+Status: Resolved
+Created: 2024-04-28
+
+Subject: Can't log in via SSO this morning
+
+Hey there,
+
+Half of our team can log in fine, the other half gets stuck in a redirect loop. Clearing cookies fixes it temporarily but it comes back within a day. We tried both Chrome and Safari and get the same redirect loop in both. Any chance this is a known issue today? Happy to hop on a call if that's faster.
+
+Thank you,
+Elena

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00072
+Customer ID: CUST-0035
+Contact: Melissa Allen
+Priority: Medium
+Status: Closed
+Created: 2025-11-15
+
+Subject: API throttling is breaking our nightly sync
+
+Hey there,
+
+Our nightly batch job that pulls records via the API has started failing partway through. We're making roughly 41 requests per minute during our sync window, which used to work fine a month ago. Thanks for looking into this.
+
+Best,
+Melissa

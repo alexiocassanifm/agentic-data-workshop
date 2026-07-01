@@ -1,0 +1,15 @@
+Ticket ID: TCK-00256
+Customer ID: CUST-0053
+Contact: Mei Berg
+Priority: High
+Status: In Progress
+Created: 2023-10-24
+
+Subject: Integration shows connected but nothing is syncing
+
+Hello,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. We noticed about 44 duplicate contact records that seem to have been created during last Tuesday's sync. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. Thanks for digging in.
+
+Thanks,
+Mei

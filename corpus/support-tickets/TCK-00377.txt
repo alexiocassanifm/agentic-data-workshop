@@ -1,0 +1,15 @@
+Ticket ID: TCK-00377
+Customer ID: CUST-0096
+Contact: Aisha Davis
+Priority: Medium
+Status: Resolved
+Created: 2025-11-10
+
+Subject: Timeouts when loading larger accounts
+
+To the Larkspur Flow team,
+
+Loading anything with a lot of records has become painfully slow. This is starting to affect how quickly our team can respond to things during the day. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. Thanks for checking into it.
+
+Best,
+Aisha

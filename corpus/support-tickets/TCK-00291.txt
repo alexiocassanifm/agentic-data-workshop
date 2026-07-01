@@ -1,0 +1,15 @@
+Ticket ID: TCK-00291
+Customer ID: CUST-0090
+Contact: Noah Rivera
+Priority: High
+Status: Waiting on Customer
+Created: 2024-10-09
+
+Subject: Scheduled export stopped arriving
+
+Hi team,
+
+Our weekly scheduled export didn't show up in the inbox this week. We compared the row count in the export to what we see in the dashboard and it's short by a few hundred records. It looks like records that were updated recently show up twice, once with old values and once with new. Happy to send the file we downloaded if it helps you reproduce it.
+
+Regards,
+Noah

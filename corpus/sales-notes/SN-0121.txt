@@ -1,0 +1,7 @@
+Account: CUST-0069 - Frost Care
+Contact: Steven Wright (Procurement Manager)
+Account Executive: Naomi Abara
+Date: 2024-10-11
+Type: Onsite Visit Follow-up
+
+On a related note, Steven said a webhook we rely on for a downstream process seems to have stopped firing. They added that this integration is pretty central to how our operations team works, so the gap has been noticed internally. I've opened a ticket on their behalf and promised a follow-up this week.

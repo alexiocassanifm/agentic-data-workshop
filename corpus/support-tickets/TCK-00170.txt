@@ -1,0 +1,15 @@
+Ticket ID: TCK-00170
+Customer ID: CUST-0088
+Contact: Greta Wilson
+Priority: High
+Status: Open
+Created: 2023-11-08
+
+Subject: Notifications not showing up on mobile
+
+To the Larkspur Flow team,
+
+The numbers I see on the mobile app don't match what's on the desktop dashboard. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. This is making the mobile app pretty much unusable for me right now.
+
+Thank you,
+Greta

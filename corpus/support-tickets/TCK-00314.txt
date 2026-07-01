@@ -1,0 +1,15 @@
+Ticket ID: TCK-00314
+Customer ID: CUST-0127
+Contact: Sandra Berg
+Priority: Medium
+Status: Closed
+Created: 2024-03-22
+
+Subject: Automation workflows are lagging behind
+
+Hi support team,
+
+Not sure if this is just us, but performance has taken a real hit recently. This is starting to affect how quickly our team can respond to things during the day. A workflow that used to run within a few minutes is now taking closer to 50 minutes to complete. Is there a known performance issue right now, or something on our account causing it?
+
+Best,
+Sandra

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00206
+Customer ID: CUST-0061
+Contact: Lisa Thomas
+Priority: Medium
+Status: In Progress
+Created: 2025-02-16
+
+Subject: Can we get scheduled report emails?
+
+Hey there,
+
+Not a bug, more of a feature request around analytics. It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. We're on the Growth plan, is custom reporting something that's only available at a higher tier? Happy to jump on a call to explain exactly what we're trying to build.
+
+Thank you,
+Lisa

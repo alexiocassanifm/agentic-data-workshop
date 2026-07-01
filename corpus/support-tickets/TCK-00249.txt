@@ -1,0 +1,15 @@
+Ticket ID: TCK-00249
+Customer ID: CUST-0159
+Contact: Susan Johnson
+Priority: High
+Status: Resolved
+Created: 2025-06-16
+
+Subject: Okta integration throwing errors on login
+
+Hi,
+
+Our IT team flagged that the SAML certificate you have on file may have expired. Clearing cookies fixes it temporarily but it comes back within a day. Let us know what logs or details would help you debug this.
+
+Thanks a lot,
+Susan

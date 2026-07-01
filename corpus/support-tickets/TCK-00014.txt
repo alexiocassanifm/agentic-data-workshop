@@ -1,0 +1,15 @@
+Ticket ID: TCK-00014
+Customer ID: CUST-0024
+Contact: Felix Nelson
+Priority: High
+Status: Resolved
+Created: 2024-04-11
+
+Subject: Confused about which plan features we actually have
+
+Hello,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. Could someone point us to a guide, or better yet hop on a short call?
+
+Appreciate the help,
+Felix

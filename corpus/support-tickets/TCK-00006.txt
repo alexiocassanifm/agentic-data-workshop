@@ -1,0 +1,15 @@
+Ticket ID: TCK-00006
+Customer ID: CUST-0040
+Contact: Steven Miller
+Priority: High
+Status: Resolved
+Created: 2022-10-24
+
+Subject: Question about a line item on our latest invoice
+
+Hi,
+
+We upgraded plans mid-month and the proration on the invoice looks off. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. Could someone from billing take a look and send a corrected invoice if needed?
+
+Appreciate the help,
+Steven

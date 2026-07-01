@@ -1,0 +1,15 @@
+Ticket ID: TCK-00233
+Customer ID: CUST-0174
+Contact: Hiroshi Johnson
+Priority: High
+Status: Waiting on Customer
+Created: 2023-02-20
+
+Subject: Can't log in via SSO this morning
+
+Hi team,
+
+Login has been down for us since about 9am and it's starting to affect the whole department. We tried both Chrome and Safari and get the same redirect loop in both. Let us know what logs or details would help you debug this.
+
+Thank you,
+Hiroshi

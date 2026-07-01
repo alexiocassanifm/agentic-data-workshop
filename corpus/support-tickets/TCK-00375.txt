@@ -1,0 +1,15 @@
+Ticket ID: TCK-00375
+Customer ID: CUST-0001
+Contact: Chloe Hernandez
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2024-02-27
+
+Subject: Slack notifications aren't coming through
+
+Hey there,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. We noticed about 20 duplicate contact records that seem to have been created during last Tuesday's sync. The sync log shows a 'success' status even on the days when nothing actually changed, which is confusing. Could someone check the sync status on your end?
+
+Best,
+Chloe

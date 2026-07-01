@@ -1,0 +1,15 @@
+Ticket ID: TCK-00448
+Customer ID: CUST-0040
+Contact: Freya Dubois
+Priority: Medium
+Status: Resolved
+Created: 2022-08-15
+
+Subject: Dashboard has been really slow this week
+
+Hi folks,
+
+Not sure if this is just us, but performance has taken a real hit recently. We've tried different browsers and different machines, so it doesn't seem to be on our end. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Regards,
+Freya

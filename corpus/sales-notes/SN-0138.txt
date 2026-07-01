@@ -1,0 +1,7 @@
+Account: CUST-0125 - Timber Pictures
+Contact: Anthony Taylor (Head of Customer Success)
+Account Executive: Owen Berg
+Date: 2023-09-17
+Type: Discovery Call
+
+Anthony raised a frustration that our integration has started throwing 429 errors a few times a day. Apparently we added exponential backoff on our end but we're still losing a portion of requests during peak load. Wanted to make sure this doesn't become a renewal talking point later, so flagging it now.

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00217
+Customer ID: CUST-0125
+Contact: Yuki Andersson
+Priority: High
+Status: Closed
+Created: 2024-08-10
+
+Subject: Export button just spins forever
+
+To the Larkspur Flow team,
+
+We tried exporting our full dataset and it just times out. The export finished but when we open it in a spreadsheet tool, some columns are shifted, like a comma inside a field broke the formatting. This only seems to happen with the larger exports, anything under about 36 thousand rows comes through fine. Company names with accented characters, like some of our European customers, come out looking like mojibake in the CSV. Could someone check what's happening with larger exports?
+
+Best regards,
+Yuki

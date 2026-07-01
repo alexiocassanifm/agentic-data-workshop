@@ -1,0 +1,15 @@
+Ticket ID: TCK-00272
+Customer ID: CUST-0135
+Contact: Joseph Torres
+Priority: Low
+Status: Open
+Created: 2025-03-22
+
+Subject: Confused about which plan features we actually have
+
+Hey there,
+
+Honestly, the onboarding flow has been a bit confusing so far. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. Could someone point us to a guide, or better yet hop on a short call?
+
+Best,
+Joseph

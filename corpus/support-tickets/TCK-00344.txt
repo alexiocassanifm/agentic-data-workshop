@@ -1,0 +1,15 @@
+Ticket ID: TCK-00344
+Customer ID: CUST-0175
+Contact: Matthew Jones
+Priority: Medium
+Status: Resolved
+Created: 2025-11-24
+
+Subject: Charged twice this month?
+
+Hi,
+
+Our finance team flagged an odd charge on the statement from this week. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Appreciate the help,
+Matthew

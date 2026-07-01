@@ -1,0 +1,7 @@
+Account: CUST-0072 - Clear Leisure
+Contact: Richard Moore (Chief Information Officer)
+Account Executive: Felix Moreau
+Date: 2025-06-03
+Type: QBR
+
+Richard brought up on the call that our engineering team asked me to reach out about API throttling, it's affecting a customer-facing feature on our end. They said we're on the growth plan, is the rate limit tied to plan tier, and if so is there a way to raise it? I told them I'd relay this to the support team and follow up once there's an update.

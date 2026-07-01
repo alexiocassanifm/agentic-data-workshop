@@ -1,0 +1,15 @@
+Ticket ID: TCK-00250
+Customer ID: CUST-0010
+Contact: Lars Lopez
+Priority: High
+Status: In Progress
+Created: 2025-08-18
+
+Subject: Can't log in on the iOS app
+
+Hey there,
+
+Push notifications used to work on the app and have quietly stopped. I tried reinstalling the app and clearing the cache, no change. This is making the mobile app pretty much unusable for me right now.
+
+Best,
+Lars

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00187
+Customer ID: CUST-0134
+Contact: Margaret Muller
+Priority: Medium
+Status: In Progress
+Created: 2024-11-23
+
+Subject: Need a read-only role for auditors
+
+Hi team,
+
+We're trying to set up permissions so that only a few people have admin rights, and the options are a bit confusing. It's unclear whether permission changes apply immediately or need the user to log out and back in. Thanks for the help.
+
+Thank you,
+Margaret

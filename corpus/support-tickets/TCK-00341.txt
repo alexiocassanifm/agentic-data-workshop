@@ -1,0 +1,15 @@
+Ticket ID: TCK-00341
+Customer ID: CUST-0002
+Contact: Susan Rossi
+Priority: High
+Status: Closed
+Created: 2024-07-01
+
+Subject: SAML login broken since the update
+
+Hi folks,
+
+Half of our team can log in fine, the other half gets stuck in a redirect loop. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. Could someone take a look at the SSO configuration on your side?
+
+Appreciate the help,
+Susan

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00409
+Customer ID: CUST-0172
+Contact: Ravi Novak
+Priority: High
+Status: Waiting on Customer
+Created: 2023-01-31
+
+Subject: Salesforce sync stopped updating
+
+Hi team,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. We double-checked the Salesforce connection and the API user still has the right permissions on their side. Thanks for digging in.
+
+Appreciate the help,
+Ravi

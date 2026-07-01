@@ -1,0 +1,15 @@
+Ticket ID: TCK-00024
+Customer ID: CUST-0002
+Contact: Susan Rossi
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2025-07-18
+
+Subject: API throttling is breaking our nightly sync
+
+To the Larkspur Flow team,
+
+Our engineering team asked me to reach out about API throttling, it's affecting a customer-facing feature on our end. This is affecting our Salesforce sync specifically, other endpoints seem fine. Happy to share request logs if that helps you investigate.
+
+Best,
+Susan

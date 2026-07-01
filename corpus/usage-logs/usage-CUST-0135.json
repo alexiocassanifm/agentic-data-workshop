@@ -1,0 +1,2175 @@
+{
+  "customer_id": "CUST-0135",
+  "plan_tier": "Growth",
+  "usage_period": {
+    "start_date": "2025-08-17",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-08-18",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1979,
+          "unique_users": 321
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 393,
+          "unique_users": 148
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2320,
+          "unique_users": 453
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 807,
+          "unique_users": 489
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1231,
+          "unique_users": 257
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2295,
+          "unique_users": 281
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 316,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 527,
+          "unique_users": 150
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 376,
+          "unique_users": 139
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 349,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 935,
+          "unique_users": 193
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1334,
+          "unique_users": 338
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1990,
+          "unique_users": 321
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2716,
+          "unique_users": 362
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2071,
+          "unique_users": 245
+        }
+      ]
+    },
+    {
+      "date": "2025-08-21",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 513,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 959,
+          "unique_users": 187
+        }
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 647,
+          "unique_users": 176
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 3816,
+          "unique_users": 535
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2111,
+          "unique_users": 346
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 542,
+          "unique_users": 123
+        }
+      ]
+    },
+    {
+      "date": "2025-08-24",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 890,
+          "unique_users": 208
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 84,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 722,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 200,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1154,
+          "unique_users": 149
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1291,
+          "unique_users": 204
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1252,
+          "unique_users": 153
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2655,
+          "unique_users": 528
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 985,
+          "unique_users": 283
+        }
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2483,
+          "unique_users": 328
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 670,
+          "unique_users": 360
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2143,
+          "unique_users": 255
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1230,
+          "unique_users": 205
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 614,
+          "unique_users": 196
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1453,
+          "unique_users": 177
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 468,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 4609,
+          "unique_users": 534
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2741,
+          "unique_users": 427
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 232,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2723,
+          "unique_users": 450
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 982,
+          "unique_users": 424
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1040,
+          "unique_users": 477
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 3531,
+          "unique_users": 462
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 999,
+          "unique_users": 248
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 976,
+          "unique_users": 373
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1696,
+          "unique_users": 216
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1379,
+          "unique_users": 165
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 641,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2086,
+          "unique_users": 370
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 3516,
+          "unique_users": 422
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 731,
+          "unique_users": 329
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1807,
+          "unique_users": 364
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 125,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1133,
+          "unique_users": 192
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2063,
+          "unique_users": 427
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 368,
+          "unique_users": 168
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1562,
+          "unique_users": 223
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 329,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1237,
+          "unique_users": 374
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1065,
+          "unique_users": 412
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 264,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 408,
+          "unique_users": 57
+        }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3096,
+          "unique_users": 346
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1158,
+          "unique_users": 189
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1476,
+          "unique_users": 300
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1026,
+          "unique_users": 144
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 524,
+          "unique_users": 176
+        }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1928,
+          "unique_users": 375
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1763,
+          "unique_users": 201
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 515,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2793,
+          "unique_users": 427
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 467,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2054,
+          "unique_users": 261
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1105,
+          "unique_users": 527
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1138,
+          "unique_users": 510
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1448,
+          "unique_users": 449
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2797,
+          "unique_users": 320
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1826,
+          "unique_users": 317
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 763,
+          "unique_users": 196
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 323,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 765,
+          "unique_users": 268
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3692,
+          "unique_users": 471
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 740,
+          "unique_users": 219
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 536,
+          "unique_users": 166
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 819,
+          "unique_users": 427
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 2054,
+          "unique_users": 374
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 459,
+          "unique_users": 249
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 696,
+          "unique_users": 143
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 342,
+          "unique_users": 59
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1900,
+          "unique_users": 286
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1931,
+          "unique_users": 427
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1793,
+          "unique_users": 308
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 481,
+          "unique_users": 305
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1360,
+          "unique_users": 180
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 3185,
+          "unique_users": 455
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 111,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2258,
+          "unique_users": 460
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 843,
+          "unique_users": 217
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 246,
+          "unique_users": 113
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2478,
+          "unique_users": 305
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 753,
+          "unique_users": 455
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1840,
+          "unique_users": 277
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 469,
+          "unique_users": 233
+        }
+      ]
+    },
+    {
+      "date": "2025-09-20",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 543,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 543,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 493,
+          "unique_users": 205
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 621,
+          "unique_users": 170
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 531,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1388,
+          "unique_users": 158
+        }
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1148,
+          "unique_users": 465
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1784,
+          "unique_users": 346
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2772,
+          "unique_users": 521
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2373,
+          "unique_users": 276
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 451,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 584,
+          "unique_users": 267
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 902,
+          "unique_users": 311
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2518,
+          "unique_users": 388
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1355,
+          "unique_users": 155
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2595,
+          "unique_users": 454
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1474,
+          "unique_users": 503
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 300,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 3272,
+          "unique_users": 477
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1162,
+          "unique_users": 212
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1815,
+          "unique_users": 257
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 819,
+          "unique_users": 164
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1190,
+          "unique_users": 530
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1252,
+          "unique_users": 315
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2139,
+          "unique_users": 360
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2949,
+          "unique_users": 360
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 4099,
+          "unique_users": 501
+        }
+      ]
+    },
+    {
+      "date": "2025-09-27",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 840,
+          "unique_users": 187
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1280,
+          "unique_users": 166
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1414,
+          "unique_users": 166
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 898,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 404,
+          "unique_users": 188
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 680,
+          "unique_users": 106
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1128,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3206,
+          "unique_users": 446
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1148,
+          "unique_users": 263
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2133,
+          "unique_users": 347
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 602,
+          "unique_users": 153
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2804,
+          "unique_users": 404
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 482,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2065,
+          "unique_users": 304
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1102,
+          "unique_users": 197
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 721,
+          "unique_users": 162
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1117,
+          "unique_users": 159
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2484,
+          "unique_users": 510
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 492,
+          "unique_users": 192
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2912,
+          "unique_users": 346
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 3079,
+          "unique_users": 479
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2301,
+          "unique_users": 291
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1712,
+          "unique_users": 278
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1045,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 468,
+          "unique_users": 220
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 728,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 123,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 214,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 634,
+          "unique_users": 172
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 406,
+          "unique_users": 98
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2687,
+          "unique_users": 519
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1194,
+          "unique_users": 289
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 829,
+          "unique_users": 200
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 3489,
+          "unique_users": 394
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1714,
+          "unique_users": 398
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1520,
+          "unique_users": 357
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 805,
+          "unique_users": 318
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1567,
+          "unique_users": 491
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 418,
+          "unique_users": 84
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 665,
+          "unique_users": 441
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1486,
+          "unique_users": 292
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 182,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 870,
+          "unique_users": 459
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1010,
+          "unique_users": 195
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2499,
+          "unique_users": 372
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1320,
+          "unique_users": 362
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 3204,
+          "unique_users": 477
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 620,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1245,
+          "unique_users": 417
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1430,
+          "unique_users": 317
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 648,
+          "unique_users": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 331,
+          "unique_users": 177
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1090,
+          "unique_users": 153
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 526,
+          "unique_users": 146
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 3182,
+          "unique_users": 376
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1622,
+          "unique_users": 185
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 370,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2123,
+          "unique_users": 271
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 817,
+          "unique_users": 184
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1157,
+          "unique_users": 215
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1966,
+          "unique_users": 299
+        }
+      ]
+    },
+    {
+      "date": "2025-10-19",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 210,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 361,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 154,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 491,
+          "unique_users": 89
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 316,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1734,
+          "unique_users": 350
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3049,
+          "unique_users": 393
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2931,
+          "unique_users": 353
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 189,
+          "unique_users": 93
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1007,
+          "unique_users": 147
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 232,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1931,
+          "unique_users": 476
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1101,
+          "unique_users": 336
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1238,
+          "unique_users": 211
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 603,
+          "unique_users": 385
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 815,
+          "unique_users": 265
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1815,
+          "unique_users": 408
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1237,
+          "unique_users": 154
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 4064,
+          "unique_users": 534
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1896,
+          "unique_users": 454
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2490,
+          "unique_users": 334
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 543,
+          "unique_users": 290
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 566,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2307,
+          "unique_users": 438
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 372,
+          "unique_users": 98
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2803,
+          "unique_users": 477
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2312,
+          "unique_users": 435
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 747,
+          "unique_users": 355
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1318,
+          "unique_users": 161
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 154,
+          "unique_users": 50
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 339,
+          "unique_users": 224
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 180,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1693,
+          "unique_users": 246
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1573,
+          "unique_users": 296
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 594,
+          "unique_users": 239
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 355,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 651,
+          "unique_users": 321
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2027,
+          "unique_users": 356
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 4021,
+          "unique_users": 450
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2054,
+          "unique_users": 242
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 863,
+          "unique_users": 105
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 963,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1533,
+          "unique_users": 519
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1098,
+          "unique_users": 308
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2221,
+          "unique_users": 298
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1443,
+          "unique_users": 312
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2533,
+          "unique_users": 328
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 340,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 874,
+          "unique_users": 403
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 261,
+          "unique_users": 145
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 213,
+          "unique_users": 81
+        }
+      ]
+    },
+    {
+      "date": "2025-11-02",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1119,
+          "unique_users": 178
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1202,
+          "unique_users": 191
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 3494,
+          "unique_users": 502
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2422,
+          "unique_users": 379
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3477,
+          "unique_users": 416
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1464,
+          "unique_users": 517
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1913,
+          "unique_users": 380
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2179,
+          "unique_users": 320
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2386,
+          "unique_users": 376
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 296,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 269,
+          "unique_users": 139
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1921,
+          "unique_users": 357
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1785,
+          "unique_users": 428
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2728,
+          "unique_users": 304
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 716,
+          "unique_users": 122
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 542,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 755,
+          "unique_users": 300
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 919,
+          "unique_users": 289
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 787,
+          "unique_users": 124
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 581,
+          "unique_users": 209
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 749,
+          "unique_users": 175
+        }
+      ]
+    },
+    {
+      "date": "2025-11-08",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1082,
+          "unique_users": 198
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 584,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 225,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1111,
+          "unique_users": 143
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 514,
+          "unique_users": 156
+        }
+      ]
+    },
+    {
+      "date": "2025-11-09",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1099,
+          "unique_users": 155
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 566,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 507,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 340,
+          "unique_users": 169
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1722,
+          "unique_users": 195
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 439,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 389,
+          "unique_users": 179
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 481,
+          "unique_users": 80
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3073,
+          "unique_users": 430
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1587,
+          "unique_users": 357
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 969,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 667,
+          "unique_users": 391
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2876,
+          "unique_users": 508
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1285,
+          "unique_users": 159
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 2848,
+          "unique_users": 377
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2627,
+          "unique_users": 417
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1341,
+          "unique_users": 178
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 670,
+          "unique_users": 130
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3778,
+          "unique_users": 460
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2526,
+          "unique_users": 474
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1245,
+          "unique_users": 467
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 304,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 434,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1898,
+          "unique_users": 273
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1990,
+          "unique_users": 359
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 424,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1511,
+          "unique_users": 217
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2429,
+          "unique_users": 505
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1888,
+          "unique_users": 288
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 241,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1163,
+          "unique_users": 145
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 294,
+          "unique_users": 165
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 556,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 254,
+          "unique_users": 156
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1589,
+          "unique_users": 212
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1354,
+          "unique_users": 235
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1332,
+          "unique_users": 527
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 397,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 3914,
+          "unique_users": 512
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 4123,
+          "unique_users": 535
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 959,
+          "unique_users": 229
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1086,
+          "unique_users": 302
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1111,
+          "unique_users": 436
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2225,
+          "unique_users": 448
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 3130,
+          "unique_users": 348
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 2141,
+          "unique_users": 426
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 3740,
+          "unique_users": 472
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1641,
+          "unique_users": 407
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 349,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 619,
+          "unique_users": 142
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1612,
+          "unique_users": 182
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 940,
+          "unique_users": 192
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 3176,
+          "unique_users": 397
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1680,
+          "unique_users": 471
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 151,
+          "unique_users": 53
+        }
+      ]
+    },
+    {
+      "date": "2025-11-23",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 1039,
+          "unique_users": 168
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 941,
+          "unique_users": 142
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 799,
+          "unique_users": 101
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2916,
+          "unique_users": 444
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1077,
+          "unique_users": 146
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 1899,
+          "unique_users": 366
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 151,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 479,
+          "unique_users": 294
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1567,
+          "unique_users": 328
+        },
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 1716,
+          "unique_users": 477
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 859,
+          "unique_users": 186
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 758,
+          "unique_users": 153
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 296,
+          "unique_users": 133
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 2439,
+          "unique_users": 456
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 3442,
+          "unique_users": 435
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 2695,
+          "unique_users": 317
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 2036,
+          "unique_users": 258
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 169,
+          "unique_users": 91
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "Automation Workflows",
+          "event_count": 265,
+          "unique_users": 141
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 587,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 1835,
+          "unique_users": 415
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 108,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 769,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 2402,
+          "unique_users": 371
+        }
+      ]
+    }
+  ]
+}

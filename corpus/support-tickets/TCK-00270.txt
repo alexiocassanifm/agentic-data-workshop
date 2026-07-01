@@ -1,0 +1,15 @@
+Ticket ID: TCK-00270
+Customer ID: CUST-0104
+Contact: James Miller
+Priority: Medium
+Status: Open
+Created: 2025-07-30
+
+Subject: Notifications not showing up on mobile
+
+Hi support team,
+
+Push notifications used to work on the app and have quietly stopped. A few other people on our team have confirmed they're seeing the same thing on their phones. This is on the latest version of the app, on a phone that's about 42 months old, and it happens every single time, not intermittently. Thanks for looking into it.
+
+Thanks a lot,
+James

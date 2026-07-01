@@ -1,0 +1,15 @@
+Ticket ID: TCK-00436
+Customer ID: CUST-0079
+Contact: Lisa Miller
+Priority: Medium
+Status: In Progress
+Created: 2025-08-20
+
+Subject: Billing contact needs to be updated
+
+Hi,
+
+Someone in accounting asked me to follow up about a discrepancy on our latest bill. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Could someone from billing take a look and send a corrected invoice if needed?
+
+Regards,
+Lisa

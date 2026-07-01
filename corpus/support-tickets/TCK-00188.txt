@@ -1,0 +1,15 @@
+Ticket ID: TCK-00188
+Customer ID: CUST-0057
+Contact: Richard Thomas
+Priority: Medium
+Status: Open
+Created: 2023-12-11
+
+Subject: Onboarding checklist seems out of date
+
+Hi team,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. We have about 10 people to add and doing it one at a time doesn't seem practical. Our team lead wants a walkthrough call if that's available, since a few of us are new to this kind of tool. It would help to have a clearer sense of what's included in our plan versus what needs an upgrade. Could someone point us to a guide, or better yet hop on a short call?
+
+Thank you,
+Richard

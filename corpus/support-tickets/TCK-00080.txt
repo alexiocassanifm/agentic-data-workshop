@@ -1,0 +1,15 @@
+Ticket ID: TCK-00080
+Customer ID: CUST-0175
+Contact: Ingrid King
+Priority: High
+Status: Closed
+Created: 2025-11-14
+
+Subject: Question about a line item on our latest invoice
+
+Hello,
+
+Quick billing question before I forward this to our finance team. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. The proration credit for our recent change doesn't appear anywhere on the statement. Let me know if you need anything else from our side to fix this.
+
+Thanks,
+Ingrid

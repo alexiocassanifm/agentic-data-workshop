@@ -1,0 +1,15 @@
+Ticket ID: TCK-00430
+Customer ID: CUST-0119
+Contact: Ines Baker
+Priority: Medium
+Status: In Progress
+Created: 2025-10-24
+
+Subject: Missing a breakdown by region in reporting
+
+Hey there,
+
+We've been using the dashboards for a few months now and keep running into the same gap. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. Would love to hear if there's a workaround in the meantime.
+
+Best,
+Ines

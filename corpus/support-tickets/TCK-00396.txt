@@ -1,0 +1,15 @@
+Ticket ID: TCK-00396
+Customer ID: CUST-0068
+Contact: Jessica Martinez
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2025-03-22
+
+Subject: Thinking about pausing our subscription
+
+To the Larkspur Flow team,
+
+Our team has mostly moved back to spreadsheets for this, which isn't a great sign. Budget has tightened this year and we're being asked to justify every recurring cost, and usage on our side hasn't been strong enough to make an easy case. Let us know what options exist, whether that's addressing the issues or discussing pricing.
+
+Best regards,
+Jessica

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00421
+Customer ID: CUST-0071
+Contact: Edward Silva
+Priority: Medium
+Status: Open
+Created: 2025-10-29
+
+Subject: Requesting export-to-PDF for reports
+
+Hi support team,
+
+Not a bug, more of a feature request around analytics. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Thanks for considering it.
+
+Best,
+Edward

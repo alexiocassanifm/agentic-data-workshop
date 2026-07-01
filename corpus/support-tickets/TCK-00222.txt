@@ -1,0 +1,15 @@
+Ticket ID: TCK-00222
+Customer ID: CUST-0010
+Contact: Ashley Lee
+Priority: Low
+Status: Resolved
+Created: 2025-09-19
+
+Subject: Requesting export-to-PDF for reports
+
+Hi support team,
+
+We've been using the dashboards for a few months now and keep running into the same gap. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. This would make a real difference for how we use the product internally.
+
+Thanks a lot,
+Ashley

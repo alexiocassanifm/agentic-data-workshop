@@ -1,0 +1,15 @@
+Ticket ID: TCK-00178
+Customer ID: CUST-0047
+Contact: Melissa Silva
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-11-08
+
+Subject: Team member can see accounts they shouldn't
+
+Hey there,
+
+We have an external auditor who needs read-only access for a couple of weeks. Specifically we want a role that can view reports but not edit or export anything, and it's not clear if that combination exists. Happy to hop on a call if it's easier to explain live.
+
+Best,
+Melissa

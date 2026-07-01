@@ -1,0 +1,10 @@
+From: Hannah Reyes <hannah.reyes@larkspurflow.com>
+To: Wei Martin <wei.martin@cobalt-institute.com>
+Subject: A quick check-in from the Larkspur Flow team
+Date: 2023-09-18
+
+Checking in to see how things are going for Cobalt Institute. Sometimes a month in is when teams start hitting more advanced use cases, custom reports, deeper automation, that kind of thing. Let me know if there's anything you'd like help configuring.
+
+Best,
+Hannah
+Customer Success, Larkspur Flow

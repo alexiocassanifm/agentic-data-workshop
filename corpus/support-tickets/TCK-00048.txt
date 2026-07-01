@@ -1,0 +1,15 @@
+Ticket ID: TCK-00048
+Customer ID: CUST-0011
+Contact: Betty Harris
+Priority: Urgent
+Status: Open
+Created: 2025-11-22
+
+Subject: Slack notifications aren't coming through
+
+Hello,
+
+After the last sync, we ended up with duplicate records in Salesforce. It's possible this started right around your last product update, though we can't say for certain. Could someone check the sync status on your end?
+
+Thank you,
+Betty

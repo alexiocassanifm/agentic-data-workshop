@@ -1,0 +1,15 @@
+Ticket ID: TCK-00040
+Customer ID: CUST-0064
+Contact: Fatima Lopez
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-06-19
+
+Subject: Mobile app is missing a feature the desktop has
+
+Hey there,
+
+The mobile app crashes immediately for me every time I try to open it. I tried reinstalling the app and clearing the cache, no change. This is making the mobile app pretty much unusable for me right now.
+
+Thanks,
+Fatima

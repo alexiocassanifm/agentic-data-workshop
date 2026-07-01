@@ -1,0 +1,15 @@
+Ticket ID: TCK-00177
+Customer ID: CUST-0141
+Contact: Rahul Smith
+Priority: Medium
+Status: In Progress
+Created: 2022-12-27
+
+Subject: Can't log in on the iOS app
+
+Hey there,
+
+Trying to attach a file from my phone just fails with no real error message. This is on the latest version of the app, on a phone that's about 51 months old, and it happens every single time, not intermittently. The upload bar fills up and then just resets back to zero with no error shown. I tried reinstalling the app and clearing the cache, no change. This is making the mobile app pretty much unusable for me right now.
+
+Thanks,
+Rahul

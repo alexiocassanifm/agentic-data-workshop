@@ -1,0 +1,15 @@
+Ticket ID: TCK-00483
+Customer ID: CUST-0159
+Contact: Susan Johnson
+Priority: High
+Status: Open
+Created: 2025-06-29
+
+Subject: Can't export more than a few thousand records
+
+To the Larkspur Flow team,
+
+The export has been stuck 'processing' for over twenty minutes now. We compared the row count in the export to what we see in the dashboard and it's short by a few hundred records. Happy to send the file we downloaded if it helps you reproduce it.
+
+Thanks,
+Susan

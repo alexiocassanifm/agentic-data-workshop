@@ -1,0 +1,15 @@
+Ticket ID: TCK-00350
+Customer ID: CUST-0155
+Contact: Joseph Miller
+Priority: Low
+Status: Resolved
+Created: 2025-10-20
+
+Subject: Can we get scheduled report emails?
+
+Hello,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Thanks for considering it.
+
+Thank you,
+Joseph

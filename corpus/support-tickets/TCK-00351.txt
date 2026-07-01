@@ -1,0 +1,15 @@
+Ticket ID: TCK-00351
+Customer ID: CUST-0022
+Contact: David Gonzalez
+Priority: High
+Status: Resolved
+Created: 2025-10-14
+
+Subject: Everything feels sluggish since Monday
+
+Hi folks,
+
+A few of us have noticed things feel sluggish since the start of this week. Support tickets and dashboard views both feel affected, not just one part of the product. We've tried different browsers and different machines, so it doesn't seem to be on our end. This is starting to affect how quickly our team can respond to things during the day. Is there a known performance issue right now, or something on our account causing it?
+
+Appreciate the help,
+David

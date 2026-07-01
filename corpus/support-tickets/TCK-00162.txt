@@ -1,0 +1,15 @@
+Ticket ID: TCK-00162
+Customer ID: CUST-0011
+Contact: Betty Harris
+Priority: Medium
+Status: Resolved
+Created: 2025-07-20
+
+Subject: Pages taking 10+ seconds to load
+
+Hi folks,
+
+We're seeing pages take ten seconds or more to load, especially first thing in the morning. It seems worse between about 9 and 11am, which is when most of our team logs in. A workflow that used to run within a few minutes is now taking closer to 54 minutes to complete. This is becoming a real drag on our day-to-day, so we'd appreciate a look.
+
+Appreciate the help,
+Betty

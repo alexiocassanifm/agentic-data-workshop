@@ -1,0 +1,15 @@
+Ticket ID: TCK-00119
+Customer ID: CUST-0093
+Contact: Sarah Clark
+Priority: Urgent
+Status: Closed
+Created: 2023-06-26
+
+Subject: Billing contact needs to be updated
+
+Hi support team,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. The contract states 31 seats at the agreed rate, but the invoice shows a higher seat count. Happy to send over the contract for reference if that helps sort it out.
+
+Best,
+Sarah

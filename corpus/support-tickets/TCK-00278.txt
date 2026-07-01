@@ -1,0 +1,15 @@
+Ticket ID: TCK-00278
+Customer ID: CUST-0005
+Contact: Matthew Garcia
+Priority: High
+Status: Open
+Created: 2025-04-06
+
+Subject: SAML login broken since the update
+
+To the Larkspur Flow team,
+
+Since this morning, none of our team can get past the login screen. We rotated our SSO certificate on our identity provider side last week, could that be related? Any chance this is a known issue today? Happy to hop on a call if that's faster.
+
+Thanks,
+Matthew

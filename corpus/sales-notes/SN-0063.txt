@@ -1,0 +1,7 @@
+Account: CUST-0088 - Juniper Associates
+Contact: Lisa Moore (Head of Customer Success)
+Account Executive: Dana Whitfield
+Date: 2024-06-22
+Type: Onsite Visit Follow-up
+
+Lisa raised a frustration that we recently increased the frequency of our API calls and now we're seeing a lot of failures. Apparently this is affecting our salesforce sync specifically, other endpoints seem fine. I've opened a ticket on their behalf and promised a follow-up this week.

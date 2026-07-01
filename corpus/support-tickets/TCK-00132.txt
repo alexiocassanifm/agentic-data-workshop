@@ -1,0 +1,15 @@
+Ticket ID: TCK-00132
+Customer ID: CUST-0063
+Contact: Melissa Halvorsen
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2024-12-24
+
+Subject: Need to talk about our renewal
+
+Hi folks,
+
+Can you send over the process for canceling, just so we have the information? A few of the issues we've raised over the past few months, especially around performance and reporting, haven't fully been resolved yet. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. If there's anything that could change the picture, now would be the time.
+
+Thanks a lot,
+Melissa

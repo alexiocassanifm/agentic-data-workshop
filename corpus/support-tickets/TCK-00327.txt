@@ -1,0 +1,15 @@
+Ticket ID: TCK-00327
+Customer ID: CUST-0146
+Contact: Barbara Rodriguez
+Priority: Medium
+Status: In Progress
+Created: 2024-06-02
+
+Subject: Missing a breakdown by region in reporting
+
+Hi folks,
+
+Our leadership team asked for a metric that doesn't seem to exist in the current reporting. A few of the metrics we care about, like time-to-resolution, aren't in the standard reports at all. It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. Is this something on the roadmap, or a configuration we're missing?
+
+Appreciate the help,
+Barbara

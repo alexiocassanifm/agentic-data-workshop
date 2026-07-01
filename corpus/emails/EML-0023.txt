@@ -1,0 +1,10 @@
+From: Hannah Reyes <hannah.reyes@larkspurflow.com>
+To: Adam Garcia <adam.garcia@iron-mutual.com>
+Subject: Finishing your Larkspur Flow setup
+Date: 2025-11-06
+
+Just checking in on setup, Adam. A couple of things worth doing this week if you haven't already: connect your primary data source, invite the rest of your team, and take a look at the default dashboard views so you know what's available out of the box. Let me know if you hit any snags.
+
+Best,
+Hannah
+Customer Success, Larkspur Flow

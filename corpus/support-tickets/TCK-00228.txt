@@ -1,0 +1,15 @@
+Ticket ID: TCK-00228
+Customer ID: CUST-0069
+Contact: Lisa Roberts
+Priority: Medium
+Status: In Progress
+Created: 2024-12-18
+
+Subject: Can we get scheduled report emails?
+
+Hello,
+
+The reporting is good as far as it goes, but it's missing a breakdown we need for our board meetings. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. This would make a real difference for how we use the product internally.
+
+Thanks a lot,
+Lisa

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00230
+Customer ID: CUST-0110
+Contact: Amara Silva
+Priority: High
+Status: Open
+Created: 2025-05-09
+
+Subject: Integration shows connected but nothing is syncing
+
+Hey there,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. We noticed about 34 duplicate contact records that seem to have been created during last Tuesday's sync. Let us know what logs would be useful for you to see.
+
+Appreciate the help,
+Amara

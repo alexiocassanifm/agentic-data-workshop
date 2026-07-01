@@ -1,0 +1,15 @@
+Ticket ID: TCK-00445
+Customer ID: CUST-0164
+Contact: Ravi Davis
+Priority: Medium
+Status: Closed
+Created: 2023-07-27
+
+Subject: Billing contact needs to be updated
+
+Hi team,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. Let me know if you need anything else from our side to fix this.
+
+Appreciate the help,
+Ravi

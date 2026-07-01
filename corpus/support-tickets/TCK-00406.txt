@@ -1,0 +1,15 @@
+Ticket ID: TCK-00406
+Customer ID: CUST-0105
+Contact: Amara Brown
+Priority: Low
+Status: Closed
+Created: 2025-10-28
+
+Subject: Dashboard doesn't show the metric we need
+
+Hi support team,
+
+We've been using the dashboards for a few months now and keep running into the same gap. We're on the Starter plan, is custom reporting something that's only available at a higher tier? It would help to compare this quarter against last quarter side by side instead of switching date ranges back and forth. Would love to hear if there's a workaround in the meantime.
+
+Best,
+Amara

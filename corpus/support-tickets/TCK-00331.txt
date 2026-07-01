@@ -1,0 +1,15 @@
+Ticket ID: TCK-00331
+Customer ID: CUST-0071
+Contact: Edward Silva
+Priority: Medium
+Status: Resolved
+Created: 2024-04-25
+
+Subject: Need help finishing setup before our internal kickoff
+
+Hi support team,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. We imported a test batch of records and some fields came through blank that had data in the source file. Could someone point us to a guide, or better yet hop on a short call?
+
+Thanks,
+Edward

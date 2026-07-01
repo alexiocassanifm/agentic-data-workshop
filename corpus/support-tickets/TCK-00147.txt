@@ -1,0 +1,15 @@
+Ticket ID: TCK-00147
+Customer ID: CUST-0124
+Contact: Mohammed Walker
+Priority: High
+Status: Open
+Created: 2025-10-07
+
+Subject: Rate limit seems too low for our use case
+
+Hello,
+
+Our nightly batch job that pulls records via the API has started failing partway through. We're on the Professional plan, is the rate limit tied to plan tier, and if so is there a way to raise it? The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. This is starting to affect a feature our own customers rely on, so we'd like to resolve it quickly.
+
+Best regards,
+Mohammed

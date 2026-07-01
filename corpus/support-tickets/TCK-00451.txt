@@ -1,0 +1,15 @@
+Ticket ID: TCK-00451
+Customer ID: CUST-0010
+Contact: Ashley Lee
+Priority: High
+Status: Resolved
+Created: 2025-04-02
+
+Subject: SSO certificate expired?
+
+Hello,
+
+Our IT team flagged that the SAML certificate you have on file may have expired. Roughly 52 people on our team are affected, and it seems to hit new sessions more than ones that were already logged in. We rotated our SSO certificate on our identity provider side last week, could that be related? Thanks in advance, this one's a bit urgent for us.
+
+Thank you,
+Ashley

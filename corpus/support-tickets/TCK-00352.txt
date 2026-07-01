@@ -1,0 +1,15 @@
+Ticket ID: TCK-00352
+Customer ID: CUST-0065
+Contact: Owen Dubois
+Priority: High
+Status: In Progress
+Created: 2025-11-02
+
+Subject: Pages taking 10+ seconds to load
+
+Hi support team,
+
+We're seeing pages take ten seconds or more to load, especially first thing in the morning. Larger views, like the one with our full customer list, time out entirely rather than just being slow. Any status update would help us know whether to expect improvement soon.
+
+Regards,
+Owen

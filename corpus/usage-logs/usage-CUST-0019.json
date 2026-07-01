@@ -1,0 +1,1825 @@
+{
+  "customer_id": "CUST-0019",
+  "plan_tier": "Growth",
+  "usage_period": {
+    "start_date": "2025-08-17",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-08-18",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 128,
+          "unique_users": 83
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 171,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 80,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 70,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 365,
+          "unique_users": 97
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 44,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 202,
+          "unique_users": 109
+        }
+      ]
+    },
+    {
+      "date": "2025-08-21",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 88,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 649,
+          "unique_users": 129
+        }
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 187,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 547,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 128,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 174,
+          "unique_users": 103
+        }
+      ]
+    },
+    {
+      "date": "2025-08-23",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 250,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 222,
+          "unique_users": 41
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 125,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 207,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 249,
+          "unique_users": 111
+        }
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 83,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 362,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 90,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 666,
+          "unique_users": 81
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 183,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1146,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 304,
+          "unique_users": 42
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 264,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 321,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 531,
+          "unique_users": 63
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 399,
+          "unique_users": 84
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 276,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 173,
+          "unique_users": 20
+        }
+      ]
+    },
+    {
+      "date": "2025-08-31",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 98,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 48,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 47,
+          "unique_users": 25
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 352,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 888,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 322,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 806,
+          "unique_users": 125
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 385,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 228,
+          "unique_users": 37
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 657,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 424,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 247,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 346,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 189,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 336,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 529,
+          "unique_users": 103
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 224,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 360,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 980,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 333,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 241,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 58,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 23,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 88,
+          "unique_users": 39
+        }
+      ]
+    },
+    {
+      "date": "2025-09-07",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 65,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 273,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 141,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 242,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 644,
+          "unique_users": 123
+        }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 822,
+          "unique_users": 103
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 631,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 183,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 270,
+          "unique_users": 124
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 561,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 243,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 609,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 232,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 813,
+          "unique_users": 103
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 41,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 416,
+          "unique_users": 58
+        }
+      ]
+    },
+    {
+      "date": "2025-09-13",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 148,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 76,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 421,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-09-14",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 134,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 113,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 236,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 118,
+          "unique_users": 20
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 578,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 228,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 158,
+          "unique_users": 59
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 97,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 386,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 69,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 302,
+          "unique_users": 98
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 406,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 735,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 537,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 604,
+          "unique_users": 74
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 86,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 111,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 337,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 828,
+          "unique_users": 113
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 196,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 431,
+          "unique_users": 63
+        }
+      ]
+    },
+    {
+      "date": "2025-09-20",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 156,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 43,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 267,
+          "unique_users": 42
+        }
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 109,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 403,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 109,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 178,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 213,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 170,
+          "unique_users": 36
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 176,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 198,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 152,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 538,
+          "unique_users": 101
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 178,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 395,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 840,
+          "unique_users": 96
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 154,
+          "unique_users": 72
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 302,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 70,
+          "unique_users": 23
+        }
+      ]
+    },
+    {
+      "date": "2025-09-28",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 179,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 14,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 154,
+          "unique_users": 27
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 552,
+          "unique_users": 98
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 107,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 82,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 363,
+          "unique_users": 51
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 320,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 568,
+          "unique_users": 71
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 126,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 128,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 31,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 304,
+          "unique_users": 70
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 514,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 939,
+          "unique_users": 106
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 194,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 97,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 651,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 837,
+          "unique_users": 129
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 127,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 82,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 98,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 565,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 57,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 289,
+          "unique_users": 101
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 362,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 157,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 168,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 535,
+          "unique_users": 85
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 48,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 345,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 89,
+          "unique_users": 23
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 406,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 75,
+          "unique_users": 43
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 441,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 427,
+          "unique_users": 68
+        }
+      ]
+    },
+    {
+      "date": "2025-10-12",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 52,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 180,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 64,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 234,
+          "unique_users": 45
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 105,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 358,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 265,
+          "unique_users": 111
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 57,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1016,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 428,
+          "unique_users": 81
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 431,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 106,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 464,
+          "unique_users": 112
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 415,
+          "unique_users": 72
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 514,
+          "unique_users": 93
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 500,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 66,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 279,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2025-10-18",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 41,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 135,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 285,
+          "unique_users": 49
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 411,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 789,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 289,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 278,
+          "unique_users": 39
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 121,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 230,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 309,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 540,
+          "unique_users": 94
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 211,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 211,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 590,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 415,
+          "unique_users": 57
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 421,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 379,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 514,
+          "unique_users": 82
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 234,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 107,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 281,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 467,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 377,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 614,
+          "unique_users": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 282,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 203,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 536,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 858,
+          "unique_users": 129
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 335,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 319,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 318,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 361,
+          "unique_users": 128
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 321,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 238,
+          "unique_users": 130
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 76,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 179,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 200,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 368,
+          "unique_users": 98
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 609,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 158,
+          "unique_users": 63
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 153,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 386,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 673,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 283,
+          "unique_users": 50
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 149,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 825,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 330,
+          "unique_users": 124
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 206,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 584,
+          "unique_users": 75
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 314,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 155,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 60,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 114,
+          "unique_users": 30
+        }
+      ]
+    },
+    {
+      "date": "2025-11-08",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 285,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 106,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 328,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 86,
+          "unique_users": 18
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 134,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 215,
+          "unique_users": 47
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 1021,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 385,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 649,
+          "unique_users": 88
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 350,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 589,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 671,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1094,
+          "unique_users": 122
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 213,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 279,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 236,
+          "unique_users": 127
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 718,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 56,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 267,
+          "unique_users": 66
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 339,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 29,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 50,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 260,
+          "unique_users": 49
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 652,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 606,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 382,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 426,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 506,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 306,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 649,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 200,
+          "unique_users": 38
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 252,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 157,
+          "unique_users": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 240,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 41,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 148,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 115,
+          "unique_users": 18
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 1070,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 961,
+          "unique_users": 128
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 255,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 420,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 550,
+          "unique_users": 120
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 331,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 256,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 274,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 80,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 171,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 128,
+          "unique_users": 72
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 137,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 68,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 278,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 485,
+          "unique_users": 75
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 399,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 73,
+          "unique_users": 11
+        }
+      ]
+    }
+  ]
+}

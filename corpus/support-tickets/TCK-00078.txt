@@ -1,0 +1,15 @@
+Ticket ID: TCK-00078
+Customer ID: CUST-0024
+Contact: Felix Nelson
+Priority: Low
+Status: Open
+Created: 2025-03-23
+
+Subject: Confused about role-based permissions
+
+Hi support team,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. The auditor only needs to view historical records, nothing else, ideally without a full paid seat if that's possible. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Thank you,
+Felix

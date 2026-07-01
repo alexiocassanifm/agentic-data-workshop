@@ -1,0 +1,15 @@
+Ticket ID: TCK-00357
+Customer ID: CUST-0108
+Contact: Joseph Johnson
+Priority: Medium
+Status: Waiting on Customer
+Created: 2022-10-11
+
+Subject: CSV export is missing rows
+
+Hi team,
+
+Something's wrong with the encoding on our exports, names with accents show up as garbage characters. We've tried this in two different browsers with the same result. This only seems to happen with the larger exports, anything under about 4 thousand rows comes through fine. Let us know if this is a known limitation or an actual bug.
+
+Regards,
+Joseph

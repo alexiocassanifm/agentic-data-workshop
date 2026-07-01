@@ -1,0 +1,15 @@
+Ticket ID: TCK-00434
+Customer ID: CUST-0164
+Contact: Deborah Davis
+Priority: High
+Status: In Progress
+Created: 2024-10-04
+
+Subject: Unexpected overage charge
+
+Hi folks,
+
+Someone in accounting asked me to follow up about a discrepancy on our latest bill. The contract states 47 seats at the agreed rate, but the invoice shows a higher seat count. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Thanks a lot,
+Deborah

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00489
+Customer ID: CUST-0003
+Contact: Wei Nelson
+Priority: High
+Status: In Progress
+Created: 2025-06-14
+
+Subject: Considering other options before we renew
+
+Hello,
+
+Honestly, adoption on our side has dropped off and I'm not sure the subscription is worth it anymore. Our new head of operations wants to reevaluate all our tools this year, so nothing is guaranteed at this point. If there's anything that could change the picture, now would be the time.
+
+Thanks a lot,
+Wei

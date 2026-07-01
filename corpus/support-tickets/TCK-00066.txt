@@ -1,0 +1,15 @@
+Ticket ID: TCK-00066
+Customer ID: CUST-0048
+Contact: Mark Chandran
+Priority: High
+Status: Open
+Created: 2025-04-21
+
+Subject: Okta integration throwing errors on login
+
+Hi support team,
+
+Since this morning, none of our team can get past the login screen. Our IT admin double-checked the SAML metadata and it matches what's on file, so we're stuck on where else to look. Any chance this is a known issue today? Happy to hop on a call if that's faster.
+
+Regards,
+Mark

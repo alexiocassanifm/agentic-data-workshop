@@ -1,0 +1,15 @@
+Ticket ID: TCK-00438
+Customer ID: CUST-0098
+Contact: Mohammed Nelson
+Priority: Low
+Status: Closed
+Created: 2024-09-14
+
+Subject: Unexpected overage charge
+
+Hey there,
+
+Quick billing question before I forward this to our finance team. Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Let me know if you need anything else from our side to fix this.
+
+Thank you,
+Mohammed

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00127
+Customer ID: CUST-0143
+Contact: Jessica Davis
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-03-30
+
+Subject: Stuck on step 3 of setup
+
+Hi,
+
+We're partway through onboarding and got stuck on the step where you connect your data source. We imported a test batch of records and some fields came through blank that had data in the source file. It would help to have a clearer sense of what's included in our plan versus what needs an upgrade. Any help getting unstuck here would be appreciated.
+
+Best,
+Jessica

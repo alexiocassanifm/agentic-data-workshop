@@ -1,0 +1,15 @@
+Ticket ID: TCK-00484
+Customer ID: CUST-0132
+Contact: Amara Green
+Priority: Low
+Status: Waiting on Customer
+Created: 2023-07-24
+
+Subject: Slack channel missing daily summaries
+
+Hi folks,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. This integration is pretty central to how our operations team works, so the gap has been noticed internally. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thanks,
+Amara

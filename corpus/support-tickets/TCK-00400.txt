@@ -1,0 +1,15 @@
+Ticket ID: TCK-00400
+Customer ID: CUST-0115
+Contact: Nadia Van der Berg
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-08-11
+
+Subject: Can't figure out how to remove someone's admin access
+
+Hello,
+
+I tried removing someone's admin access and it doesn't seem to have taken effect. It's unclear whether permission changes apply immediately or need the user to log out and back in. Happy to hop on a call if it's easier to explain live.
+
+Regards,
+Nadia

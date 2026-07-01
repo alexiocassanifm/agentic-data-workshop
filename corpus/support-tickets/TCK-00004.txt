@@ -1,0 +1,15 @@
+Ticket ID: TCK-00004
+Customer ID: CUST-0173
+Contact: Sofia Nguyen
+Priority: High
+Status: In Progress
+Created: 2023-10-06
+
+Subject: Mobile app is missing a feature the desktop has
+
+Hello,
+
+Push notifications used to work on the app and have quietly stopped. I mostly use the app while traveling for the reporting view, and that's exactly the part that's missing. Happy to send a screen recording if that's useful.
+
+Best regards,
+Sofia

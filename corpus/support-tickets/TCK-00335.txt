@@ -1,0 +1,15 @@
+Ticket ID: TCK-00335
+Customer ID: CUST-0112
+Contact: Ingrid Johnson
+Priority: High
+Status: Waiting on Customer
+Created: 2025-09-23
+
+Subject: Not seeing the value we expected
+
+Hello,
+
+Can you send over the process for canceling, just so we have the information? Our new head of operations wants to reevaluate all our tools this year, so nothing is guaranteed at this point. A competitor reached out with a pretty aggressive offer and it's making us look more closely at what we're paying here. Would appreciate a conversation with our account team before we decide anything.
+
+Best regards,
+Ingrid

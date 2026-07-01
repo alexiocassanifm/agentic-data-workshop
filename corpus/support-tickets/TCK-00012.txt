@@ -1,0 +1,15 @@
+Ticket ID: TCK-00012
+Customer ID: CUST-0158
+Contact: Brian Chandran
+Priority: Medium
+Status: In Progress
+Created: 2025-10-17
+
+Subject: Intermittent 'too many requests' errors
+
+To the Larkspur Flow team,
+
+Is there a way to see our current API usage against the limit? We keep getting throttled. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. We're making roughly 14 requests per minute during our sync window, which used to work fine a month ago. Thanks for looking into this.
+
+Appreciate the help,
+Brian

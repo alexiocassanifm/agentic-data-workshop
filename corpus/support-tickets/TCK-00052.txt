@@ -1,0 +1,15 @@
+Ticket ID: TCK-00052
+Customer ID: CUST-0168
+Contact: Noah Scott
+Priority: High
+Status: Resolved
+Created: 2024-04-25
+
+Subject: Confused about role-based permissions
+
+Hi team,
+
+We changed a permission setting a few days ago and it doesn't seem to be respected anywhere. It's unclear whether permission changes apply immediately or need the user to log out and back in. Could you walk us through how roles and permissions are meant to work?
+
+Best,
+Noah

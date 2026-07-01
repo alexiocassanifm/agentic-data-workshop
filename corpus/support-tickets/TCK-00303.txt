@@ -1,0 +1,15 @@
+Ticket ID: TCK-00303
+Customer ID: CUST-0042
+Contact: Joseph Green
+Priority: High
+Status: Closed
+Created: 2025-09-25
+
+Subject: API calls failing during peak hours
+
+Hey there,
+
+We recently increased the frequency of our API calls and now we're seeing a lot of failures. We're making roughly 19 requests per minute during our sync window, which used to work fine a month ago. The error response is a 429 with a message like 'rate limit exceeded, try again later' but no retry-after header that we can see. Any guidance on raising our limit, or on how to structure our calls better, would help a lot.
+
+Thanks a lot,
+Joseph

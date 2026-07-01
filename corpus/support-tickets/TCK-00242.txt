@@ -1,0 +1,15 @@
+Ticket ID: TCK-00242
+Customer ID: CUST-0099
+Contact: Freya Abara
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-01-29
+
+Subject: Confused about which plan features we actually have
+
+To the Larkspur Flow team,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. A couple of us are non-technical and the current instructions assume more familiarity than we have. We imported a test batch of records and some fields came through blank that had data in the source file. It's not clear from the checklist whether we need to finish setup before inviting other users, or if it can happen in parallel. Could someone point us to a guide, or better yet hop on a short call?
+
+Thanks a lot,
+Freya

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00227
+Customer ID: CUST-0096
+Contact: Aisha Davis
+Priority: High
+Status: In Progress
+Created: 2025-10-22
+
+Subject: Duplicate records after Salesforce sync
+
+Hi team,
+
+A webhook we rely on for a downstream process seems to have stopped firing. This integration is pretty central to how our sales team works, so the gap has been noticed internally. Could someone check the sync status on your end?
+
+Appreciate the help,
+Aisha

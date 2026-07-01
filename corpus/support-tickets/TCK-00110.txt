@@ -1,0 +1,15 @@
+Ticket ID: TCK-00110
+Customer ID: CUST-0099
+Contact: Freya Abara
+Priority: Low
+Status: Open
+Created: 2023-03-13
+
+Subject: Can't figure out how to remove someone's admin access
+
+Hey there,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. This person joined the support team last month and somehow has visibility into a completely separate business unit's data. This is a bit of a data governance concern for us, so we'd like it sorted soon.
+
+Best,
+Freya

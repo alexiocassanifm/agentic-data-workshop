@@ -1,0 +1,15 @@
+Ticket ID: TCK-00130
+Customer ID: CUST-0129
+Contact: Michelle Taylor
+Priority: High
+Status: Open
+Created: 2025-11-02
+
+Subject: Permission changes aren't taking effect
+
+To the Larkspur Flow team,
+
+We changed a permission setting a few days ago and it doesn't seem to be respected anywhere. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. This person joined the operations team last month and somehow has visibility into a completely separate business unit's data. Let us know if this is a bug or if we're just missing a setting somewhere.
+
+Appreciate the help,
+Michelle

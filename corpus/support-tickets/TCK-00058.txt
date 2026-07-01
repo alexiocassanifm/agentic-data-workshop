@@ -1,0 +1,15 @@
+Ticket ID: TCK-00058
+Customer ID: CUST-0086
+Contact: Melissa Hall
+Priority: Low
+Status: Open
+Created: 2025-10-23
+
+Subject: Intermittent 'too many requests' errors
+
+Hi team,
+
+We think we're hitting a rate limit, but the error message doesn't say what the actual limit is. Would it be possible to get documentation on the exact limits per endpoint? Right now we're guessing. The failures seem to cluster around the top of the hour, which lines up with when several of our scheduled jobs kick off at once. We're on the Enterprise plan, is the rate limit tied to plan tier, and if so is there a way to raise it? Any guidance on raising our limit, or on how to structure our calls better, would help a lot.
+
+Best,
+Melissa

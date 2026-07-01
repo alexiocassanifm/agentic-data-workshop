@@ -1,0 +1,15 @@
+Ticket ID: TCK-00500
+Customer ID: CUST-0014
+Contact: Stephanie Lee
+Priority: High
+Status: Open
+Created: 2025-10-22
+
+Subject: Can't log in via SSO this morning
+
+Hey there,
+
+This is the third day in a row that our SSO login has been unreliable. Our IT admin double-checked the SAML metadata and it matches what's on file, so we're stuck on where else to look. It happens with Okta, but a colleague using the same account through a personal browser profile didn't have the issue, so it might be cache-related. We'd appreciate a fix soon since it's blocking daily work for several people.
+
+Appreciate the help,
+Stephanie

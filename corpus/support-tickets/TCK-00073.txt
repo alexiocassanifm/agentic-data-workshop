@@ -1,0 +1,15 @@
+Ticket ID: TCK-00073
+Customer ID: CUST-0123
+Contact: Isabella Martinez
+Priority: Urgent
+Status: Closed
+Created: 2025-11-17
+
+Subject: Slack channel missing daily summaries
+
+Hello,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. We double-checked the Salesforce connection and the API user still has the right permissions on their side. Let us know what logs would be useful for you to see.
+
+Appreciate the help,
+Isabella

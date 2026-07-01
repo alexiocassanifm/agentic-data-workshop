@@ -1,0 +1,15 @@
+Ticket ID: TCK-00273
+Customer ID: CUST-0026
+Contact: Ronald Garcia
+Priority: Low
+Status: Closed
+Created: 2025-06-22
+
+Subject: Can we get a corrected invoice?
+
+Hi support team,
+
+Someone in accounting asked me to follow up about a discrepancy on our latest bill. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. Let me know if you need anything else from our side to fix this.
+
+Thanks,
+Ronald

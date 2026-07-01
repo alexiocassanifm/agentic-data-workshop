@@ -1,0 +1,15 @@
+Ticket ID: TCK-00126
+Customer ID: CUST-0162
+Contact: Ingrid Torres
+Priority: Medium
+Status: Closed
+Created: 2024-12-13
+
+Subject: Requesting export-to-PDF for reports
+
+Hi folks,
+
+Our leadership team asked for a metric that doesn't seem to exist in the current reporting. We're on the Enterprise plan, is custom reporting something that's only available at a higher tier? We can see the raw numbers on the dashboard but there's no way to export a nicely formatted PDF version for stakeholders who don't log in. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. Happy to jump on a call to explain exactly what we're trying to build.
+
+Thank you,
+Ingrid

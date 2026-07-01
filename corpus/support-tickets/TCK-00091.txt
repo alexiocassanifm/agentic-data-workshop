@@ -1,0 +1,15 @@
+Ticket ID: TCK-00091
+Customer ID: CUST-0070
+Contact: Lars Hall
+Priority: Urgent
+Status: In Progress
+Created: 2023-02-25
+
+Subject: Not sure how to restrict access for new users
+
+Hello,
+
+I tried removing someone's admin access and it doesn't seem to have taken effect. We have roughly 14 different teams that should each only see their own accounts, and right now everyone can see everything. We'd like an audit trail of who has access to what, since right now it's mostly tribal knowledge. Could you walk us through how roles and permissions are meant to work?
+
+Regards,
+Lars

@@ -1,0 +1,2015 @@
+{
+  "customer_id": "CUST-0022",
+  "plan_tier": "Professional",
+  "usage_period": {
+    "start_date": "2024-01-23",
+    "end_date": "2024-04-28"
+  },
+  "daily_usage": [
+    {
+      "date": "2024-01-23",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 222,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 789,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 115,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 388,
+          "unique_users": 85
+        }
+      ]
+    },
+    {
+      "date": "2024-01-24",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 568,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 130,
+          "unique_users": 81
+        }
+      ]
+    },
+    {
+      "date": "2024-01-25",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 343,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 785,
+          "unique_users": 123
+        }
+      ]
+    },
+    {
+      "date": "2024-01-26",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 317,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 750,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 385,
+          "unique_users": 122
+        }
+      ]
+    },
+    {
+      "date": "2024-01-27",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 37,
+          "unique_users": 5
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 279,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 26,
+          "unique_users": 4
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 152,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 242,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 85,
+          "unique_users": 36
+        }
+      ]
+    },
+    {
+      "date": "2024-01-28",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 99,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 18,
+          "unique_users": 4
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 199,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 164,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2024-01-29",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 696,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 205,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 1073,
+          "unique_users": 128
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 227,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 524,
+          "unique_users": 96
+        }
+      ]
+    },
+    {
+      "date": "2024-01-30",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 286,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 502,
+          "unique_users": 104
+        }
+      ]
+    },
+    {
+      "date": "2024-01-31",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 300,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 103,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 233,
+          "unique_users": 52
+        }
+      ]
+    },
+    {
+      "date": "2024-02-01",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 402,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 62,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2024-02-02",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 459,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 55,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 726,
+          "unique_users": 93
+        }
+      ]
+    },
+    {
+      "date": "2024-02-05",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 370,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 368,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 361,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 305,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 73,
+          "unique_users": 16
+        }
+      ]
+    },
+    {
+      "date": "2024-02-06",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 463,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 362,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2024-02-07",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 66,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 279,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 186,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 299,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 502,
+          "unique_users": 78
+        }
+      ]
+    },
+    {
+      "date": "2024-02-08",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 496,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 880,
+          "unique_users": 110
+        }
+      ]
+    },
+    {
+      "date": "2024-02-09",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 648,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1004,
+          "unique_users": 119
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 705,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 381,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 146,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 712,
+          "unique_users": 109
+        }
+      ]
+    },
+    {
+      "date": "2024-02-12",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 231,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 170,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 145,
+          "unique_users": 21
+        }
+      ]
+    },
+    {
+      "date": "2024-02-13",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 574,
+          "unique_users": 103
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 27,
+          "unique_users": 12
+        }
+      ]
+    },
+    {
+      "date": "2024-02-14",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 338,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 250,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 189,
+          "unique_users": 45
+        }
+      ]
+    },
+    {
+      "date": "2024-02-15",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 183,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 610,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 177,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 588,
+          "unique_users": 103
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 455,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 85,
+          "unique_users": 19
+        }
+      ]
+    },
+    {
+      "date": "2024-02-16",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 225,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 456,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 349,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 245,
+          "unique_users": 80
+        }
+      ]
+    },
+    {
+      "date": "2024-02-19",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 116,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 370,
+          "unique_users": 79
+        }
+      ]
+    },
+    {
+      "date": "2024-02-20",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 294,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 164,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 132,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 105,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 102,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 311,
+          "unique_users": 83
+        }
+      ]
+    },
+    {
+      "date": "2024-02-21",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 69,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 287,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 296,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 106,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 77,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 984,
+          "unique_users": 119
+        }
+      ]
+    },
+    {
+      "date": "2024-02-22",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 591,
+          "unique_users": 84
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 198,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 373,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 105,
+          "unique_users": 38
+        }
+      ]
+    },
+    {
+      "date": "2024-02-23",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 610,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 152,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 298,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 59,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 578,
+          "unique_users": 105
+        }
+      ]
+    },
+    {
+      "date": "2024-02-25",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 246,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 41,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 53,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 171,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2024-02-26",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 177,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 473,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 127,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 79,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2024-02-27",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 99,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 178,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 807,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 47,
+          "unique_users": 15
+        }
+      ]
+    },
+    {
+      "date": "2024-02-28",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 333,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 291,
+          "unique_users": 74
+        }
+      ]
+    },
+    {
+      "date": "2024-02-29",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 133,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 297,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 266,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 1017,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 273,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 465,
+          "unique_users": 102
+        }
+      ]
+    },
+    {
+      "date": "2024-03-01",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 596,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 51,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 591,
+          "unique_users": 123
+        }
+      ]
+    },
+    {
+      "date": "2024-03-02",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 222,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 260,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 70,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 197,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 98,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 87,
+          "unique_users": 45
+        }
+      ]
+    },
+    {
+      "date": "2024-03-04",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 292,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 32,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 115,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 389,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 475,
+          "unique_users": 78
+        }
+      ]
+    },
+    {
+      "date": "2024-03-05",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 491,
+          "unique_users": 93
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 288,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 1100,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 356,
+          "unique_users": 42
+        }
+      ]
+    },
+    {
+      "date": "2024-03-06",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 223,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 323,
+          "unique_users": 61
+        }
+      ]
+    },
+    {
+      "date": "2024-03-07",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 441,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 236,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 270,
+          "unique_users": 100
+        }
+      ]
+    },
+    {
+      "date": "2024-03-08",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 246,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 358,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 47,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 586,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 300,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2024-03-09",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 328,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 191,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 223,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 256,
+          "unique_users": 36
+        }
+      ]
+    },
+    {
+      "date": "2024-03-10",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 33,
+          "unique_users": 8
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 116,
+          "unique_users": 19
+        }
+      ]
+    },
+    {
+      "date": "2024-03-11",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 308,
+          "unique_users": 102
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 591,
+          "unique_users": 128
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 283,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 888,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 235,
+          "unique_users": 52
+        }
+      ]
+    },
+    {
+      "date": "2024-03-12",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 175,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 46,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 305,
+          "unique_users": 70
+        }
+      ]
+    },
+    {
+      "date": "2024-03-13",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 485,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1079,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 489,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 159,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 32,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 105,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2024-03-14",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 462,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 700,
+          "unique_users": 98
+        }
+      ]
+    },
+    {
+      "date": "2024-03-15",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 587,
+          "unique_users": 89
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 528,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 299,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 129,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 523,
+          "unique_users": 68
+        }
+      ]
+    },
+    {
+      "date": "2024-03-17",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 111,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 180,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 32,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2024-03-18",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 743,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 218,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 296,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 217,
+          "unique_users": 37
+        }
+      ]
+    },
+    {
+      "date": "2024-03-19",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 878,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 267,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 213,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 220,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 68,
+          "unique_users": 15
+        }
+      ]
+    },
+    {
+      "date": "2024-03-20",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 569,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 105,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 381,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 744,
+          "unique_users": 83
+        }
+      ]
+    },
+    {
+      "date": "2024-03-21",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 817,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 745,
+          "unique_users": 119
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 767,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 80,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 459,
+          "unique_users": 90
+        }
+      ]
+    },
+    {
+      "date": "2024-03-22",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 772,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 457,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 264,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 51,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 209,
+          "unique_users": 43
+        }
+      ]
+    },
+    {
+      "date": "2024-03-24",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 206,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 152,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 83,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 12,
+          "unique_users": 6
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 34,
+          "unique_users": 9
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 182,
+          "unique_users": 33
+        }
+      ]
+    },
+    {
+      "date": "2024-03-25",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 47,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 808,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 479,
+          "unique_users": 72
+        }
+      ]
+    },
+    {
+      "date": "2024-03-26",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 521,
+          "unique_users": 103
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 341,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 852,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 95,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 248,
+          "unique_users": 122
+        }
+      ]
+    },
+    {
+      "date": "2024-03-27",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 184,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 987,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 140,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 229,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 495,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 303,
+          "unique_users": 75
+        }
+      ]
+    },
+    {
+      "date": "2024-03-28",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 810,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 365,
+          "unique_users": 127
+        }
+      ]
+    },
+    {
+      "date": "2024-03-29",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 290,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 420,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 577,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 148,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 327,
+          "unique_users": 120
+        }
+      ]
+    },
+    {
+      "date": "2024-03-30",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 169,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 43,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 69,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 109,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 84,
+          "unique_users": 22
+        }
+      ]
+    },
+    {
+      "date": "2024-03-31",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 129,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 32,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 15,
+          "unique_users": 6
+        }
+      ]
+    },
+    {
+      "date": "2024-04-01",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 543,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 201,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 75,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 231,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 103,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 61,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2024-04-02",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 756,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 971,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 304,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 468,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 247,
+          "unique_users": 92
+        }
+      ]
+    },
+    {
+      "date": "2024-04-03",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 576,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 611,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 311,
+          "unique_users": 97
+        }
+      ]
+    },
+    {
+      "date": "2024-04-04",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 209,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 178,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 508,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 550,
+          "unique_users": 73
+        }
+      ]
+    },
+    {
+      "date": "2024-04-05",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 186,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 309,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 35,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 47,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 278,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2024-04-06",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 41,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 187,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 157,
+          "unique_users": 22
+        }
+      ]
+    },
+    {
+      "date": "2024-04-08",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 216,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 767,
+          "unique_users": 102
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 582,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 892,
+          "unique_users": 103
+        }
+      ]
+    },
+    {
+      "date": "2024-04-09",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 114,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 200,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 127,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 143,
+          "unique_users": 94
+        }
+      ]
+    },
+    {
+      "date": "2024-04-10",
+      "features": [
+        {
+          "feature_name": "API Access",
+          "event_count": 252,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 131,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 162,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 426,
+          "unique_users": 97
+        }
+      ]
+    },
+    {
+      "date": "2024-04-11",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 650,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 68,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 514,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 108,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 368,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 195,
+          "unique_users": 70
+        }
+      ]
+    },
+    {
+      "date": "2024-04-12",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 792,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 254,
+          "unique_users": 50
+        }
+      ]
+    },
+    {
+      "date": "2024-04-14",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 281,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 27,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 97,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 135,
+          "unique_users": 29
+        }
+      ]
+    },
+    {
+      "date": "2024-04-15",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 135,
+          "unique_users": 57
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 903,
+          "unique_users": 115
+        }
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 444,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 327,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1010,
+          "unique_users": 117
+        }
+      ]
+    },
+    {
+      "date": "2024-04-17",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 300,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 474,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 578,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 177,
+          "unique_users": 88
+        }
+      ]
+    },
+    {
+      "date": "2024-04-18",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 378,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 914,
+          "unique_users": 112
+        }
+      ]
+    },
+    {
+      "date": "2024-04-19",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 308,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 257,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 150,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 293,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 618,
+          "unique_users": 131
+        }
+      ]
+    },
+    {
+      "date": "2024-04-21",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 245,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 238,
+          "unique_users": 36
+        }
+      ]
+    },
+    {
+      "date": "2024-04-22",
+      "features": [
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 713,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 544,
+          "unique_users": 119
+        }
+      ]
+    },
+    {
+      "date": "2024-04-23",
+      "features": [
+        {
+          "feature_name": "Mobile App",
+          "event_count": 187,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 76,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 282,
+          "unique_users": 128
+        }
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 270,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 82,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 60,
+          "unique_users": 15
+        }
+      ]
+    },
+    {
+      "date": "2024-04-25",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 18,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 370,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 159,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "API Access",
+          "event_count": 981,
+          "unique_users": 122
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 272,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 400,
+          "unique_users": 70
+        }
+      ]
+    },
+    {
+      "date": "2024-04-26",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 199,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 314,
+          "unique_users": 91
+        },
+        {
+          "feature_name": "Mobile App",
+          "event_count": 123,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Salesforce Sync",
+          "event_count": 171,
+          "unique_users": 71
+        }
+      ]
+    }
+  ]
+}

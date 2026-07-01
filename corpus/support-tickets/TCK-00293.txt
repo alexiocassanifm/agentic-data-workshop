@@ -1,0 +1,15 @@
+Ticket ID: TCK-00293
+Customer ID: CUST-0076
+Contact: Andrew Carter
+Priority: Urgent
+Status: In Progress
+Created: 2025-07-18
+
+Subject: Users locked out after SSO change
+
+Hi folks,
+
+Login has been down for us since about 9am and it's starting to affect the whole department. Our IT admin double-checked the SAML metadata and it matches what's on file, so we're stuck on where else to look. Any chance this is a known issue today? Happy to hop on a call if that's faster.
+
+Thanks a lot,
+Andrew

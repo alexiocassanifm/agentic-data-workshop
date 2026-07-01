@@ -1,0 +1,15 @@
+Ticket ID: TCK-00200
+Customer ID: CUST-0164
+Contact: Ravi Davis
+Priority: Medium
+Status: Resolved
+Created: 2023-09-15
+
+Subject: Mobile app shows outdated data
+
+Hi,
+
+The mobile app crashes immediately for me every time I try to open it. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. I tried reinstalling the app and clearing the cache, no change. Would help to know if a fix is already in progress.
+
+Best regards,
+Ravi

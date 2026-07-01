@@ -1,0 +1,15 @@
+Ticket ID: TCK-00324
+Customer ID: CUST-0061
+Contact: Lisa Thomas
+Priority: High
+Status: Resolved
+Created: 2023-12-04
+
+Subject: Notifications not showing up on mobile
+
+Hi,
+
+A feature I use constantly on desktop doesn't seem to exist at all on mobile. A few other people on our team have confirmed they're seeing the same thing on their phones. I mostly use the app while traveling for the reporting view, and that's exactly the part that's missing. Happy to send a screen recording if that's useful.
+
+Appreciate the help,
+Lisa

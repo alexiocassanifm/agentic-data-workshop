@@ -1,0 +1,7 @@
+Account: CUST-0090 - Granite Alliance
+Contact: Linda Dubois (Senior Systems Administrator)
+Account Executive: Isabella Conti
+Date: 2025-08-03
+Type: Expansion Conversation
+
+On a related note, Linda said we recently increased the frequency of our API calls and now we're seeing a lot of failures. They added that this is affecting our slack sync specifically, other endpoints seem fine. Wanted to make sure this doesn't become a renewal talking point later, so flagging it now.

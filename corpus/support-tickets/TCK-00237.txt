@@ -1,0 +1,15 @@
+Ticket ID: TCK-00237
+Customer ID: CUST-0166
+Contact: Jamal Larsen
+Priority: Urgent
+Status: In Progress
+Created: 2025-09-26
+
+Subject: Can't log in via SSO this morning
+
+Hey there,
+
+Our IT team flagged that the SAML certificate you have on file may have expired. This is blocking our finance team from getting into the account at all, which is not great timing. Clearing cookies fixes it temporarily but it comes back within a day. Could someone take a look at the SSO configuration on your side?
+
+Regards,
+Jamal

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00315
+Customer ID: CUST-0006
+Contact: Nadia Torres
+Priority: Medium
+Status: Closed
+Created: 2023-07-17
+
+Subject: Invoice amount doesn't match our contract
+
+Hi,
+
+It looks like we were billed twice for this month, can someone confirm? The contract states 44 seats at the agreed rate, but the invoice shows a higher seat count. Let me know if you need anything else from our side to fix this.
+
+Thanks a lot,
+Nadia

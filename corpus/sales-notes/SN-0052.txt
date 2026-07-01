@@ -1,0 +1,7 @@
+Account: CUST-0048 - Falcon Media
+Contact: Nancy Osei (Business Systems Analyst)
+Account Executive: Jamal Osei
+Date: 2024-09-15
+Type: Quarterly Check-in
+
+During the call, Nancy flagged that this is the third day in a row that our SSO login has been unreliable. Their take was that we tried both chrome and safari and get the same redirect loop in both. I told them I'd relay this to the support team and follow up once there's an update.

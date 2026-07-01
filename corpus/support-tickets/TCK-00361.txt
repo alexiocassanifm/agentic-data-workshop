@@ -1,0 +1,15 @@
+Ticket ID: TCK-00361
+Customer ID: CUST-0022
+Contact: David Gonzalez
+Priority: Low
+Status: Closed
+Created: 2024-05-01
+
+Subject: Export includes duplicate entries
+
+Hi folks,
+
+We tried exporting our full dataset and it just times out. It looks like records that were updated recently show up twice, once with old values and once with new. Happy to send the file we downloaded if it helps you reproduce it.
+
+Thank you,
+David

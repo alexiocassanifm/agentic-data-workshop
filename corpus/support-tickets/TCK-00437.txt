@@ -1,0 +1,15 @@
+Ticket ID: TCK-00437
+Customer ID: CUST-0033
+Contact: Richard Rivera
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2024-03-05
+
+Subject: Not seeing the value we expected
+
+Hi team,
+
+Before we make a final call on renewal, I wanted to raise a few concerns. A few of the issues we've raised over the past few months, especially around performance and reporting, haven't fully been resolved yet. We're not trying to be difficult, just being transparent that the renewal isn't a given right now. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. Let us know what options exist, whether that's addressing the issues or discussing pricing.
+
+Thank you,
+Richard

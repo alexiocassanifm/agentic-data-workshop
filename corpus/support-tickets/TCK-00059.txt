@@ -1,0 +1,15 @@
+Ticket ID: TCK-00059
+Customer ID: CUST-0163
+Contact: Kimberly Harris
+Priority: High
+Status: Resolved
+Created: 2024-12-20
+
+Subject: Not seeing the value we expected
+
+Hello,
+
+We've been evaluating a couple of alternatives and wanted to flag that before our renewal comes up. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. Let us know what options exist, whether that's addressing the issues or discussing pricing.
+
+Thanks,
+Kimberly

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00402
+Customer ID: CUST-0131
+Contact: Adam Garcia
+Priority: Low
+Status: Resolved
+Created: 2025-11-28
+
+Subject: Need your SOC 2 report for our security review
+
+Hi folks,
+
+Our procurement team sent over a security questionnaire that we need help answering. One of our regulated customers specifically asked about sub-processors, so a current list would help. Does the platform support exporting an audit log of who accessed or changed what, and for how long is that retained? Specifically we need to know if EU customer data stays within the EU or if it's processed elsewhere. Thank you for your help with this.
+
+Appreciate the help,
+Adam

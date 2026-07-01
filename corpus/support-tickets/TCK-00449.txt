@@ -1,0 +1,15 @@
+Ticket ID: TCK-00449
+Customer ID: CUST-0151
+Contact: Robert Rodriguez
+Priority: Medium
+Status: Resolved
+Created: 2024-08-12
+
+Subject: Dashboard doesn't show the metric we need
+
+Hey there,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. This would make a real difference for how we use the product internally.
+
+Appreciate the help,
+Robert

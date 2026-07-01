@@ -1,0 +1,15 @@
+Ticket ID: TCK-00221
+Customer ID: CUST-0174
+Contact: Hiroshi Johnson
+Priority: Medium
+Status: In Progress
+Created: 2024-03-25
+
+Subject: Integration shows connected but nothing is syncing
+
+Hi,
+
+A webhook we rely on for a downstream process seems to have stopped firing. It's possible this started right around your last product update, though we can't say for certain. We double-checked the Salesforce connection and the API user still has the right permissions on their side. We noticed about 57 duplicate contact records that seem to have been created during last Tuesday's sync. Thanks for digging in.
+
+Thanks,
+Hiroshi

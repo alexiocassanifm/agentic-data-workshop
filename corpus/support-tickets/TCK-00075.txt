@@ -1,0 +1,15 @@
+Ticket ID: TCK-00075
+Customer ID: CUST-0141
+Contact: Rahul Smith
+Priority: High
+Status: Resolved
+Created: 2024-06-15
+
+Subject: Slack notifications aren't coming through
+
+Hi folks,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. We noticed about 15 duplicate contact records that seem to have been created during last Tuesday's sync. It's possible this started right around your last product update, though we can't say for certain. Could someone check the sync status on your end?
+
+Appreciate the help,
+Rahul

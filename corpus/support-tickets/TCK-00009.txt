@@ -1,0 +1,15 @@
+Ticket ID: TCK-00009
+Customer ID: CUST-0086
+Contact: Melissa Hall
+Priority: Urgent
+Status: Resolved
+Created: 2025-05-24
+
+Subject: Everything feels sluggish since Monday
+
+Hi team,
+
+Loading anything with a lot of records has become painfully slow. It seems worse between about 9 and 11am, which is when most of our team logs in. Larger views, like the one with our full customer list, time out entirely rather than just being slow. Thanks for checking into it.
+
+Regards,
+Melissa

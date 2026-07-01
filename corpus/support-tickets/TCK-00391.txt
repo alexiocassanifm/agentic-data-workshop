@@ -1,0 +1,15 @@
+Ticket ID: TCK-00391
+Customer ID: CUST-0094
+Contact: Yuki Chandran
+Priority: Medium
+Status: Resolved
+Created: 2025-09-27
+
+Subject: Question about encryption at rest
+
+Hello,
+
+Our security team is doing an annual review of vendors and has a few questions. The questionnaire also asks about your incident response process and average time to notify customers of an incident. Our legal team wants to see the data processing agreement, if there's an updated version available. Does the platform support exporting an audit log of who accessed or changed what, and for how long is that retained? Let us know what's the best way to get these documents.
+
+Appreciate the help,
+Yuki

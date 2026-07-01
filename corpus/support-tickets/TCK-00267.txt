@@ -1,0 +1,15 @@
+Ticket ID: TCK-00267
+Customer ID: CUST-0159
+Contact: Sven Singh
+Priority: High
+Status: Open
+Created: 2025-07-27
+
+Subject: Not seeing the value we expected
+
+Hi,
+
+Can you send over the process for canceling, just so we have the information? We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. A few of the issues we've raised over the past few months, especially around performance and reporting, haven't fully been resolved yet. Budget has tightened this year and we're being asked to justify every recurring cost, and usage on our side hasn't been strong enough to make an easy case. Let us know what options exist, whether that's addressing the issues or discussing pricing.
+
+Thanks a lot,
+Sven

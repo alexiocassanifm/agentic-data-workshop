@@ -1,0 +1,15 @@
+Ticket ID: TCK-00011
+Customer ID: CUST-0157
+Contact: William Berg
+Priority: Urgent
+Status: Waiting on Customer
+Created: 2023-11-01
+
+Subject: Timeouts when loading larger accounts
+
+Hi support team,
+
+Our automation workflows seem to be running well behind schedule lately. We've tried different browsers and different machines, so it doesn't seem to be on our end. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. This is starting to affect how quickly our team can respond to things during the day. Thanks for checking into it.
+
+Thanks,
+William

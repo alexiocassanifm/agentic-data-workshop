@@ -1,0 +1,15 @@
+Ticket ID: TCK-00104
+Customer ID: CUST-0140
+Contact: John Miller
+Priority: High
+Status: In Progress
+Created: 2022-10-14
+
+Subject: Requesting export-to-PDF for reports
+
+Hi support team,
+
+We'd really like the option to have reports emailed to us on a schedule instead of logging in to check. We can see the raw numbers on the dashboard but there's no way to export a nicely formatted PDF version for stakeholders who don't log in. A monthly email with the top-line numbers would save someone on our team from manually pulling this every Monday. Thanks for considering it.
+
+Best regards,
+John

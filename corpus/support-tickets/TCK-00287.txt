@@ -1,0 +1,15 @@
+Ticket ID: TCK-00287
+Customer ID: CUST-0014
+Contact: Stephanie Lee
+Priority: Low
+Status: Open
+Created: 2025-01-25
+
+Subject: Stuck on step 3 of setup
+
+Hey there,
+
+This is probably a basic question, but we can't figure out how to bulk-invite the rest of our team. The wizard asks us to map fields from our old system but the mapping screen doesn't show all of our custom fields. We imported a test batch of records and some fields came through blank that had data in the source file. We'd like to get this sorted before our internal rollout next week if possible.
+
+Thanks a lot,
+Stephanie

@@ -1,0 +1,15 @@
+Ticket ID: TCK-00185
+Customer ID: CUST-0175
+Contact: Ingrid King
+Priority: Low
+Status: In Progress
+Created: 2025-11-25
+
+Subject: Dashboard doesn't show the metric we need
+
+Hi team,
+
+Our leadership team asked for a metric that doesn't seem to exist in the current reporting. Specifically we want to break down usage by region or by team, and right now everything is aggregated at the account level. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. Happy to jump on a call to explain exactly what we're trying to build.
+
+Thank you,
+Ingrid

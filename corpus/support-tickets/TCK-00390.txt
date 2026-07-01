@@ -1,0 +1,15 @@
+Ticket ID: TCK-00390
+Customer ID: CUST-0084
+Contact: Mei Dubois
+Priority: Medium
+Status: In Progress
+Created: 2025-07-31
+
+Subject: CSV export is missing rows
+
+Hey there,
+
+Our weekly scheduled export didn't show up in the inbox this week. We've tried this in two different browsers with the same result. We rely on this export to feed our own reporting, so the missing rows are throwing off our numbers downstream. Would appreciate a fix or a workaround since we use this export weekly.
+
+Thanks a lot,
+Mei

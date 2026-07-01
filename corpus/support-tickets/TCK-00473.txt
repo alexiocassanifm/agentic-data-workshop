@@ -1,0 +1,15 @@
+Ticket ID: TCK-00473
+Customer ID: CUST-0108
+Contact: Joseph Johnson
+Priority: High
+Status: Waiting on Customer
+Created: 2022-10-20
+
+Subject: Scheduled export stopped arriving
+
+Hi folks,
+
+The export has been stuck 'processing' for over twenty minutes now. We rely on this export to feed our own reporting, so the missing rows are throwing off our numbers downstream. It looks like records that were updated recently show up twice, once with old values and once with new. Would appreciate a fix or a workaround since we use this export weekly.
+
+Thanks,
+Joseph

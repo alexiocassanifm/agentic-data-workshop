@@ -1,0 +1,15 @@
+Ticket ID: TCK-00486
+Customer ID: CUST-0149
+Contact: Tomas Hernandez
+Priority: Medium
+Status: In Progress
+Created: 2024-11-01
+
+Subject: Mobile app crashes on opening
+
+Hello,
+
+I can log in fine on desktop but the mobile app just spins on the login screen. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. This is on the latest version of the app, on a phone that's about 22 months old, and it happens every single time, not intermittently. Any known issue with the current app version?
+
+Thanks a lot,
+Tomas

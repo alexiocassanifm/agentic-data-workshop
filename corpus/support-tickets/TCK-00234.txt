@@ -1,0 +1,15 @@
+Ticket ID: TCK-00234
+Customer ID: CUST-0063
+Contact: Melissa Halvorsen
+Priority: Medium
+Status: Waiting on Customer
+Created: 2023-03-30
+
+Subject: Everything feels sluggish since Monday
+
+Hi,
+
+Not sure if this is just us, but performance has taken a real hit recently. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. Is there a known performance issue right now, or something on our account causing it?
+
+Best,
+Melissa

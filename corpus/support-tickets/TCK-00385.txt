@@ -1,0 +1,15 @@
+Ticket ID: TCK-00385
+Customer ID: CUST-0042
+Contact: Joseph Green
+Priority: High
+Status: Open
+Created: 2023-06-16
+
+Subject: Mobile app is missing a feature the desktop has
+
+Hi folks,
+
+The numbers I see on the mobile app don't match what's on the desktop dashboard. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. It seems to be specific to Android, a colleague with an iPhone isn't seeing the same crash. Thanks for looking into it.
+
+Appreciate the help,
+Joseph

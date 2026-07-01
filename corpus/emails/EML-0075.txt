@@ -1,0 +1,10 @@
+From: Alex Kowalski <alex.kowalski@larkspurflow.com>
+To: Barbara Rossi <barbara.rossi@crestline-communications.com>
+Subject: Thinking you might outgrow your current plan
+Date: 2025-01-12
+
+Wanted to flag something given how Crestline Communications's usage has grown, it looks like you're approaching the limits of your current plan. Might be worth a quick conversation about whether the next tier up makes sense, there are a few features there, like custom reports and higher API limits, that could be a good fit.
+
+Best,
+Alex
+Customer Success, Larkspur Flow

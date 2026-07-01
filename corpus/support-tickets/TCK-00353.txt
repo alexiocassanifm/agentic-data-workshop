@@ -1,0 +1,15 @@
+Ticket ID: TCK-00353
+Customer ID: CUST-0065
+Contact: Naomi Torres
+Priority: High
+Status: Open
+Created: 2025-10-31
+
+Subject: Duplicate records after Salesforce sync
+
+Hi,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. This integration is pretty central to how our engineering team works, so the gap has been noticed internally. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thank you,
+Naomi

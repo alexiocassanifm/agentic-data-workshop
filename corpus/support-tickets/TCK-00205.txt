@@ -1,0 +1,15 @@
+Ticket ID: TCK-00205
+Customer ID: CUST-0155
+Contact: Joseph Miller
+Priority: High
+Status: Closed
+Created: 2024-12-27
+
+Subject: Thinking about pausing our subscription
+
+Hi support team,
+
+Honestly, adoption on our side has dropped off and I'm not sure the subscription is worth it anymore. A competitor reached out with a pretty aggressive offer and it's making us look more closely at what we're paying here. We were told about features during the sales process that either aren't available on our plan or turned out to be more limited than we expected. Thanks for understanding, and open to hearing from you before the renewal date.
+
+Best,
+Joseph

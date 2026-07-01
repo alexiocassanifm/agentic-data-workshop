@@ -1,0 +1,15 @@
+Ticket ID: TCK-00229
+Customer ID: CUST-0119
+Contact: Ines Baker
+Priority: High
+Status: Open
+Created: 2025-08-10
+
+Subject: Can we get a corrected invoice?
+
+Hello,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. We were told a discount would apply starting this cycle, but the invoice still shows the standard rate. Happy to send over the contract for reference if that helps sort it out.
+
+Thanks a lot,
+Ines

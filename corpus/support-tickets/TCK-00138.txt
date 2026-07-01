@@ -1,0 +1,15 @@
+Ticket ID: TCK-00138
+Customer ID: CUST-0171
+Contact: Tomas Halvorsen
+Priority: High
+Status: Waiting on Customer
+Created: 2025-06-17
+
+Subject: Users locked out after SSO change
+
+Hi team,
+
+Half of our team can log in fine, the other half gets stuck in a redirect loop. The error message we get is something like 'invalid SAML response' right after the redirect back from our identity provider. We rotated our SSO certificate on our identity provider side last week, could that be related? Clearing cookies fixes it temporarily but it comes back within a day. We'd appreciate a fix soon since it's blocking daily work for several people.
+
+Best,
+Tomas

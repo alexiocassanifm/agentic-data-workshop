@@ -1,0 +1,15 @@
+Ticket ID: TCK-00121
+Customer ID: CUST-0040
+Contact: Freya Dubois
+Priority: Medium
+Status: Resolved
+Created: 2023-03-04
+
+Subject: Slack channel missing daily summaries
+
+Hi,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. We noticed about 33 duplicate contact records that seem to have been created during last Tuesday's sync. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thank you,
+Freya

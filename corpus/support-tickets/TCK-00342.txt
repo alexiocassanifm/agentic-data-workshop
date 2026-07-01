@@ -1,0 +1,15 @@
+Ticket ID: TCK-00342
+Customer ID: CUST-0040
+Contact: Freya Dubois
+Priority: High
+Status: Resolved
+Created: 2022-04-30
+
+Subject: Dashboard has been really slow this week
+
+Hi team,
+
+Our automation workflows seem to be running well behind schedule lately. It's not a hard failure, just consistently slower than what we're used to, which makes it hard to point to a specific error. A workflow that used to run within a few minutes is now taking closer to 4 minutes to complete. Thanks for checking into it.
+
+Regards,
+Freya

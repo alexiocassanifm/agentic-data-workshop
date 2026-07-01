@@ -1,0 +1,15 @@
+Ticket ID: TCK-00474
+Customer ID: CUST-0023
+Contact: Robert Mensah
+Priority: Low
+Status: Closed
+Created: 2025-10-28
+
+Subject: Integration shows connected but nothing is syncing
+
+Hey there,
+
+Our Salesforce sync hasn't pulled in new records since sometime last week. Our engineers checked the webhook endpoint and it's healthy, so it looks like the trigger on your side may not be firing. It's possible this started right around your last product update, though we can't say for certain. Let us know what logs would be useful for you to see.
+
+Thanks a lot,
+Robert

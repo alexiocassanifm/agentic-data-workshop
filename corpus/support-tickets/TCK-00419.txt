@@ -1,0 +1,15 @@
+Ticket ID: TCK-00419
+Customer ID: CUST-0169
+Contact: Isabella Carter
+Priority: Low
+Status: Closed
+Created: 2025-10-31
+
+Subject: Billing contact needs to be updated
+
+To the Larkspur Flow team,
+
+We upgraded plans mid-month and the proration on the invoice looks off. Could you double check whether our purchase order number is attached to this invoice? Our AP team needs it to process payment. Appreciate the help, billing questions are always a bit tedious, thanks for bearing with us.
+
+Best,
+Isabella

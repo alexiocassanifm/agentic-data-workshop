@@ -1,0 +1,15 @@
+Ticket ID: TCK-00031
+Customer ID: CUST-0170
+Contact: Tomas Young
+Priority: Low
+Status: In Progress
+Created: 2025-11-02
+
+Subject: Attachment upload fails on Android
+
+Hello,
+
+Push notifications used to work on the app and have quietly stopped. The desktop dashboard shows today's numbers, but the app still shows data from a couple of days ago. Would help to know if a fix is already in progress.
+
+Thanks a lot,
+Tomas

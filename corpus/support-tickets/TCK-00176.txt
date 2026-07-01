@@ -1,0 +1,15 @@
+Ticket ID: TCK-00176
+Customer ID: CUST-0169
+Contact: Thomas Moreau
+Priority: High
+Status: Open
+Created: 2025-10-19
+
+Subject: Export button just spins forever
+
+Hi folks,
+
+When I export our data to CSV, a chunk of records seem to be missing from the file. We rely on this export to feed our own reporting, so the missing rows are throwing off our numbers downstream. Happy to send the file we downloaded if it helps you reproduce it.
+
+Thanks a lot,
+Thomas

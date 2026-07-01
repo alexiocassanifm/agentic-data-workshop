@@ -1,0 +1,10 @@
+From: Devon Marsh <devon.marsh@larkspurflow.com>
+To: Sandra Johnson <sandra.johnson@ridgeline-renewables.com>
+Subject: Finishing your Larkspur Flow setup
+Date: 2023-03-07
+
+Quick note on setup: if you haven't connected your integrations yet (Salesforce and Slack are the most common), now's a good time. It tends to make the first few weeks much smoother once notifications and data sync are flowing automatically.
+
+Best,
+Devon
+Customer Success, Larkspur Flow

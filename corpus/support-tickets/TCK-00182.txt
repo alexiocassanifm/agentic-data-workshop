@@ -1,0 +1,15 @@
+Ticket ID: TCK-00182
+Customer ID: CUST-0076
+Contact: Andrew Carter
+Priority: Medium
+Status: Open
+Created: 2025-11-23
+
+Subject: Proration on our upgrade doesn't add up
+
+Hi support team,
+
+I was reviewing our latest invoice and the total doesn't match what we agreed on with our account rep. Our card was charged on the 3rd and then again a couple of days later for what looks like the same amount. Let me know if you need anything else from our side to fix this.
+
+Best,
+Andrew

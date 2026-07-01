@@ -1,0 +1,15 @@
+Ticket ID: TCK-00393
+Customer ID: CUST-0138
+Contact: Amara Green
+Priority: Urgent
+Status: Closed
+Created: 2024-09-30
+
+Subject: Question about data residency for EU customers
+
+Hi support team,
+
+We're being asked by one of our own customers to confirm a few things about how you handle data. Our legal team wants to see the data processing agreement, if there's an updated version available. We need to confirm password policy options and whether SSO can be made mandatory for all users on our account. Thank you for your help with this.
+
+Thank you,
+Amara

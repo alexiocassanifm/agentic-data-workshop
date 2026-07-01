@@ -1,0 +1,15 @@
+Ticket ID: TCK-00191
+Customer ID: CUST-0164
+Contact: Deborah Davis
+Priority: Medium
+Status: Waiting on Customer
+Created: 2025-09-03
+
+Subject: Pages taking 10+ seconds to load
+
+Hey there,
+
+The dashboard has been noticeably slower for the past few days. This is starting to affect how quickly our team can respond to things during the day. It seems worse between about 9 and 11am, which is when most of our team logs in. Happy to share timestamps of when we noticed the slowdown if useful.
+
+Best,
+Deborah

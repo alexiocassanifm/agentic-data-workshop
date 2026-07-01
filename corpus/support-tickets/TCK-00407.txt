@@ -1,0 +1,15 @@
+Ticket ID: TCK-00407
+Customer ID: CUST-0034
+Contact: Tomas Nelson
+Priority: Low
+Status: In Progress
+Created: 2023-11-14
+
+Subject: Integration shows connected but nothing is syncing
+
+Hi,
+
+Our team used to get a daily summary posted in Slack and it just stopped showing up. The sync log shows a 'success' status even on the days when nothing actually changed, which is confusing. We noticed about 3 duplicate contact records that seem to have been created during last Tuesday's sync. Could someone check the sync status on your end?
+
+Best,
+Tomas

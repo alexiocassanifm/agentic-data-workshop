@@ -1,0 +1,2640 @@
+{
+  "customer_id": "CUST-0133",
+  "plan_tier": "Enterprise",
+  "usage_period": {
+    "start_date": "2025-08-25",
+    "end_date": "2025-11-30"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-08-25",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 223,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 120,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 645,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 383,
+          "unique_users": 46
+        }
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 163,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 325,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 238,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 769,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 39,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 463,
+          "unique_users": 84
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 110,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 558,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 322,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 483,
+          "unique_users": 92
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 424,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 31,
+          "unique_users": 14
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 230,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 220,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 133,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 1160,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 369,
+          "unique_users": 57
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 214,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 165,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 278,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 76,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 608,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 418,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 81,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 231,
+          "unique_users": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 604,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 601,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 485,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 200,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 643,
+          "unique_users": 84
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 522,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 91,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 214,
+          "unique_users": 99
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 151,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 466,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 640,
+          "unique_users": 113
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 677,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 195,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 844,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 398,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 35,
+          "unique_users": 11
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 427,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 872,
+          "unique_users": 114
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 649,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 220,
+          "unique_users": 81
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 257,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 186,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 137,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 318,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 653,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 190,
+          "unique_users": 76
+        }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 166,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 274,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 825,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 104,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 26,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 365,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 400,
+          "unique_users": 80
+        }
+      ]
+    },
+    {
+      "date": "2025-09-09",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 156,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 126,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 613,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 318,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 400,
+          "unique_users": 125
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 373,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 314,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 353,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 619,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 435,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 796,
+          "unique_users": 93
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 380,
+          "unique_users": 96
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 795,
+          "unique_users": 103
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 424,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 623,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 437,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 235,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 49,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 145,
+          "unique_users": 42
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 116,
+          "unique_users": 34
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 725,
+          "unique_users": 93
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 823,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 578,
+          "unique_users": 127
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 613,
+          "unique_users": 80
+        }
+      ]
+    },
+    {
+      "date": "2025-09-13",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 147,
+          "unique_users": 51
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 88,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 134,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 390,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 228,
+          "unique_users": 42
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 355,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 28,
+          "unique_users": 8
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 156,
+          "unique_users": 26
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 49,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 46,
+          "unique_users": 26
+        }
+      ]
+    },
+    {
+      "date": "2025-09-14",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 227,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 152,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 124,
+          "unique_users": 36
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 113,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 215,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 738,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 43,
+          "unique_users": 12
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 246,
+          "unique_users": 131
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 490,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 84,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 582,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 401,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 99,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 128,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 175,
+          "unique_users": 49
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 326,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 124,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 886,
+          "unique_users": 111
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 285,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 79,
+          "unique_users": 36
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 776,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 224,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 684,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 215,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 351,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 301,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 912,
+          "unique_users": 128
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 744,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 576,
+          "unique_users": 122
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 288,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 901,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 260,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 750,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 877,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 457,
+          "unique_users": 90
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 555,
+          "unique_users": 94
+        }
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 87,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 772,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 512,
+          "unique_users": 89
+        }
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 134,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 895,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 708,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 197,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 382,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 57,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 404,
+          "unique_users": 125
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 94,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 315,
+          "unique_users": 68
+        }
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 939,
+          "unique_users": 119
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 385,
+          "unique_users": 98
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 421,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 27,
+          "unique_users": 17
+        }
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 375,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 359,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 522,
+          "unique_users": 102
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 794,
+          "unique_users": 98
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 199,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 242,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 615,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 167,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 749,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 124,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 100,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 466,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 221,
+          "unique_users": 119
+        }
+      ]
+    },
+    {
+      "date": "2025-09-27",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 55,
+          "unique_users": 10
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 74,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 206,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 369,
+          "unique_users": 44
+        }
+      ]
+    },
+    {
+      "date": "2025-09-28",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 236,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 139,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 345,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 86,
+          "unique_users": 49
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 190,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 338,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 574,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 586,
+          "unique_users": 123
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 153,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 440,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1132,
+          "unique_users": 127
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 163,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 831,
+          "unique_users": 100
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 101,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 125,
+          "unique_users": 35
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 213,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 397,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 554,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 136,
+          "unique_users": 68
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 445,
+          "unique_users": 105
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 374,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 437,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 256,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 394,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 197,
+          "unique_users": 99
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 907,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 205,
+          "unique_users": 76
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 81,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 921,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 343,
+          "unique_users": 126
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 206,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 401,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 261,
+          "unique_users": 30
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 282,
+          "unique_users": 117
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 416,
+          "unique_users": 93
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 530,
+          "unique_users": 88
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 77,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 219,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 561,
+          "unique_users": 120
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 205,
+          "unique_users": 53
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 166,
+          "unique_users": 48
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 645,
+          "unique_users": 98
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 536,
+          "unique_users": 67
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 202,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 145,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 216,
+          "unique_users": 34
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 380,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 359,
+          "unique_users": 71
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 422,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 553,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 82,
+          "unique_users": 24
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 267,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 355,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 54,
+          "unique_users": 31
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 467,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 495,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 87,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 160,
+          "unique_users": 78
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 551,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 611,
+          "unique_users": 74
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 88,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 710,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 503,
+          "unique_users": 60
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1011,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 312,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 189,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 94,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 593,
+          "unique_users": 122
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 94,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 622,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 193,
+          "unique_users": 43
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 648,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 592,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 529,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 913,
+          "unique_users": 130
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 263,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 266,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 444,
+          "unique_users": 113
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 352,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1094,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 124,
+          "unique_users": 22
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 218,
+          "unique_users": 101
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 148,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 284,
+          "unique_users": 77
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 124,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 892,
+          "unique_users": 128
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 488,
+          "unique_users": 112
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 375,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 404,
+          "unique_users": 85
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 63,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 357,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 383,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 358,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 185,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 129,
+          "unique_users": 28
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 277,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 27,
+          "unique_users": 12
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 678,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 341,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 58,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 165,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 680,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 295,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 795,
+          "unique_users": 113
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 287,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 360,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 277,
+          "unique_users": 59
+        }
+      ]
+    },
+    {
+      "date": "2025-10-25",
+      "features": [
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 129,
+          "unique_users": 18
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 197,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 185,
+          "unique_users": 32
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 118,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 55,
+          "unique_users": 11
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 85,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 976,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 568,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 220,
+          "unique_users": 28
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 505,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 661,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 844,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 85,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 95,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 127,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 520,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 180,
+          "unique_users": 27
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 20,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 128,
+          "unique_users": 39
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 331,
+          "unique_users": 104
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 91,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 49,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 216,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 227,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 195,
+          "unique_users": 31
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 650,
+          "unique_users": 115
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 95,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 511,
+          "unique_users": 129
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 92,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 474,
+          "unique_users": 66
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 93,
+          "unique_users": 50
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 404,
+          "unique_users": 54
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 295,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 50,
+          "unique_users": 15
+        }
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 421,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 312,
+          "unique_users": 47
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 324,
+          "unique_users": 40
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 48,
+          "unique_users": 13
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 300,
+          "unique_users": 124
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 454,
+          "unique_users": 55
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 120,
+          "unique_users": 73
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 235,
+          "unique_users": 66
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 219,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 202,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 105,
+          "unique_users": 52
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 194,
+          "unique_users": 107
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 621,
+          "unique_users": 79
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 146,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 354,
+          "unique_users": 121
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "features": [
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 845,
+          "unique_users": 95
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 99,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 747,
+          "unique_users": 86
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 155,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 179,
+          "unique_users": 60
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "features": [
+        {
+          "feature_name": "Data Export",
+          "event_count": 417,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 471,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 378,
+          "unique_users": 82
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 955,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 126,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 175,
+          "unique_users": 27
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 412,
+          "unique_users": 78
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 111,
+          "unique_users": 30
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 456,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 286,
+          "unique_users": 87
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 303,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 225,
+          "unique_users": 45
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 282,
+          "unique_users": 52
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 349,
+          "unique_users": 106
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 55,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 997,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 85,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 908,
+          "unique_users": 118
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 483,
+          "unique_users": 97
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 197,
+          "unique_users": 59
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 127,
+          "unique_users": 17
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 426,
+          "unique_users": 70
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 479,
+          "unique_users": 116
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 167,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 689,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 626,
+          "unique_users": 73
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 683,
+          "unique_users": 80
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 560,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 200,
+          "unique_users": 112
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 119,
+          "unique_users": 63
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 444,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 675,
+          "unique_users": 92
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 40,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 308,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 185,
+          "unique_users": 62
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 688,
+          "unique_users": 129
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 305,
+          "unique_users": 38
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 733,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 1040,
+          "unique_users": 127
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 356,
+          "unique_users": 108
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 357,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 242,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 72,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 277,
+          "unique_users": 100
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 206,
+          "unique_users": 103
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 55,
+          "unique_users": 29
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 300,
+          "unique_users": 43
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 754,
+          "unique_users": 93
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 193,
+          "unique_users": 77
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 645,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 114,
+          "unique_users": 46
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 314,
+          "unique_users": 44
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 72,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 261,
+          "unique_users": 84
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 36,
+          "unique_users": 9
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 50,
+          "unique_users": 9
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 38,
+          "unique_users": 21
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 167,
+          "unique_users": 24
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 103,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 242,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 285,
+          "unique_users": 48
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 64,
+          "unique_users": 11
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 206,
+          "unique_users": 28
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 520,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 756,
+          "unique_users": 96
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 373,
+          "unique_users": 49
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 340,
+          "unique_users": 121
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 266,
+          "unique_users": 112
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 155,
+          "unique_users": 64
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 84,
+          "unique_users": 13
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 220,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 300,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 367,
+          "unique_users": 111
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 564,
+          "unique_users": 126
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 291,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 185,
+          "unique_users": 24
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 208,
+          "unique_users": 65
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 362,
+          "unique_users": 74
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "features": [
+        {
+          "feature_name": "Audit Log",
+          "event_count": 491,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 389,
+          "unique_users": 54
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "features": [
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 500,
+          "unique_users": 82
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 362,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 37,
+          "unique_users": 23
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 132,
+          "unique_users": 58
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 175,
+          "unique_users": 29
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "features": [
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 757,
+          "unique_users": 94
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 116,
+          "unique_users": 37
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 317,
+          "unique_users": 39
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 230,
+          "unique_users": 39
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 104,
+          "unique_users": 15
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 973,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 304,
+          "unique_users": 109
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 568,
+          "unique_users": 130
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "features": [
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 94,
+          "unique_users": 19
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 216,
+          "unique_users": 69
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 123,
+          "unique_users": 20
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 146,
+          "unique_users": 59
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 594,
+          "unique_users": 120
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 931,
+          "unique_users": 123
+        },
+        {
+          "feature_name": "Data Export",
+          "event_count": 124,
+          "unique_users": 25
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 756,
+          "unique_users": 105
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 464,
+          "unique_users": 53
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "features": [
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 491,
+          "unique_users": 56
+        },
+        {
+          "feature_name": "Custom Reports",
+          "event_count": 293,
+          "unique_users": 75
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 33,
+          "unique_users": 14
+        },
+        {
+          "feature_name": "SSO Login",
+          "event_count": 593,
+          "unique_users": 110
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 470,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 43,
+          "unique_users": 22
+        },
+        {
+          "feature_name": "Audit Log",
+          "event_count": 234,
+          "unique_users": 41
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 133,
+          "unique_users": 32
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "features": [
+        {
+          "feature_name": "Team Permissions",
+          "event_count": 336,
+          "unique_users": 115
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 129,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 1153,
+          "unique_users": 131
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 457,
+          "unique_users": 61
+        },
+        {
+          "feature_name": "Dashboard Views",
+          "event_count": 457,
+          "unique_users": 67
+        }
+      ]
+    },
+    {
+      "date": "2025-11-30",
+      "features": [
+        {
+          "feature_name": "SSO Login",
+          "event_count": 68,
+          "unique_users": 16
+        },
+        {
+          "feature_name": "Bulk Import",
+          "event_count": 12,
+          "unique_users": 7
+        },
+        {
+          "feature_name": "Ticket Routing",
+          "event_count": 220,
+          "unique_users": 35
+        },
+        {
+          "feature_name": "Slack Notifications",
+          "event_count": 224,
+          "unique_users": 33
+        },
+        {
+          "feature_name": "Webhook Triggers",
+          "event_count": 136,
+          "unique_users": 36
+        }
+      ]
+    }
+  ]
+}

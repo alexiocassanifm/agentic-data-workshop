@@ -1,0 +1,15 @@
+Ticket ID: TCK-00097
+Customer ID: CUST-0088
+Contact: Greta Wilson
+Priority: High
+Status: In Progress
+Created: 2024-07-23
+
+Subject: Dashboard has been really slow this week
+
+Hi team,
+
+Not sure if this is just us, but performance has taken a real hit recently. This is starting to affect how quickly our team can respond to things during the day. Support tickets and dashboard views both feel affected, not just one part of the product. Thanks for checking into it.
+
+Best,
+Greta

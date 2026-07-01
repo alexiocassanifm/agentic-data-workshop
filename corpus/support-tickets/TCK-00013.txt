@@ -1,0 +1,15 @@
+Ticket ID: TCK-00013
+Customer ID: CUST-0162
+Contact: Ingrid Torres
+Priority: Medium
+Status: Open
+Created: 2025-02-24
+
+Subject: Security questionnaire from our procurement team
+
+Hi support team,
+
+Our procurement team sent over a security questionnaire that we need help answering. We're trying to close this out before renewal, so any documentation you can point us to would save time. We're on a bit of a deadline with our own audit, so a quick turnaround would help.
+
+Thank you,
+Ingrid

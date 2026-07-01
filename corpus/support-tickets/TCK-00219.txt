@@ -1,0 +1,15 @@
+Ticket ID: TCK-00219
+Customer ID: CUST-0109
+Contact: Victor Torres
+Priority: Medium
+Status: Resolved
+Created: 2024-08-05
+
+Subject: Permission changes aren't taking effect
+
+Hi,
+
+Could someone explain how the role-based permissions actually work? The documentation is a bit thin. We have roughly 44 different teams that should each only see their own accounts, and right now everyone can see everything. The user in question still shows up with admin-level access in the exports even after we changed their role in the settings screen. Happy to hop on a call if it's easier to explain live.
+
+Thanks,
+Victor

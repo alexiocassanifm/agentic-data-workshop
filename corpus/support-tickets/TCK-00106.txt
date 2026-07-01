@@ -1,0 +1,15 @@
+Ticket ID: TCK-00106
+Customer ID: CUST-0030
+Contact: Deborah Berg
+Priority: High
+Status: Resolved
+Created: 2022-11-24
+
+Subject: Integration shows connected but nothing is syncing
+
+Hi folks,
+
+The integration status page says everything is fine, but data clearly isn't flowing through. It's possible this started right around your last product update, though we can't say for certain. The Slack app is still installed and authorized in our workspace, so it's not an obvious permissions issue. We double-checked the Salesforce connection and the API user still has the right permissions on their side. This is a fairly important workflow for us, so we'd appreciate prioritizing it.
+
+Thanks a lot,
+Deborah

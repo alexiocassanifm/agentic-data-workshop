@@ -1,0 +1,15 @@
+Ticket ID: TCK-00302
+Customer ID: CUST-0170
+Contact: Tomas Smith
+Priority: Medium
+Status: Resolved
+Created: 2025-10-05
+
+Subject: Can we get scheduled report emails?
+
+Hi folks,
+
+The reporting is good as far as it goes, but it's missing a breakdown we need for our board meetings. We can see the raw numbers on the dashboard but there's no way to export a nicely formatted PDF version for stakeholders who don't log in. Right now we're exporting to CSV and rebuilding the chart in a spreadsheet, which is more manual work than it should be. Happy to jump on a call to explain exactly what we're trying to build.
+
+Thanks,
+Tomas

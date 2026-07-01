@@ -1,0 +1,15 @@
+Ticket ID: TCK-00290
+Customer ID: CUST-0108
+Contact: Donna King
+Priority: High
+Status: In Progress
+Created: 2022-10-25
+
+Subject: Proration on our upgrade doesn't add up
+
+Hi support team,
+
+Our finance team flagged an odd charge on the statement from this week. The sales tax line is calculated at a rate that doesn't match our state, which makes me think the billing address on file might be outdated. There's a line item labeled 'overage' that we don't recognize, we haven't gone over our usage limits as far as we can tell. Happy to send over the contract for reference if that helps sort it out.
+
+Thanks a lot,
+Donna
