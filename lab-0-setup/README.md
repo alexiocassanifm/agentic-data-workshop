@@ -49,12 +49,21 @@ Lab 1 onward, skim `../corpus/README.md` - Lab 0 itself doesn't touch it.
 Work through one provider completely - account created, MCP server
 connected, connection verified - before moving to the next, rather than
 creating all four accounts up front. Steps marked "in your browser" are
-manual; the rest are things to ask your agent to do.
+manual; the rest are things to ask your agent to do - each of those steps
+includes a ready-to-paste prompt in a quote block. Fill in the bracketed
+blanks with your own values before sending it; the exact server/package
+names are already correct, you don't need to know them yourself.
 
 1. **Check your machine is ready.** Ask your agent to check that Node.js
    22.12 or later and `uv`/`uvx` are both available. If either is missing,
    ask your agent to walk you through installing it for your operating
    system before you continue.
+
+   > **Prompt to give your agent:**
+   > "Check whether Node.js 22.12 or later, and uv/uvx, are installed on
+   > this machine. If either is missing, walk me through installing it
+   > for my operating system, then confirm both are ready before we
+   > continue."
 
 2. **Supabase - create your account and project (in your browser).** Go to
    supabase.com, sign up, and create a new project: pick an organization, a
@@ -69,6 +78,14 @@ manual; the rest are things to ask your agent to do.
    Supabase dashboard). This is one of the two places where scope matters -
    read the decision point below before you tell your agent to go ahead.
 
+   > **Prompt to give your agent** (read the decision point below first,
+   > then fill in the two blanks):
+   > "Add an MCP server named `supabase`, in [PROJECT / LOCAL] scope,
+   > using the hosted endpoint
+   > `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`.
+   > Don't add any API key or access token - this server logs in through
+   > a browser the first time we use it."
+
 4. **Supabase - approve access.** Reload or restart your agent so the new
    server definition takes effect. It should open a browser window for
    you: log in to Supabase there and approve access to the organization
@@ -82,6 +99,10 @@ manual; the rest are things to ask your agent to do.
    this MCP server, but it's worth locating anyway (Project Settings >
    Database > Connection string), since Lab 3's pgvector work talks to
    Postgres directly and will want it then.
+
+   > **Prompt to give your agent:**
+   > "List every table in my Supabase project through the MCP connection,
+   > and tell me whether the project is empty."
 
 6. **MongoDB Atlas - create your account and cluster (in your browser).**
    Go to mongodb.com/cloud/atlas, sign up, and create a free (M0) cluster.
@@ -107,9 +128,23 @@ manual; the rest are things to ask your agent to do.
     must never be passed as a plain command-line argument, only as this
     setting's value - otherwise it can end up saved in your shell history.
 
+    > **Prompt to give your agent** (fill in the blank first):
+    > "Add an MCP server named `MongoDB`, in [PROJECT / LOCAL] scope,
+    > running the command `npx` with arguments `-y
+    > mongodb-mcp-server@latest`. Set an environment variable called
+    > `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS
+    > CONNECTION STRING>`. Make sure that value is only ever stored as
+    > this environment variable - never pass it as a command-line
+    > argument, and never write it into any file that's part of this
+    > repository."
+
 11. **MongoDB - verify.** Reload your agent, then ask it to list your
     databases and collections. Right after cluster creation this should
     show no collections of your own - only MongoDB's own system databases.
+
+    > **Prompt to give your agent:**
+    > "List the databases and collections you can currently see in
+    > MongoDB."
 
 12. **Qdrant Cloud - create your account and cluster (in your browser).**
     Go to cloud.qdrant.io, sign up, and create a free cluster.
@@ -122,11 +157,22 @@ manual; the rest are things to ask your agent to do.
     MCP server with your cluster's URL and API key. Don't worry about
     naming a collection yet - Lab 3 is where the real one gets created.
 
+    > **Prompt to give your agent** (fill in the two blanks first):
+    > "Add an MCP server named `qdrant`, in [PROJECT / LOCAL] scope,
+    > running the command `uvx` with the argument `mcp-server-qdrant`.
+    > Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD
+    > CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API
+    > KEY>`. Don't set a collection name - we'll create the real one in
+    > Lab 3."
+
 15. **Qdrant - verify.** Reload your agent and ask it to confirm the
     Qdrant MCP server connected. This server only exposes a store tool and
     a find tool - there's no "list collections" tool - so the strongest
     confirmation that it's empty and ready is the Qdrant Cloud dashboard
     itself (see Verification below).
+
+    > **Prompt to give your agent:**
+    > "Confirm the qdrant MCP server is connected and ready to use."
 
 16. **Voyage AI - create your account and API key (in your browser).** Go
     to voyageai.com, sign up, and from the dashboard generate a new API
@@ -144,6 +190,13 @@ manual; the rest are things to ask your agent to do.
     or opencode, ask it directly to check each of the three connections.
     Confirm it reports Supabase, MongoDB, and Qdrant all connected and
     empty.
+
+    > **Prompt to give your agent** (Claude Code):
+    > "Run the mcp-health-check skill."
+    >
+    > **Prompt to give your agent** (Codex CLI / opencode):
+    > "Check my Supabase, MongoDB, and Qdrant connections and tell me,
+    > for each one, whether it's connected and what it currently sees."
 
 ## Explicit decision point
 
