@@ -42,6 +42,13 @@ against the database.
    one, ask it to propose which table(s) and aggregation answer it, and what
    chart type (single number, bar, line, table) best represents it. Review
    this proposal before anything gets built; it is a plan, not a preview.
+
+   > **Prompt to give your agent:**
+   > "Here are the business questions I want this dashboard to answer:
+   > <YOUR LIST OF 3-5 QUESTIONS>. For each one, propose which table(s)
+   > and aggregation would answer it, and what chart type — single
+   > number, bar, line, or table — best represents it. Don't build
+   > anything yet; just show me the plan."
 3. Choose which output you are building, based on the time you have left:
    - A small web app that queries Supabase live, each time the page loads.
    - A single self-contained HTML file that the agent queries Supabase to
@@ -50,22 +57,52 @@ against the database.
      afterward.
    Tell your agent which one you want; do not let it default to whichever
    is easiest for it to produce.
+
+   > **Prompt to give your agent** (pick one):
+   > "I want a small web app that queries Supabase live each time the
+   > page loads. Let's build that."
+   > — or —
+   > "I want a single self-contained HTML file: run the queries once and
+   > embed the results and a small charting library directly in the
+   > file. Let's build that."
 4. For the web app variant: ask your agent to scaffold a minimal app, wire
    it to Supabase using your project's connection details — your Supabase
    project URL and access token — describing these to your agent by name
    rather than pasting them into a file it will show you, and run the app
    locally so you can view it in a browser.
+
+   > **Prompt to give your agent** (web app variant):
+   > "Scaffold a minimal web app and wire it to my Supabase project using
+   > my project URL and access token — read those from an environment
+   > variable or local config you set up, don't put them in a file you
+   > show me. Then run it locally so I can view it in a browser."
+
    For the HTML artifact variant: ask your agent to run the queries for each
    metric now and generate one HTML file containing the results and the
    charts, then open that file in a browser.
+
+   > **Prompt to give your agent** (HTML artifact variant):
+   > "Run the queries for each metric now, and generate one
+   > self-contained HTML file with the results and the charts embedded
+   > directly in it. Then open that file so I can view it."
 5. Ask your agent to label every chart and number with the business
    question it answers, in plain language (for example "Active
    subscriptions" or "MRR by plan tier"), not with raw column or table
    names.
+
+   > **Prompt to give your agent:**
+   > "Label every chart and number with the business question it
+   > answers, in plain language — for example 'Active subscriptions' or
+   > 'MRR by plan tier' — not with raw column or table names."
 6. Review the first version together. Pick one or two concrete things to
    change — a grouping, a sort order, a missing filter, a second axis — and
    ask the agent to make that specific change. Repeat once or twice; resist
    the urge to keep adding new metrics at this stage.
+
+   > **Prompt to give your agent:**
+   > "Make this one specific change: <THE ONE CHANGE YOU AND YOUR AGENT
+   > JUST AGREED ON — e.g. a grouping, sort order, missing filter, or
+   > second axis>. Don't add any other metrics yet."
 7. Once you are satisfied with the layout, move to Verification below
    before calling the lab done.
 

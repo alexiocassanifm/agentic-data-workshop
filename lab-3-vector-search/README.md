@@ -89,11 +89,23 @@ Approximately 90 minutes:
    connection points at your Qdrant Cloud cluster and has write access,
    and a Voyage AI API key is actually available to it.
 
+   > **Prompt to give your agent:**
+   > "Run the mcp-health-check skill to confirm Supabase and Qdrant are
+   > both connected — Supabase should point at my Lab 1 project, and
+   > Qdrant needs write access, not read-only. Separately, confirm you
+   > have my Voyage AI API key available for this lab."
+
 2. **Pick what to embed, and start small.** Ask your agent to list the
    support tickets, sales notes, and emails folders with their counts
    (774 files combined), then propose a small pilot batch — for example
    15–20 tickets, 10 notes, and 8 emails — to prove the whole pipeline
    end to end before committing to embedding all 774.
+
+   > **Prompt to give your agent:**
+   > "List the files in corpus/support-tickets/, corpus/sales-notes/, and
+   > corpus/emails/ with their counts, then propose a small pilot batch —
+   > around 15-20 tickets, 10 notes, and 8 emails — so we can test the
+   > whole pipeline before embedding all 774 documents."
 
 3. **Settle chunking and metadata.** Ask your agent to confirm that each
    file is short enough to embed whole, as a single chunk, without
@@ -103,11 +115,24 @@ Approximately 90 minutes:
    (priority and status for tickets, account executive for notes, subject
    line for emails).
 
+   > **Prompt to give your agent:**
+   > "Check whether each file in the pilot batch is short enough to embed
+   > as a single chunk without splitting it, and flag anything unusually
+   > long. Then propose the metadata fields to store alongside every
+   > vector: source type, source ID, customer_id, and one or two extra
+   > fields per type — priority and status for tickets, account executive
+   > for notes, subject line for emails."
+
 4. **Pick and record the embedding model.** Ask your agent to check
    Voyage's current documentation for the recommended general-purpose
    text embedding model, and to report back the exact model name and the
    vector dimensionality it produces. Write that number down — you'll
    need it to set up both destinations correctly.
+
+   > **Prompt to give your agent:**
+   > "Check Voyage AI's current documentation for the recommended
+   > general-purpose text embedding model, and tell me the exact model
+   > name and the vector dimensionality it produces."
 
 5. **Generate embeddings for the pilot batch.** Ask your agent to call
    the Voyage embeddings API directly on the pilot documents — not
@@ -115,6 +140,14 @@ Approximately 90 minutes:
    into each API call rather than sending one call per document. Ask it
    to confirm the number of documents embedded and the resulting vector
    dimensionality match what you expect.
+
+   > **Prompt to give your agent:**
+   > "Write and run a short script that calls the Voyage embeddings API
+   > directly on the pilot batch documents — not through any database's
+   > built-in embedder — batching many documents into each API call
+   > rather than one call per document. Confirm how many documents got
+   > embedded and that the vector dimensionality matches what we
+   > expect."
 
 6. **Stop here and work through Part A of the decision point below**
    before your agent writes a single vector into Qdrant.
@@ -124,6 +157,12 @@ Approximately 90 minutes:
    vectors and metadata into it, using the ingestion path you chose in
    Part A.
 
+   > **Prompt to give your agent** (say which option from Part A you
+   > picked first):
+   > "Using [Option 1 / Option 2 — the one I picked in Part A], create a
+   > Qdrant collection sized for our embedding dimensionality with cosine
+   > distance, and load the pilot vectors and metadata into it."
+
 8. **Ask your agent to enable pgvector** on the Lab 1 Supabase project
    (if it isn't already), create a new table for these embeddings sized
    to the same dimensionality, load the pilot vectors and metadata into
@@ -132,9 +171,22 @@ Approximately 90 minutes:
    trains on existing data (IVFFlat), confirm it's building that index
    after the rows are loaded, not on an empty table.
 
+   > **Prompt to give your agent:**
+   > "Enable the pgvector extension on my Lab 1 Supabase project if it
+   > isn't already, create a new table for these embeddings sized to the
+   > same dimensionality, load the pilot vectors and metadata into it, and
+   > add an appropriate index. Tell me briefly why you picked that index
+   > type, and if it's one that trains on existing data, confirm you're
+   > building it after the rows are loaded, not on an empty table."
+
 9. **Once both pilot loads check out, scale up to the full 774
    documents**, batching the Voyage calls again to stay within its rate
    limits.
+
+   > **Prompt to give your agent:**
+   > "Now that both pilot loads check out, scale up to the full 774
+   > documents, batching the Voyage calls to stay within its rate
+   > limit."
 
 10. **Ask your agent to verify what actually landed**, on both sides,
     against the source files. In Claude Code this is what the
@@ -142,6 +194,16 @@ Approximately 90 minutes:
     same comparison — counts against the source folders, a field-by-field
     spot check on a handful of records, and a clear pass or fail with
     concrete numbers.
+
+    > **Prompt to give your agent** (Claude Code):
+    > "Run the pipeline-verify skill to check what actually landed in
+    > Qdrant and pgvector against the source files."
+    >
+    > **Prompt to give your agent** (Codex CLI / opencode):
+    > "Compare the number of documents I embedded against the point count
+    > in Qdrant and the row count in the pgvector table, spot-check a
+    > handful of records field by field against the original files, and
+    > report pass or fail with concrete numbers."
 
 11. **Run the comparison queries.** Ask your agent to run the same
     semantic query against both backends — something like "customers
@@ -153,11 +215,26 @@ Approximately 90 minutes:
     each backend surfaces more than one document type, not just the most
     literal match.
 
+    > **Prompt to give your agent:**
+    > "Run the query 'customers frustrated about single sign-on breaking
+    > their login' against both Qdrant and pgvector, and show me the top
+    > results from each side by side with a short snippet and similarity
+    > score. Then run a second query that could reasonably match both a
+    > support ticket and a sales note, and check whether each backend
+    > surfaces more than one document type, not just the most literal
+    > match."
+
 12. **Ask your agent to summarize what it noticed** operating each
     backend during this lab — which one required more explicit decisions
     from you, which one hid more machinery, how latency and result
     quality compared. This is the raw material for Part B of the
     decision point below.
+
+    > **Prompt to give your agent:**
+    > "Summarize what you noticed operating each backend in this lab —
+    > which one needed more explicit decisions from me, which one hid
+    > more of the mechanism, and how latency and result quality
+    > compared."
 
 ## Explicit decision point
 

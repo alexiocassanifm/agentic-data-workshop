@@ -65,6 +65,15 @@ verify results at the end.
    look messy or inconsistent, and how the files relate to each other
    through `customer_id`.
 
+   > **Prompt to give your agent:**
+   > "Read corpus/README.md, then look at
+   > corpus/customers-export/customers.csv,
+   > corpus/customers-export/contacts.csv,
+   > corpus/customers-export/subscriptions.csv, and a sample of a few
+   > files from corpus/contracts/. Summarize back to me: what fields
+   > exist in each file, which fields look messy or inconsistent, and how
+   > the files relate to each other through customer_id."
+
 2. **Ask for a relational schema proposal.** Ask your agent to propose a
    relational schema for this data: entities, fields, data types, primary
    keys, foreign keys, and which fields should be nullable versus
@@ -75,6 +84,14 @@ verify results at the end.
    proposal names at least one alternative structure it considered and
    rejected, and lists open questions it wants you to answer before it
    builds anything.
+
+   > **Prompt to give your agent:**
+   > "Propose a relational schema for the customer, contact, subscription,
+   > and contract data in the corpus - entities, fields, data types,
+   > primary keys, foreign keys, and which fields should be nullable
+   > versus required. Include at least one alternative structure you
+   > considered and rejected, and list the open questions you want me to
+   > answer before you build anything."
 
 3. **Ask the agent to argue for the paradigm, not just the schema.**
    Before touching constraints, ask it to state explicitly why a
@@ -89,6 +106,13 @@ verify results at the end.
    that reasoning: it's what you'll cite later when comparing this
    backend against MongoDB in the closing artifact.
 
+   > **Prompt to give your agent:**
+   > "Before we touch constraints, argue explicitly for why a relational
+   > model fits this slice of the corpus - the identity of each entity,
+   > the fixed relationships between them, and where referential
+   > integrity actually matters here. I want to decide whether I agree
+   > before we go further."
+
 4. **Stop here and work through the decision point below before letting
    the agent proceed.** Do not tell it to create anything until you've
    made the calls in the next section yourself.
@@ -96,6 +120,11 @@ verify results at the end.
 5. **Ask your agent to create the tables in Supabase**, matching the
    schema you've now signed off on, including every constraint (foreign
    keys, `NOT NULL`, uniqueness) you decided on in the previous step.
+
+   > **Prompt to give your agent:**
+   > "Create the tables in Supabase matching the schema I signed off on,
+   > including every constraint we decided on: the foreign keys, NOT
+   > NULL columns, and uniqueness rules."
 
 6. **Ask your agent to build the population pipeline**: reading
    `customers.csv`, `contacts.csv`, and `subscriptions.csv`, extracting
@@ -106,8 +135,21 @@ verify results at the end.
    inconsistent country values) — this should match the decisions you
    made below, not a fresh set of choices it invents on the spot.
 
+   > **Prompt to give your agent:**
+   > "Build the pipeline that reads customers.csv, contacts.csv, and
+   > subscriptions.csv, extracts the relevant fields from each contract
+   > PDF in corpus/contracts/, and inserts all of it into the tables you
+   > just created. Before running it at scale, tell me exactly how you
+   > plan to handle the messy fields in customers.csv - the mixed date
+   > formats, the blanks, and the inconsistent country values - so I can
+   > confirm it matches what we decided."
+
 7. **Ask your agent to run the pipeline** and report row counts per table
    as it completes.
+
+   > **Prompt to give your agent:**
+   > "Run the population pipeline and report the row count for each
+   > table as it completes."
 
 8. **Ask your agent to verify what actually landed** against the source
    corpus. In Claude Code this is what the `pipeline-verify` skill is
@@ -115,6 +157,12 @@ verify results at the end.
    against the source files, a field-by-field spot check on a handful of
    records, a clear pass/fail with concrete numbers rather than a vague
    "looks good").
+
+   > **Prompt to give your agent:**
+   > "Compare what actually landed in the Supabase tables against the
+   > source corpus: row counts against the source CSV and PDF counts, a
+   > field-by-field spot check on a handful of records, and a clear pass
+   > or fail with concrete numbers rather than a vague 'looks good'."
 
 ## Explicit decision point
 

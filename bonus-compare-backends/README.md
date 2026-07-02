@@ -56,6 +56,11 @@ different axes — here, data modeling; there, where to put the vectors.
    (with document counts). Confirm this matches what you expect from Lab
    1 and Lab 2 before doing anything else.
 
+   > **Prompt to give your agent:**
+   > "Check that my Supabase and MongoDB connections are still live. Run
+   > the mcp-health-check skill, then list every Supabase table with its
+   > row count and every MongoDB collection with its document count."
+
 2. Before discussing how Lab 1 or Lab 2 actually went, ask your agent to
    help you **brainstorm — not score — a longlist of dimensions** that
    matter for Larkspur Flow's real use case: things like looking up a
@@ -67,6 +72,17 @@ different axes — here, data modeling; there, where to put the vectors.
    an open SSO-related ticket") costs to write in each backend; and how
    much friction the agent itself hit while building each pipeline.
    Treat this as a menu to choose from, not a verdict on either backend.
+
+   > **Prompt to give your agent:**
+   > "Help me brainstorm a longlist of dimensions for comparing Supabase
+   > and MongoDB on Larkspur Flow's use case - things like looking up a
+   > customer's full history across support, sales, and billing; keeping
+   > billing and contracts consistent; handling the messy signup dates
+   > and inconsistent countries in customers.csv; modeling the nested,
+   > per-day, per-feature usage-logs; how expensive a common business
+   > question is to query in each backend; and how much friction you
+   > personally hit while building each pipeline. Just brainstorm - don't
+   > score or rank anything yet."
 
 3. **Stop here and complete the decision point below before continuing.**
    You must pick your final criteria, assign weights, and write them down
@@ -80,11 +96,26 @@ different axes — here, data modeling; there, where to put the vectors.
    write, one that was awkward or required a workaround, and any
    friction or `pipeline-verify` results you saw at the time.
 
+   > **Prompt to give your agent:**
+   > "Put together a Lab 1 evidence brief for Supabase: the schema as it
+   > actually exists right now (tables, keys, relationships), the
+   > rejected alternative and reasoning the schema-proposal skill
+   > recorded during Lab 1, one or two queries that were genuinely
+   > natural to write, one that was awkward, and any pipeline-verify
+   > results from that lab."
+
 5. Ask your agent to put together the matching **Lab 2 evidence brief**
    for MongoDB: the collections and document shapes as they exist right
    now, the embed-vs-reference calls that were actually made (and why),
    including the rejected alternative from Lab 2's `schema-proposal`
    output, natural vs. awkward queries, and `pipeline-verify` results.
+
+   > **Prompt to give your agent:**
+   > "Put together the matching Lab 2 evidence brief for MongoDB: the
+   > collections and document shapes as they exist right now, the
+   > embed-vs-reference calls that were actually made and why (including
+   > the rejected alternative from Lab 2's schema-proposal output),
+   > natural vs. awkward queries, and pipeline-verify results."
 
 6. Ask your agent to invoke the `backend-compare` skill, passing it your
    written criteria and weights plus both evidence briefs, and have it
@@ -94,9 +125,20 @@ different axes — here, data modeling; there, where to put the vectors.
    (On Codex CLI or opencode, follow the equivalent steps in "Multi-tool
    notes" below.)
 
+   > **Prompt to give your agent:**
+   > "Using the criteria and weights note we saved earlier, invoke the
+   > backend-compare skill together with both evidence briefs. Build one
+   > self-contained HTML artifact that scores each backend against each
+   > criterion, cites the specific Lab 1 or Lab 2 observation behind
+   > every score, and ends with an explicit recommendation."
+
 7. Ask your agent to save the artifact — for example as
    `comparison.html` — inside this lab's folder, and to open it so you
    can read it end to end.
+
+   > **Prompt to give your agent:**
+   > "Save the comparison artifact as comparison.html inside this lab's
+   > folder, and open it so I can read it."
 
 8. Review it critically before calling it done. For every scored
    criterion, check that the citation points to something specific from
@@ -105,6 +147,11 @@ different axes — here, data modeling; there, where to put the vectors.
    come from a blog post. Send anything vague back to the agent and ask
    it to replace the citation with a specific observation, or to admit it
    doesn't have one.
+
+   > **Prompt to give your agent** (if a citation looks vague):
+   > "The citation for <criterion> isn't specific enough - replace it
+   > with an exact table name, query, or pipeline-verify number from Lab
+   > 1 or Lab 2, or tell me you don't have one."
 
 ## Explicit decision point: fix your criteria and weights before any scoring happens
 
