@@ -128,8 +128,9 @@ workshop rather than a generic "check your credentials":
   connection string, or cluster URL configured against the one the student
   meant to use.
 - **A backend was never configured at all.** Say so plainly and point back
-  to the specific Lab 0 step for that backend (Supabase: steps 3-5;
-  MongoDB: steps 10-11; Qdrant: steps 14-15) rather than assuming a
+  to Lab 0, Part 2, the student's chosen agent track (Claude Code, Codex
+  CLI, or OpenCode) - each track's steps 1-3 cover Supabase, step 4-5
+  cover MongoDB, and steps 6-7 cover Qdrant - rather than assuming a
   credentials problem.
 - **Credentials are rejected outright** (MongoDB authentication failure,
   Qdrant API key rejected). Likely a typo when the password was pasted

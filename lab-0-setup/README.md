@@ -1,23 +1,41 @@
 # Lab 0 - Setup: Accounts and MCP Configuration
 
-This is the only lab of the day that happens mostly outside the agent. You'll
-create four accounts, collect the credentials each one gives you, and then
-hand those credentials to your AI coding agent so it can reach each backend
-directly through MCP (Model Context Protocol) servers. From Lab 1 onward, you
-direct every backend in natural language and rarely open a provider's web UI
-except to double-check what the agent did.
+This is the only lab of the day that happens mostly outside the agent.
+You'll create four accounts, collect the credentials each one gives
+you, and then connect your AI coding agent to three of them through
+MCP (Model Context Protocol) servers, so it can reach each backend
+directly instead of you copying data back and forth. From Lab 1
+onward, you direct every backend in natural language and rarely open
+a provider's web UI except to double-check what the agent did.
+
+If MCP is new to you: it's a standard way for a coding agent to talk
+directly to an external tool - a database, a vector store, an API -
+the same way it already talks to files on your disk. Once a server is
+"connected", you describe what you want in plain language ("list the
+tables in my Supabase project") and the agent picks the right tool on
+its own. You never call these tools yourself.
+
+This lab has two parts. **Part 1** creates the four accounts you need
+- pure browser work, identical no matter which agent you use. **Part
+2** connects your agent to three of those accounts through MCP; pick
+the track for the agent you're using (Claude Code, Codex CLI, or
+OpenCode) and follow it start to finish. **Known pitfalls**, at the
+very bottom, is worth skimming if something isn't working, but you
+shouldn't need it to get through the lab.
 
 ## Objective
 
 By the end of this lab you will have:
 
-- four accounts created: Supabase, MongoDB Atlas, Qdrant Cloud, and Voyage AI;
-- three of them - Supabase, MongoDB, and Qdrant - connected to your agent
-  through MCP servers, so the agent can query and later populate them;
-- a Voyage AI API key created and stored safely for Lab 3 (it has no MCP
-  server of its own - more on that below);
-- confirmation, both in each provider's own web UI and by asking your agent,
-  that every backend is reachable and currently empty.
+- four accounts created: Supabase, MongoDB Atlas, Qdrant Cloud, and
+  Voyage AI;
+- three of them - Supabase, MongoDB, and Qdrant - connected to your
+  agent through MCP servers, so the agent can query and later populate
+  them;
+- a Voyage AI API key created and stored safely for Lab 3 (it has no
+  MCP server of its own - more on that below);
+- confirmation, both in each provider's own web UI and by asking your
+  agent, that every backend is reachable and currently empty.
 
 ## Duration
 
@@ -25,231 +43,436 @@ By the end of this lab you will have:
 
 ## Prerequisites
 
-- A terminal with one of the supported agents already installed and working:
-  Claude Code (primary path in this README), OpenAI Codex CLI, or opencode.
-  Installing the agent itself is outside the scope of this lab - sort that
-  out first if you haven't already.
-- Node.js 22.12 or later (needed to run the MongoDB MCP server) and `uv` /
-  `uvx` (needed to run the Qdrant MCP server) available on your machine. If
-  you're not sure whether you have them, the first guided step below checks
-  for you.
+- One of the three supported coding agents: Claude Code, OpenAI Codex
+  CLI, or OpenCode. If you don't have one installed yet, don't worry -
+  Part 2 below links to the installer for each.
+- Node.js 22.13 or later (needed to run the MongoDB MCP server) and
+  `uv` / `uvx` (needed to run the Qdrant MCP server). Part 2 has your
+  agent check this for you - you don't need to verify it yourself
+  first.
 - A web browser and an email address you're willing to use for four
   separate sign-ups.
-- A password manager, or at minimum a private notes file kept outside this
-  repository, to hold four sets of credentials.
-- About 75-90 minutes of uninterrupted time. Four sign-ups back to back is
-  more tiring than it sounds - see Known pitfalls.
+- A password manager, or at minimum a private notes file kept outside
+  this repository, to hold four sets of credentials.
+- About 75-90 minutes of uninterrupted time.
 
 This is the first lab of the day, so there is no previous lab to have
-completed. If you want a preview of the corpus you'll be working with from
-Lab 1 onward, skim `../corpus/README.md` - Lab 0 itself doesn't touch it.
+completed. If you want a preview of the corpus you'll be working with
+from Lab 1 onward, skim `../corpus/README.md` - Lab 0 itself doesn't
+touch it.
 
-## Guided steps
+## Part 1 - Create your four accounts
 
-Work through one provider completely - account created, MCP server
-connected, connection verified - before moving to the next, rather than
-creating all four accounts up front. Steps marked "in your browser" are
-manual; the rest are things to ask your agent to do - each of those steps
-includes a ready-to-paste prompt in a quote block. Fill in the bracketed
-blanks with your own values before sending it; the exact server/package
-names are already correct, you don't need to know them yourself.
+Every step below is pure browser work, identical no matter which agent
+you'll use in Part 2. Do them in any order; if four sign-ups back to
+back feels like a lot in one sitting, this is a good place to take a
+short break before moving into Part 2 (see Known pitfalls).
 
-1. **Check your machine is ready.** Ask your agent to check that Node.js
-   22.12 or later and `uv`/`uvx` are both available. If either is missing,
-   ask your agent to walk you through installing it for your operating
-   system before you continue.
+By the end of Part 1 you should have four values saved somewhere safe:
+a Supabase project reference, a MongoDB Atlas connection string, a
+Qdrant Cloud URL plus API key, and a Voyage AI API key.
+
+### Supabase
+
+1. Go to supabase.com, sign up, and create a new project: pick an
+   organization, a project name, a database password (store it safely
+   even though the MCP setup below won't need it directly), and a
+   region. Wait for provisioning to finish, a couple of minutes.
+2. Once the project is Active, find its reference ID under Project
+   Settings > General > Reference ID - you'll need it in Part 2. It's
+   also worth locating Project Settings > Database > Connection string
+   now, even though this MCP server won't need it: Lab 3's pgvector
+   work talks to Postgres directly and will want it then.
+
+### MongoDB Atlas
+
+3. Go to mongodb.com/cloud/atlas, sign up, and create a free (M0)
+   cluster.
+4. Under Database Access, create a database user with a username and
+   password, and give it "Read and write to any database" access - Lab
+   2 needs to create collections and insert documents with it. Store
+   the password safely - you'll need to paste it into the connection
+   string. If it contains characters like `@`, `:`, `/`, or `%`,
+   percent-encode them when you paste the password into the connection
+   string below, or just avoid those characters when you set it.
+5. Under Network Access, add an entry for your current IP address. For
+   a workshop laptop that might move between networks during the day,
+   allowing access from anywhere (0.0.0.0/0) is the pragmatic choice -
+   see Known pitfalls for what that trade-off costs you.
+6. Click Connect on your cluster, choose the driver connection string
+   option, and copy the `mongodb+srv://...` string. Replace the
+   password placeholder in it with your database user's actual
+   password.
+
+### Qdrant Cloud
+
+7. Go to cloud.qdrant.io, sign up, and create a free cluster.
+8. From the cluster's Data Access / API Keys area, generate an API key
+   and copy it immediately - it's shown once - along with the
+   cluster's URL.
+
+### Voyage AI
+
+9. Go to voyageai.com, sign up, and from the dashboard generate a new
+   API key. Copy it immediately. There's no MCP server for Voyage AI:
+   Lab 3 is where this key gets used, through a small script your
+   agent writes at that point. For now, just keep it alongside your
+   other three secrets.
+
+## Part 2 - Connect your agent
+
+Account creation is done. Pick the agent you're using and follow that
+track start to finish - nothing below needs a browser except the
+one-time login your agent opens for Supabase.
+
+### A note on where these live
+
+Each server you add can be stored privately on your machine, or
+checked into this repository so the setup travels with it. The tracks
+below default to the private option, which is the lower-friction
+choice for a one-day workshop. One rule holds regardless of which you
+pick: MongoDB's connection string and Qdrant's API key must never
+appear as a literal value in a file that's part of this repository -
+only as a reference to an environment variable set outside it.
+
+### Check your machine is ready
+
+Whichever agent you install below, once it's running, ask it this
+before connecting anything:
+
+> **Prompt to give your agent:**
+> "Check whether Node.js 22.13 or later, and uv/uvx, are installed on
+> this machine. If either is missing, walk me through installing it
+> for my operating system, then confirm both are ready before we
+> continue."
+
+One rule applies to every "Connect" step in every track below: reload
+or restart your agent after it adds a server, before you ask it to
+verify that server - a newly added server doesn't show up until you
+do.
+
+Now jump to your track: [Claude Code](#track-claude-code) ·
+[Codex CLI](#track-codex-cli) · [OpenCode](#track-opencode)
+
+## Track: Claude Code
+
+**Install**, if you don't already have it:
+
+- macOS / Linux / WSL: `curl -fsSL https://claude.ai/install.sh | bash`
+- Windows (PowerShell): `irm https://claude.ai/install.ps1 | iex`
+- Homebrew: `brew install --cask claude-code`
+- WinGet: `winget install Anthropic.ClaudeCode`
+- Full instructions and troubleshooting: code.claude.com/docs/en/overview
+
+Start it with `claude` inside this repository and log in when
+prompted.
+
+1. **Connect Supabase.**
 
    > **Prompt to give your agent:**
-   > "Check whether Node.js 22.12 or later, and uv/uvx, are installed on
-   > this machine. If either is missing, walk me through installing it
-   > for my operating system, then confirm both are ready before we
-   > continue."
-
-2. **Supabase - create your account and project (in your browser).** Go to
-   supabase.com, sign up, and create a new project: pick an organization, a
-   project name, a database password (store it safely even though the MCP
-   setup below won't need it directly), and a region. Wait for provisioning
-   to finish, a couple of minutes.
-
-3. **Supabase - connect the MCP server.** Ask your agent to add the
-   Supabase MCP server using the hosted endpoint
-   `https://mcp.supabase.com/mcp`, scoped to your project's reference ID
-   (find it under Project Settings > General > Reference ID in the
-   Supabase dashboard). This is one of the two places where scope matters -
-   read the decision point below before you tell your agent to go ahead.
-
-   > **Prompt to give your agent** (read the decision point below first,
-   > then fill in the two blanks):
-   > "Add an MCP server named `supabase`, in [PROJECT / LOCAL] scope,
-   > using the hosted endpoint
+   > "Add an MCP server named `supabase`, in local scope, using the
+   > hosted endpoint
    > `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`.
-   > Don't add any API key or access token - this server logs in through
-   > a browser the first time we use it."
+   > Don't add any API key or access token - this server logs in
+   > through a browser."
 
-4. **Supabase - approve access.** Reload or restart your agent so the new
-   server definition takes effect. It should open a browser window for
-   you: log in to Supabase there and approve access to the organization
-   that owns your project. No personal access token is needed for this
-   flow - if something you're reading elsewhere tells you to generate one
-   first, that's the older, no-longer-necessary method.
+2. **Authenticate Supabase.** Reload or restart Claude Code, then
+   inside the session type `/mcp`, select `supabase`, and choose
+   Authenticate. A browser window opens - log in to Supabase there and
+   approve access to the organization that owns your project. No
+   personal access token is needed for this flow.
 
-5. **Supabase - verify.** Ask your agent to list the tables in your
-   Supabase project. It should report an empty project - no tables yet.
-   Note in passing: you won't need a raw Postgres connection string for
-   this MCP server, but it's worth locating anyway (Project Settings >
-   Database > Connection string), since Lab 3's pgvector work talks to
-   Postgres directly and will want it then.
+3. **Verify Supabase.**
 
    > **Prompt to give your agent:**
-   > "List every table in my Supabase project through the MCP connection,
-   > and tell me whether the project is empty."
+   > "List every table in my Supabase project through the MCP
+   > connection, and tell me whether the project is empty."
 
-6. **MongoDB Atlas - create your account and cluster (in your browser).**
-   Go to mongodb.com/cloud/atlas, sign up, and create a free (M0) cluster.
+4. **Connect MongoDB.**
 
-7. **MongoDB Atlas - create a database user (in your browser).** Under
-   Database Access, create a user with a username and password. Store the
-   password safely - you'll need to paste it into the connection string.
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `MongoDB`, in local scope, running the
+   > command `npx` with arguments `-y mongodb-mcp-server@latest`. Set
+   > an environment variable called `MDB_MCP_CONNECTION_STRING` to
+   > this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure
+   > that value is only ever stored as this environment variable -
+   > never pass it as a command-line argument, and never write it
+   > into any file that's part of this repository."
 
-8. **MongoDB Atlas - open network access (in your browser).** Under
-   Network Access, add an entry for your current IP address. For a
-   workshop laptop that might move between networks during the day,
-   allowing access from anywhere (0.0.0.0/0) is the pragmatic choice - see
-   Known pitfalls for what that trade-off costs you.
+5. **Verify MongoDB.**
 
-9. **MongoDB Atlas - get your connection string (in your browser).** Click
-   Connect on your cluster, choose the driver connection string option,
-   and copy the `mongodb+srv://...` string. Replace the password
-   placeholder in it with your database user's actual password.
+   > **Prompt to give your agent:**
+   > "List the databases and collections you can currently see in
+   > MongoDB."
 
-10. **MongoDB - connect the MCP server.** Ask your agent to add the
-    MongoDB MCP server, giving it your connection string as the value of
-    its connection-string setting. Tell your agent explicitly: this value
-    must never be passed as a plain command-line argument, only as this
-    setting's value - otherwise it can end up saved in your shell history.
+6. **Connect Qdrant.**
 
-    > **Prompt to give your agent** (fill in the blank first):
-    > "Add an MCP server named `MongoDB`, in [PROJECT / LOCAL] scope,
-    > running the command `npx` with arguments `-y
-    > mongodb-mcp-server@latest`. Set an environment variable called
-    > `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS
-    > CONNECTION STRING>`. Make sure that value is only ever stored as
-    > this environment variable - never pass it as a command-line
-    > argument, and never write it into any file that's part of this
-    > repository."
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `qdrant`, in local scope, running the
+   > command `uvx` with the argument `mcp-server-qdrant`. Set two
+   > environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD
+   > CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API
+   > KEY>`. Don't set a collection name - we'll create the real one in
+   > Lab 3."
 
-11. **MongoDB - verify.** Reload your agent, then ask it to list your
-    databases and collections. Right after cluster creation this should
-    show no collections of your own - only MongoDB's own system databases.
+7. **Verify Qdrant.** This server only exposes a store tool and a find
+   tool - there's no "list collections" tool - so the strongest
+   confirmation you can get here is that the connection is alive; the
+   Qdrant Cloud dashboard is the source of truth for what it contains.
 
-    > **Prompt to give your agent:**
-    > "List the databases and collections you can currently see in
-    > MongoDB."
+   > **Prompt to give your agent:**
+   > "Confirm the qdrant MCP server is connected and ready to use."
 
-12. **Qdrant Cloud - create your account and cluster (in your browser).**
-    Go to cloud.qdrant.io, sign up, and create a free cluster.
+8. **Run the full health check.**
 
-13. **Qdrant Cloud - get your URL and API key (in your browser).** From
-    the cluster's Data Access / API Keys area, generate an API key and
-    copy it immediately - it's shown once - along with the cluster's URL.
+   > **Prompt to give your agent:**
+   > "Run the mcp-health-check skill."
 
-14. **Qdrant - connect the MCP server.** Ask your agent to add the Qdrant
-    MCP server with your cluster's URL and API key. Don't worry about
-    naming a collection yet - Lab 3 is where the real one gets created.
+Once configured, `~/.claude.json` holds a local-scoped entry nested
+under your project's own path, shaped like this:
 
-    > **Prompt to give your agent** (fill in the two blanks first):
-    > "Add an MCP server named `qdrant`, in [PROJECT / LOCAL] scope,
-    > running the command `uvx` with the argument `mcp-server-qdrant`.
-    > Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD
-    > CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API
-    > KEY>`. Don't set a collection name - we'll create the real one in
-    > Lab 3."
-
-15. **Qdrant - verify.** Reload your agent and ask it to confirm the
-    Qdrant MCP server connected. This server only exposes a store tool and
-    a find tool - there's no "list collections" tool - so the strongest
-    confirmation that it's empty and ready is the Qdrant Cloud dashboard
-    itself (see Verification below).
-
-    > **Prompt to give your agent:**
-    > "Confirm the qdrant MCP server is connected and ready to use."
-
-16. **Voyage AI - create your account and API key (in your browser).** Go
-    to voyageai.com, sign up, and from the dashboard generate a new API
-    key. Copy it immediately.
-
-17. **Voyage AI - store the key for later.** There's no MCP server for
-    Voyage AI and nothing to configure right now: Lab 3 is where this key
-    gets used, through a small script your agent writes at that point.
-    For now, just keep the key alongside your other three secrets (see
-    Known pitfalls) so you can hand it to your agent again when Lab 3
-    asks for it.
-
-18. **Run the full health check.** Ask your agent to run the
-    `mcp-health-check` skill (if you're on Claude Code), or, on Codex CLI
-    or opencode, ask it directly to check each of the three connections.
-    Confirm it reports Supabase, MongoDB, and Qdrant all connected and
-    empty.
-
-    > **Prompt to give your agent** (Claude Code):
-    > "Run the mcp-health-check skill."
-    >
-    > **Prompt to give your agent** (Codex CLI / opencode):
-    > "Check my Supabase, MongoDB, and Qdrant connections and tell me,
-    > for each one, whether it's connected and what it currently sees."
-
-## Explicit decision point
-
-### Where do your MCP server definitions and secrets live?
-
-When you ask your agent to add each MCP server (steps 3, 10, and 14), it
-will either default to a scope or ask you which one you want. Don't just
-accept whatever it proposes first - decide on purpose, and give your agent
-an explicit instruction each time.
-
-You have two real options:
-
-- **Project scope.** The server definitions live in a config file at the
-  root of this repository, alongside the labs themselves. That's
-  convenient if you want this setup to travel with the repo - to another
-  machine, or to a teammate. But it comes with a rule: no literal secret
-  value may ever be written into that file, since it's meant to be safe to
-  keep in this repository. MongoDB's connection string and Qdrant's API
-  key must instead be kept in an environment variable or your agent's own
-  secret store, with the config file only referencing it by name - which
-  means you now have one more thing to manage: where that actual value
-  lives on your machine.
-
-- **Local (or user) scope.** The server definitions live in your agent's
-  own private settings, entirely outside this repository. They're never
-  committed, never shared, and never seen by anyone else who might later
-  look at this repo. That means you can be more relaxed about where the
-  literal secret value sits, since it's private to your machine by
-  construction - but it also means this setup won't follow you if you
-  switch laptops or hand the repo to someone else.
-
-For reference, here is roughly what the three server entries look like in
-a Claude Code-style config once configured, regardless of which scope you
-pick:
-
-```
+```json
 {
-  "mcpServers": {
+  "projects": {
+    "/path/to/this/repo": {
+      "mcpServers": {
+        "supabase": {
+          "type": "http",
+          "url": "https://mcp.supabase.com/mcp?project_ref=your-project-reference"
+        },
+        "MongoDB": {
+          "command": "npx",
+          "args": ["-y", "mongodb-mcp-server@latest"],
+          "env": {
+            "MDB_MCP_CONNECTION_STRING": "<your MongoDB Atlas connection string>"
+          }
+        },
+        "qdrant": {
+          "command": "uvx",
+          "args": ["mcp-server-qdrant"],
+          "env": {
+            "QDRANT_URL": "<your Qdrant Cloud cluster URL>",
+            "QDRANT_API_KEY": "<your Qdrant Cloud API key>"
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+**Project scope instead?** Ask your agent to add each server with
+`project` scope rather than `local`. The three entries then live in a
+`.mcp.json` file at the repo root, which is safe to commit - but
+MongoDB's connection string and Qdrant's API key must be referenced as
+`${MDB_MCP_CONNECTION_STRING}` / `${QDRANT_API_KEY}` rather than typed
+in literally, with the real values set as environment variables
+outside the repo. Ask your agent to show you what it wrote once it's
+done, so you can confirm no literal secret ended up in the file.
+
+## Track: Codex CLI
+
+**Install**, if you don't already have it:
+
+- macOS / Linux: `curl -fsSL https://chatgpt.com/codex/install.sh | sh`
+- Windows (PowerShell):
+  `powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"`
+- npm: `npm install -g @openai/codex`
+- Homebrew: `brew install --cask codex`
+- Full instructions: developers.openai.com/codex/quickstart
+
+Start it with `codex` inside this repository and sign in when
+prompted.
+
+A Codex-specific note before you start: adding a server through Codex
+always writes into your personal `~/.codex/config.toml`, not into this
+repository - there's no scope choice to make. If you want a
+project-shared setup instead, ask your agent to hand-create or edit a
+`.codex/config.toml` file at the repo root, using the same
+`[mcp_servers.<name>]` shape shown below; Codex only loads a
+project-level config once you've marked this folder as trusted.
+
+1. **Connect Supabase.**
+
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `supabase` for the hosted endpoint
+   > `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`.
+   > Don't add any API key or bearer token - this server logs in
+   > through a browser."
+
+2. **Authenticate Supabase.** Codex detects that this server supports
+   OAuth and normally starts the login flow automatically as part of
+   adding it, opening a browser window - log in there and approve
+   access. If it doesn't prompt automatically, ask your agent to
+   authenticate the `supabase` server explicitly.
+
+3. **Verify Supabase.**
+
+   > **Prompt to give your agent:**
+   > "List every table in my Supabase project through the MCP
+   > connection, and tell me whether the project is empty."
+
+4. **Connect MongoDB.**
+
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `MongoDB`, running the command `npx`
+   > with arguments `-y mongodb-mcp-server@latest`. Set an environment
+   > variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR
+   > MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only
+   > ever stored as this environment variable - never pass it as a
+   > command-line argument, and never write it into any file that's
+   > part of this repository."
+
+5. **Verify MongoDB.**
+
+   > **Prompt to give your agent:**
+   > "List the databases and collections you can currently see in
+   > MongoDB."
+
+6. **Connect Qdrant.**
+
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `qdrant`, running the command `uvx` with
+   > the argument `mcp-server-qdrant`. Set two environment variables:
+   > `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and
+   > `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a
+   > collection name - we'll create the real one in Lab 3."
+
+7. **Verify Qdrant.**
+
+   > **Prompt to give your agent:**
+   > "Confirm the qdrant MCP server is connected and ready to use."
+
+8. **Run the health check.** There's no built-in health-check skill in
+   Codex.
+
+   > **Prompt to give your agent:**
+   > "Check my Supabase, MongoDB, and Qdrant connections and tell me,
+   > for each one, whether it's connected and what it currently
+   > sees."
+
+Once configured, `~/.codex/config.toml` holds entries shaped like
+this:
+
+```toml
+[mcp_servers.supabase]
+url = "https://mcp.supabase.com/mcp?project_ref=your-project-reference"
+
+[mcp_servers.MongoDB]
+command = "npx"
+args = ["-y", "mongodb-mcp-server@latest"]
+[mcp_servers.MongoDB.env]
+MDB_MCP_CONNECTION_STRING = "<your MongoDB Atlas connection string>"
+
+[mcp_servers.qdrant]
+command = "uvx"
+args = ["mcp-server-qdrant"]
+[mcp_servers.qdrant.env]
+QDRANT_URL = "<your Qdrant Cloud cluster URL>"
+QDRANT_API_KEY = "<your Qdrant Cloud API key>"
+```
+
+Verify any time with `codex mcp list` from the shell, or `/mcp` inside
+a session.
+
+## Track: OpenCode
+
+**Install**, if you don't already have it:
+
+- Install script: `curl -fsSL https://opencode.ai/install | bash`
+- npm: `npm install -g opencode-ai`
+- Homebrew: `brew install anomalyco/tap/opencode`
+- Windows: `scoop install opencode` or `choco install opencode`
+- Download page and full instructions: opencode.ai/download,
+  opencode.ai/docs
+
+Start it with `opencode` inside this repository and sign in when
+prompted.
+
+1. **Connect Supabase.**
+
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `supabase` to my global OpenCode config,
+   > as a remote server for the hosted endpoint
+   > `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`.
+   > Don't set any headers or API key - this server logs in through a
+   > browser."
+
+2. **Authenticate Supabase.** OpenCode detects that this server needs
+   authentication and normally offers to start the OAuth flow the
+   first time you use it. If it doesn't prompt automatically, ask your
+   agent to authenticate the `supabase` server explicitly - a browser
+   window opens; log in there and approve access.
+
+3. **Verify Supabase.**
+
+   > **Prompt to give your agent:**
+   > "List every table in my Supabase project through the MCP
+   > connection, and tell me whether the project is empty."
+
+4. **Connect MongoDB.**
+
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `MongoDB` to my global OpenCode config,
+   > as a local server running the command `npx` with arguments `-y
+   > mongodb-mcp-server@latest`. Set an environment variable called
+   > `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS
+   > CONNECTION STRING>`. Make sure that value is only ever stored as
+   > this environment variable - never pass it as a command-line
+   > argument, and never write it into any file that's part of this
+   > repository."
+
+5. **Verify MongoDB.**
+
+   > **Prompt to give your agent:**
+   > "List the databases and collections you can currently see in
+   > MongoDB."
+
+6. **Connect Qdrant.**
+
+   > **Prompt to give your agent:**
+   > "Add an MCP server named `qdrant` to my global OpenCode config, as
+   > a local server running the command `uvx` with the argument
+   > `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL`
+   > to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to
+   > `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll
+   > create the real one in Lab 3."
+
+7. **Verify Qdrant.**
+
+   > **Prompt to give your agent:**
+   > "Confirm the qdrant MCP server is connected and ready to use."
+
+8. **Run the health check.** There's no built-in health-check skill in
+   OpenCode.
+
+   > **Prompt to give your agent:**
+   > "Check my Supabase, MongoDB, and Qdrant connections and tell me,
+   > for each one, whether it's connected and what it currently
+   > sees."
+
+Once configured, your global config at
+`~/.config/opencode/opencode.json` holds entries shaped like this:
+
+```json
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
     "supabase": {
-      "type": "http",
+      "type": "remote",
       "url": "https://mcp.supabase.com/mcp?project_ref=your-project-reference"
     },
     "MongoDB": {
-      "command": "npx",
-      "args": ["-y", "mongodb-mcp-server@latest"],
-      "env": {
+      "type": "local",
+      "command": ["npx", "-y", "mongodb-mcp-server@latest"],
+      "environment": {
         "MDB_MCP_CONNECTION_STRING": "<your MongoDB Atlas connection string>"
       }
     },
     "qdrant": {
-      "command": "uvx",
-      "args": ["mcp-server-qdrant"],
-      "env": {
+      "type": "local",
+      "command": ["uvx", "mcp-server-qdrant"],
+      "environment": {
         "QDRANT_URL": "<your Qdrant Cloud cluster URL>",
         "QDRANT_API_KEY": "<your Qdrant Cloud API key>"
       }
@@ -258,147 +481,86 @@ pick:
 }
 ```
 
-Notice that Supabase's entry carries no secret at all - the OAuth flow
-handles that - while Mongo's and Qdrant's entries do. That asymmetry is
-exactly why this decision matters more for those two than for Supabase: in
-**local scope**, the two angle-bracketed placeholders above are literal
-values, typed directly into your agent's private config. In **project
-scope**, they must instead be a reference to an environment variable you
-set outside this repository - the file that's actually written to disk in
-this repo never contains the value itself, only the name of where to find
-it. The exact reference syntax depends on which agent you're using; ask
-your agent to show you what it wrote once it's done, so you can confirm
-which of the two you ended up with.
+**Project scope instead?** Ask your agent to add the same entries to
+an `opencode.json` file at the repo root instead of the global config
+- it takes precedence over the global file and is safe to commit,
+under the same rule as above: no literal MongoDB connection string or
+Qdrant API key in that file, only environment-variable references.
 
-For a one-day workshop you plan to redo at home on the same laptop, local
-scope is the lower-friction choice. If you'd rather keep this repository as
-a portable personal reference across machines, project scope with
-externalized secrets pays for itself. Either is defensible - the point is
-to be able to say which one you picked and why.
+Verify any time with `opencode mcp list`. If Supabase specifically
+looks connected but authentication isn't behaving as expected,
+`opencode mcp debug supabase` diagnoses OAuth connections in
+particular - it isn't a general MongoDB/Qdrant health check.
 
-## Verification
+## Final verification
 
-**In each provider's web UI:**
+Regardless of which track you followed, confirm each backend in its
+own web UI too:
 
-- Supabase dashboard: project status is "Active"; Table Editor shows no
-  tables.
-- MongoDB Atlas: cluster status is healthy; Database > Collections shows
-  no collections of your own (only the system databases MongoDB creates
-  automatically).
+- Supabase dashboard: project status is "Active"; Table Editor shows
+  no tables.
+- MongoDB Atlas: cluster status is healthy; Database > Collections
+  shows no collections of your own (only the system databases MongoDB
+  creates automatically).
 - Qdrant Cloud: cluster dashboard shows zero collections and a healthy
   status.
 - Voyage AI dashboard: your new API key is listed, with no usage yet.
 
-**Via the agent:**
-
-- On Claude Code, ask your agent to run the `mcp-health-check` skill. It
-  should report, in plain language, that Supabase, MongoDB, and Qdrant are
-  all connected, and that each currently looks empty.
-- On Codex CLI or opencode, there's no equivalent built-in skill - ask your
-  agent directly: "Check my Supabase, MongoDB, and Qdrant connections and
-  tell me, for each one, whether it's connected and what it currently
-  sees." The outcome you're looking for is the same.
-- A concrete check to run either way: ask your agent to list every table
-  in Supabase and every collection in MongoDB, and to confirm the Qdrant
-  connection is alive. None of the three should show any data yet - if one
-  does, you're either looking at the wrong project/cluster, or something
-  from a previous attempt at this lab is still sitting there.
+None of the three should show any data yet - if one does, you're
+either looking at the wrong project/cluster, or something from a
+previous attempt at this lab is still sitting there.
 
 ## Known pitfalls
 
 - **MongoDB Atlas network access is the single most common stall.**
-  Without your current IP (or 0.0.0.0/0) added under Network Access, the
-  connection simply hangs or times out, with no clear error at the MCP
-  level. If MongoDB verification is stuck, check this first. The trade-off
-  with 0.0.0.0/0: it opens the cluster to connections from any address, so
-  the username and password in your connection string become the only
-  thing standing between your data and the internet - fine for a
-  throwaway workshop cluster you'll tear down afterward, not something to
-  carry over into a real project.
+  Without your current IP (or 0.0.0.0/0) added under Network Access,
+  the connection simply hangs or times out, with no clear error at the
+  MCP level. The trade-off with 0.0.0.0/0: it opens the cluster to
+  connections from any address, so the username and password in your
+  connection string become the only thing standing between your data
+  and the internet - fine for a throwaway workshop cluster you'll tear
+  down afterward, not something to carry over into a real project.
 - **Four different secrets, four different handling rules.** Supabase's
   login is OAuth, so there's no key to store for it at all. MongoDB's
-  connection string, Qdrant's API key, and Voyage's API key are all plain
-  secrets you copy once and must store safely. Never let any of them end
-  up in a file that's part of this repository, and never type one as a
-  bare command-line argument - it can end up saved in your shell history.
-- **Four sign-ups back to back is genuinely tiring.** Finish one account
-  completely - create it, connect its MCP server, verify it - before
-  starting the next, rather than creating all four accounts up front and
-  configuring everything at the end.
+  connection string, Qdrant's API key, and Voyage's API key are all
+  plain secrets you copy once and must store safely. Never let any of
+  them end up in a file that's part of this repository, and never type
+  one as a bare command-line argument - it can end up saved in your
+  shell history.
+- **Four sign-ups back to back is genuinely tiring.** If you don't get
+  through Part 1 in one sitting, that's fine - stop after any account
+  and pick back up later; Part 2 doesn't depend on doing Part 1 in a
+  single stretch.
 - **Config changes don't take effect until you reload or restart your
-  agent.** If a newly added server doesn't show up, that's usually why.
-- **Supabase's recommended setup is OAuth-only - no connection string, no
-  personal access token.** Older guides describing a personal-access-token
-  flow are describing a legacy method you don't need here. If what you see
-  doesn't match this README, check the current docs at
-  supabase.com/docs/guides/getting-started/mcp.
-- **The Qdrant MCP server can't list or count anything.** It only exposes
-  a store tool and a find tool, so don't expect your agent to "list
-  collections" the way it can for Supabase and MongoDB. Treat the Qdrant
-  Cloud dashboard as the source of truth for "is it empty and ready."
-- **Free tiers idle out.** An inactive Supabase project can pause after
-  about a week, and an idle Qdrant free cluster can suspend on a similar
-  timescale. If you come back to redo this workshop at home later and a
-  connection that used to work suddenly doesn't, check whether the
-  project or cluster needs to be resumed in its web UI before you start
-  troubleshooting the MCP configuration itself.
+  agent.** If a newly added server doesn't show up, that's usually
+  why.
+- **Codex's server-add step always targets your personal config, never
+  this repository.** There's no scope choice - if you want the setup
+  checked in, you (or your agent) have to hand-edit a project
+  `.codex/config.toml` instead.
+- **Supabase's recommended setup is OAuth-only - no connection string,
+  no personal access token.** Older guides describing a
+  personal-access-token flow are describing a legacy method you don't
+  need here. If what you see doesn't match this README, check the
+  current docs at supabase.com/docs/guides/ai-tools/mcp.
+- **The Qdrant MCP server can't list or count anything.** It only
+  exposes a store tool and a find tool, so don't expect your agent to
+  "list collections" the way it can for Supabase and MongoDB. Treat
+  the Qdrant Cloud dashboard as the source of truth for "is it empty
+  and ready."
+- **Free tiers idle out.** An inactive Supabase project can pause
+  after about a week, and an idle Qdrant free cluster can suspend on a
+  similar timescale. If you come back to redo this workshop at home
+  later and a connection that used to work suddenly doesn't, check
+  whether the project or cluster needs to be resumed in its web UI
+  before you start troubleshooting the MCP configuration itself.
 - **Keep manual tool-call approval switched on** in your agent for the
   rest of the workshop. Supabase's own documentation notes that data
-  returned from a query can contain text designed to redirect the agent -
-  approval prompts are your safety net. None of these backends should
-  ever be pointed at real production data.
-- **These MCP servers are young and still changing.** Both the Supabase
-  and MongoDB servers are pre-1.0 and evolving; if a tool name, flag, or
-  exact config field doesn't match what's described here, check the
-  current docs linked in each provider's guided step above - the overall
-  workflow will still hold even if a detail has moved.
-
-## Multi-tool notes
-
-### Using Codex CLI or opencode instead
-
-The account creation and browser steps above (2, 6-9, 12-13, 16) are
-identical no matter which agent you use. Only how you register each MCP
-server, and how you check that it worked, changes.
-
-**Codex CLI**
-
-- Ask Codex to add each server the same way you would Claude Code; under
-  the hood it can do this via `codex mcp add`, or by editing the
-  `mcp_servers` tables in `~/.codex/config.toml` (global) or a project
-  `.codex/config.toml` (only loaded once Codex has marked this project as
-  trusted - if a server you added seems to be ignored, check that first).
-- Supabase maps to a remote entry with `url = "https://mcp.supabase.com/mcp"`
-  under `[mcp_servers.supabase]`. Whether your Codex version walks you
-  through the same browser OAuth flow, or expects a bearer token instead,
-  check the current docs at developers.openai.com/codex/mcp - if OAuth
-  isn't supported in your version, fall back to a Supabase personal access
-  token supplied via a bearer-token environment variable, plus your
-  project reference in the url.
-- MongoDB and Qdrant map to local entries under `[mcp_servers.mongodb]` /
-  `[mcp_servers.qdrant]`, each with a command, its arguments, and an `env`
-  table carrying the same connection string, URL, and API key described
-  above.
-- Verify with `codex mcp list` from the shell, or `/mcp` (`/mcp verbose`
-  for more detail) inside a session.
-- There's no `mcp-health-check` skill in Codex - ask your agent directly:
-  "Check my Supabase, MongoDB, and Qdrant connections and tell me what
-  each currently sees."
-
-**opencode**
-
-- Ask your agent to add each server to `opencode.json` (project root) or
-  `~/.config/opencode/opencode.json` (global), under a top-level `"mcp"`
-  object.
-- Supabase maps to a `"type": "remote"` entry with `"url":
-  "https://mcp.supabase.com/mcp"` - opencode auto-detects the OAuth flow.
-- MongoDB and Qdrant map to `"type": "local"` entries. Two naming details
-  differ from the Claude Code shape shown above: the command is a single
-  array (for example `["npx", "-y", "mongodb-mcp-server@latest"]`) rather
-  than separate command/args fields, and environment variables go under
-  the key `"environment"`, not `"env"`.
-- Verify with `opencode mcp list` from the shell, `opencode mcp debug
-  <name>` if something looks connected but isn't behaving as expected, or
-  `/mcp` inside a session.
-- As with Codex, there's no built-in health-check skill - ask your agent
-  directly to check each connection and report what it sees.
+  returned from a query can contain text designed to redirect the
+  agent - approval prompts are your safety net. None of these backends
+  should ever be pointed at real production data.
+- **These MCP servers are young and still changing.** They're updated
+  frequently even past their first stable release; if a tool name,
+  flag, or exact config field doesn't match what's described
+  here, check the current docs linked above - the overall workflow
+  will still hold even if a detail has moved.
