@@ -191,8 +191,26 @@ that list yourself, per "Explicit decision point" above.
   upgrade or downgrade history — a candidate for a "customers with a plan
   change" signal.
 
-Again: this box is for inspiration and later sanity-checking, not a
-shortcut around picking your own 3-5 questions.
+**Turning those facts into questions**
+
+The numbers above are answers, not questions. Below is one way each maps
+to a business question, grouped by the same categories used in "Explicit
+decision point" above — a model for how to phrase your own list, not a
+list to adopt directly:
+- Single headline number: "What's our current total MRR?" / "What
+  fraction of our customers have churned?"
+- Breakdown by category: "How does MRR split across plan tiers?" /
+  "Which industries make up most of our customer base?" / "Which
+  countries are our customers concentrated in?"
+- Trend over time: "How have new signups trended by quarter since 2022 —
+  growing, flat, or slowing down?"
+- Risk or health signal: "How many customers are on a trial right now
+  versus paying?" / "How many customers have changed plans at least
+  once — an upgrade or downgrade signal?"
+
+Again: the numbers and these example questions are both for inspiration
+and later sanity-checking, not a shortcut around picking your own 3-5
+questions.
 
 ## Bonus: choosing a JS charting library
 
