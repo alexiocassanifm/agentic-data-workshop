@@ -81,15 +81,15 @@ from the repo root (see [`.claude/skills/`](.claude/skills)):
 - **dashboard-build** — structures how the agent turns the student's chosen
   business questions into a verified, correctly-labeled Lab 4 dashboard
 
-OpenAI Codex CLI and opencode are also supported. Both now support the same
-open Agent Skills format (SKILL.md files) Claude Code uses, so this is no
-longer a Claude-Code-only mechanism — but the two look for skills in
-different places. opencode scans `.claude/skills/` directly, so it already
-picks up every skill above with no extra setup. Codex CLI scans
-`.agents/skills/` instead, a path this repo doesn't ship skills under, so on
-Codex CLI each lab README spells out the equivalent as a set of steps to ask
-your agent to perform directly, reaching the same outcome by direct
-prompting instead.
+OpenAI Codex CLI and opencode are also supported. All three tools now
+support the same open Agent Skills format (SKILL.md files), so this is no
+longer a Claude-Code-only mechanism — they just look for skills in
+different places. opencode scans `.claude/skills/` directly. Codex CLI
+scans `.agents/skills/` instead, so this repo ships an identical mirror of
+all five skills under [`.agents/skills/`](.agents/skills) as well — every
+skill above works the same way, by name, on all three tools. (The two
+directories are kept in sync by hand; if you edit a skill, update both
+copies.)
 
 No prior database experience, and no ability to read or write code, is
 assumed anywhere in this material.

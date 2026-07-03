@@ -269,14 +269,14 @@ Concretely:
 
 ### Using Codex CLI or opencode instead
 
-Both Codex CLI and opencode now support the same open Agent Skills format
-(SKILL.md files) Claude Code uses. opencode scans `.claude/skills/`
-directly, so it already sees this repo's `backend-compare` skill: invoke it
-by name exactly as in the steps above ("Run the backend-compare skill...").
-Codex CLI supports skills too, but scans `.agents/skills/` instead, a path
-this repo doesn't use — so on Codex CLI specifically, there's no
-`backend-compare` command to invoke directly. Reach the same outcome by
-asking your agent to do the following steps, in order:
+All three tools — Claude Code, opencode, and Codex CLI — now support the
+same open Agent Skills format (SKILL.md files). opencode and Claude Code
+read `.claude/skills/` directly; Codex CLI reads a mirrored copy of the
+same five skills from `.agents/skills/`. So on any of the three, invoke
+`backend-compare` by name exactly as in the steps above ("Run the
+backend-compare skill..."). If it isn't picked up on your particular
+setup, reach the same outcome by asking your agent to do the following
+steps, in order:
 
 1. Confirm live connections to Supabase and MongoDB by listing tables
    (with row counts) and collections (with document counts).

@@ -315,19 +315,19 @@ have it explain the discrepancy before you accept the dashboard as correct.
 
 ## Multi-tool notes
 ### Using Codex CLI or opencode instead
-Both Codex CLI and opencode now support the same open Agent Skills format
-(SKILL.md files) Claude Code uses — this is no longer Claude-Code-specific.
-opencode scans `.claude/skills/` directly, so it already sees this repo's
-`mcp-health-check`, `dashboard-build`, and `pipeline-verify` skills: invoke
-them by name exactly as you would in Claude Code (for example, "Run the
-dashboard-build skill"). Codex CLI supports skills too, but scans
-`.agents/skills/` instead, a path this repo doesn't use — so on Codex CLI
-specifically, ask your agent directly to perform the same steps: "list the
-tables in my Supabase project and their row counts" at the start, and
-"compare every number in the dashboard against a fresh query against the
-database and show me both numbers" at the end.
+All three tools — Claude Code, opencode, and Codex CLI — now support the
+same open Agent Skills format (SKILL.md files). opencode and Claude Code
+read `.claude/skills/` directly; Codex CLI reads a mirrored copy of the
+same five skills from `.agents/skills/`. So on any of the three, invoke
+`mcp-health-check`, `dashboard-build`, and `pipeline-verify` by name
+(for example, "Run the dashboard-build skill"). If a skill ever isn't
+picked up on your particular setup, ask your agent directly to perform
+the same steps instead: "list the tables in my Supabase project and their
+row counts" at the start, and "compare every number in the dashboard
+against a fresh query against the database and show me both numbers" at
+the end.
 
-On Codex CLI, instead of the `dashboard-build` skill specifically, ask your
+If `dashboard-build` specifically isn't available on your setup, ask your
 agent directly for the same discipline it would otherwise enforce: to hold
 off proposing or building any chart until you have stated your business
 questions, and to refuse if you ask it to invent that list for you; to

@@ -174,11 +174,10 @@ labs' prompts are worded:
   repository. The one thing to do on Claude Code specifically: the first
   time it opens this folder, accept its one-time workspace trust prompt
   - skills, like any other project file, only activate once you do.
-- **Codex CLI** supports the same open skill format, but looks for
-  skills under `.agents/skills/` instead, a folder this repo doesn't use
-  - so on Codex CLI, whenever a later lab tells you to invoke a skill by
-  name, ask your agent directly for the same outcome instead, exactly as
-  each lab's "Using Codex CLI or opencode instead" section describes.
+- **Codex CLI** supports the same open skill format too, but looks for
+  skills under `.agents/skills/` instead of `.claude/skills/` - this repo
+  ships an identical copy of all five skills there as well, so every
+  skill just works on Codex CLI too, the same way, by name.
 
 Now jump to your track: [Claude Code](#track-claude-code) ·
 [Codex CLI](#track-codex-cli) · [OpenCode](#track-opencode)
@@ -411,16 +410,14 @@ project-level config once you've marked this folder as trusted.
    Confirm the qdrant MCP server is connected and ready to use.
    ```
 
-8. **Run the health check.** Codex CLI supports skills, but it looks for
-   them under `.agents/skills/`, a path this repo doesn't use — so it
-   won't discover the `mcp-health-check` skill here. Ask directly instead.
+8. **Run the health check.** Codex CLI reads skills from `.agents/skills/`,
+   and this repo ships a copy of the `mcp-health-check` skill there — ask
+   for it by name.
 
    **Prompt:**
 
    ```
-   Check my Supabase, MongoDB, and Qdrant connections and tell me,
-   for each one, whether it's connected and what it currently
-   sees.
+   Run the mcp-health-check skill.
    ```
 
 Once configured, `~/.codex/config.toml` holds entries shaped like

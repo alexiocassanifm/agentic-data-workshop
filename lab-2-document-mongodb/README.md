@@ -350,14 +350,14 @@ retrievable (a scratch note is fine) — the Bonus lab will ask you to cite it.
 
 ### Using Codex CLI or opencode instead
 
-Both Codex CLI and opencode now support the same open Agent Skills format
-(SKILL.md files) Claude Code uses. opencode scans `.claude/skills/`
-directly, so it already sees this repo's `mcp-health-check`,
-`schema-proposal`, and `pipeline-verify` skills: invoke them by name exactly
-as in the steps above. Codex CLI supports skills too, but scans
-`.agents/skills/` instead, a path this repo doesn't use — so on Codex CLI
-specifically, every outcome in this lab is reachable by asking your agent
-directly to do the same work:
+All three tools — Claude Code, opencode, and Codex CLI — now support the
+same open Agent Skills format (SKILL.md files). opencode and Claude Code
+read `.claude/skills/` directly; Codex CLI reads a mirrored copy of the
+same five skills from `.agents/skills/`. So on any of the three, invoke
+`mcp-health-check`, `schema-proposal`, and `pipeline-verify` by name
+exactly as in the steps above. If a skill ever isn't picked up on your
+particular setup, every outcome in this lab is also reachable by asking
+your agent directly to do the same work:
 
 - Instead of the `mcp-health-check` skill, ask your agent to check its
   MongoDB connection and list existing collections and document counts in

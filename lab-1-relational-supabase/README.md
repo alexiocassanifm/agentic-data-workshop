@@ -303,14 +303,14 @@ and why, and only then move on to building the tables.
 
 ### Using Codex CLI or opencode instead
 
-Both Codex CLI and opencode now support the same open Agent Skills format
-(SKILL.md files) Claude Code uses — this is no longer Claude-Code-specific.
-opencode scans `.claude/skills/` directly, so it already sees this repo's
-`schema-proposal` and `pipeline-verify` skills: invoke them by name exactly
-as in the steps above ("Run the schema-proposal skill...", "Run the
-pipeline-verify skill..."). Codex CLI supports skills too, but scans
-`.agents/skills/` instead, a path this repo doesn't use — so on Codex CLI
-specifically, ask for the same outcome directly:
+All three tools — Claude Code, opencode, and Codex CLI — now support the
+same open Agent Skills format (SKILL.md files). opencode and Claude Code
+read `.claude/skills/` directly; Codex CLI reads a mirrored copy of the
+same five skills from `.agents/skills/`. So on any of the three, invoke
+`schema-proposal` and `pipeline-verify` by name exactly as in the steps
+above ("Run the schema-proposal skill...", "Run the pipeline-verify
+skill..."). If a skill ever isn't picked up on your particular setup, ask
+for the same outcome directly instead:
 
 - Instead of invoking `schema-proposal`, ask your agent explicitly for
   the same shape of answer: "Propose a relational schema for this data —

@@ -516,13 +516,13 @@ went wrong.
 
 ### Using Codex CLI or opencode instead
 
-Both Codex CLI and opencode now support the same open Agent Skills format
-(SKILL.md files) Claude Code uses. opencode scans `.claude/skills/`
-directly, so it already sees this repo's `mcp-health-check` and
-`pipeline-verify` skills: invoke them by name exactly as in the steps
-above. Codex CLI supports skills too, but scans `.agents/skills/` instead,
-a path this repo doesn't use — so on Codex CLI specifically, every outcome
-in this lab is reachable by asking directly:
+All three tools — Claude Code, opencode, and Codex CLI — now support the
+same open Agent Skills format (SKILL.md files). opencode and Claude Code
+read `.claude/skills/` directly; Codex CLI reads a mirrored copy of the
+same five skills from `.agents/skills/`. So on any of the three, invoke
+`mcp-health-check` and `pipeline-verify` by name exactly as in the steps
+above. If a skill ever isn't picked up on your particular setup, every
+outcome in this lab is also reachable by asking directly:
 
 - Instead of `mcp-health-check`, ask your agent to check its Qdrant
   connection in Part 1, and its Supabase connection plus your Voyage AI
