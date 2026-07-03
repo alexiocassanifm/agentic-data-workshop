@@ -47,11 +47,7 @@ correct.
    **Prompt:**
 
    ```
-   Here are the business questions I want this dashboard to answer:
-   <YOUR LIST OF 3-5 QUESTIONS>. For each one, propose which table(s)
-   and aggregation would answer it, and what chart type — single
-   number, bar, line, or table — best represents it. Don't build
-   anything yet; just show me the plan.
+   Here are the business questions I want this dashboard to answer: <YOUR LIST OF 3-5 QUESTIONS>. For each one, propose which table(s) and aggregation would answer it, and what chart type — single number, bar, line, or table — best represents it. Don't build anything yet; just show me the plan.
    ```
 3. Choose which output you are building, based on the time you have left:
    - A small web app that queries Supabase live, each time the page loads.
@@ -65,8 +61,7 @@ correct.
    **Prompt (pick one):**
 
    ```
-   I want a small web app that queries Supabase live each time the
-   page loads. Let's build that.
+   I want a small web app that queries Supabase live each time the page loads. Let's build that.
    ```
 
    — or —
@@ -85,10 +80,7 @@ correct.
    **Prompt (web app variant):**
 
    ```
-   Scaffold a minimal web app and wire it to my Supabase project using
-   my project URL and access token — read those from an environment
-   variable or local config you set up, don't put them in a file you
-   show me. Then run it locally so I can view it in a browser.
+   Scaffold a minimal web app and wire it to my Supabase project using my project URL and access token — read those from an environment variable or local config you set up, don't put them in a file you show me. Then run it locally so I can view it in a browser.
    ```
 
    For the HTML artifact variant: ask your agent to run the queries for each
@@ -98,9 +90,7 @@ correct.
    **Prompt (HTML artifact variant):**
 
    ```
-   Run the queries for each metric now, and generate one
-   self-contained HTML file with the results and the charts embedded
-   directly in it. Then open that file so I can view it.
+   Run the queries for each metric now, and generate one self-contained HTML file with the results and the charts embedded directly in it. Then open that file so I can view it.
    ```
 5. Ask your agent to label every chart and number with the business
    question it answers, in plain language (for example "Active
@@ -110,9 +100,7 @@ correct.
    **Prompt:**
 
    ```
-   Label every chart and number with the business question it
-   answers, in plain language — for example 'Active subscriptions' or
-   'MRR by plan tier' — not with raw column or table names.
+   Label every chart and number with the business question it answers, in plain language — for example 'Active subscriptions' or 'MRR by plan tier' — not with raw column or table names.
    ```
 6. Review the first version together. Pick one or two concrete things to
    change — a grouping, a sort order, a missing filter, a second axis — and
@@ -122,9 +110,7 @@ correct.
    **Prompt:**
 
    ```
-   Make this one specific change: <THE ONE CHANGE YOU AND YOUR AGENT
-   JUST AGREED ON — e.g. a grouping, sort order, missing filter, or
-   second axis>. Don't add any other metrics yet.
+   Make this one specific change: <THE ONE CHANGE YOU AND YOUR AGENT JUST AGREED ON — e.g. a grouping, sort order, missing filter, or second axis>. Don't add any other metrics yet.
    ```
 7. Once you are satisfied with the layout, move to Verification below
    before calling the lab done.
@@ -237,9 +223,7 @@ it builds anything.
 **Prompt:**
 
 ```
-Before building anything, tell me which JS charting library you plan
-to use for this dashboard and why, given the output format and chart
-types we already decided on.
+Before building anything, tell me which JS charting library you plan to use for this dashboard and why, given the output format and chart types we already decided on.
 ```
 
 ## Verification

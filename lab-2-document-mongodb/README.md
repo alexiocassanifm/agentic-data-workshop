@@ -69,8 +69,7 @@ comparison.
    **Prompt:**
 
    ```
-   Run the mcp-health-check skill and confirm you can reach my MongoDB
-   Atlas cluster. Tell me what collections currently exist, if any.
+   Run the mcp-health-check skill and confirm you can reach my MongoDB Atlas cluster. Tell me what collections currently exist, if any.
    ```
 
 2. **Ask your agent to re-read the corpus with a document lens.** Point it at
@@ -82,10 +81,7 @@ comparison.
    **Prompt:**
 
    ```
-   Before proposing anything, re-read corpus/README.md and the raw
-   corpus files - not the tables we built in Supabase. Don't use the
-   Lab 1 relational schema as your starting point; think about document
-   boundaries from scratch.
+   Before proposing anything, re-read corpus/README.md and the raw corpus files - not the tables we built in Supabase. Don't use the Lab 1 relational schema as your starting point; think about document boundaries from scratch.
    ```
 
 3. **Ask your agent to run the `schema-proposal` skill for a document
@@ -99,12 +95,7 @@ comparison.
    **Prompt:**
 
    ```
-   Run the schema-proposal skill for a MongoDB document model of this
-   corpus. I want candidate collections, an explicit embed-vs-reference
-   call for each entity with your reasoning, at least one alternative
-   you considered and rejected, and a list of open questions for me to
-   decide - not a one-to-one translation of the Supabase tables into
-   collections.
+   Run the schema-proposal skill for a MongoDB document model of this corpus. I want candidate collections, an explicit embed-vs-reference call for each entity with your reasoning, at least one alternative you considered and rejected, and a list of open questions for me to decide - not a one-to-one translation of the Supabase tables into collections.
    ```
 
 4. **Ask your agent to hold its proposal up against Lab 1's schema, table by
@@ -119,13 +110,7 @@ comparison.
    **Prompt:**
 
    ```
-   First, inspect the live Supabase project via your MCP connection - list
-   its tables, columns, constraints, and foreign keys. Don't rely on
-   anything you might recall from earlier in this conversation. Then go
-   through every table you found one by one. For each, tell me plainly:
-   does this become an embedded field, a field inside a bigger document,
-   or does it stay its own collection here - and why, in one sentence per
-   entity.
+   First, inspect the live Supabase project via your MCP connection - list its tables, columns, constraints, and foreign keys. Don't rely on anything you might recall from earlier in this conversation. Then go through every table you found one by one. For each, tell me plainly: does this become an embedded field, a field inside a bigger document, or does it stay its own collection here - and why, in one sentence per entity.
    ```
 
 5. **Ask your agent to specifically address the usage-log files.** Each
@@ -138,12 +123,7 @@ comparison.
    **Prompt:**
 
    ```
-   Look specifically at the usage-log files (usage-<customer_id>.json).
-   Lay out, side by side, what keeping the existing nested daily_usage
-   structure looks like inside one document per customer, versus
-   flattening it into one document per day (or per day-per-feature) in
-   its own collection. Give me the tradeoffs of each - not just a
-   recommendation.
+   Look specifically at the usage-log files (usage-<customer_id>.json). Lay out, side by side, what keeping the existing nested daily_usage structure looks like inside one document per customer, versus flattening it into one document per day (or per day-per-feature) in its own collection. Give me the tradeoffs of each - not just a recommendation.
    ```
 
 6. **Make the decision point below before moving on.**
@@ -160,13 +140,7 @@ comparison.
    **Prompt:**
 
    ```
-   Build the population pipeline for the document model we just
-   decided on. Read the raw corpus files, apply the same cleanup
-   customers.csv needs (mixed date formats, blank industry /
-   company_size_band / signup_date values, inconsistent country casing,
-   and the two mojibake company names), and load everything into the
-   collections we agreed on. Store dates as proper date values, not as
-   plain strings.
+   Build the population pipeline for the document model we just decided on. Read the raw corpus files, apply the same cleanup customers.csv needs (mixed date formats, blank industry / company_size_band / signup_date values, inconsistent country casing, and the two mojibake company names), and load everything into the collections we agreed on. Store dates as proper date values, not as plain strings.
    ```
 
 8. **Ask your agent to create the indexes the chosen model actually needs**,
@@ -176,9 +150,7 @@ comparison.
    **Prompt:**
 
    ```
-   Create the indexes this model actually needs. For each one, explain
-   what query it makes possible or fast that would otherwise require
-   scanning a whole collection.
+   Create the indexes this model actually needs. For each one, explain what query it makes possible or fast that would otherwise require scanning a whole collection.
    ```
 
 9. **Ask your agent to run the `pipeline-verify` skill** to compare corpus
@@ -188,9 +160,7 @@ comparison.
    **Prompt:**
 
    ```
-   Run the pipeline-verify skill to compare the corpus counts and
-   samples against what actually landed in MongoDB, and spot-check a
-   handful of documents field by field.
+   Run the pipeline-verify skill to compare the corpus counts and samples against what actually landed in MongoDB, and spot-check a handful of documents field by field.
    ```
 
 10. **Ask your agent to write and run 4–5 queries that test the
@@ -204,15 +174,7 @@ comparison.
     **Prompt:**
 
     ```
-    Write and run 4-5 queries that test the natural-vs-awkward
-    comparison directly - for example, give me everything about one
-    customer in a single read, and count open tickets grouped by
-    industry. For each one, tell me whether it was simpler or more
-    convoluted to express than the equivalent query in Supabase. If
-    you're not certain what the equivalent Supabase query would look
-    like, check the live Supabase schema via your MCP connection first,
-    or reason about the equivalent query structurally from that schema -
-    don't guess based on a conversation that may not exist.
+    Write and run 4-5 queries that test the natural-vs-awkward comparison directly - for example, give me everything about one customer in a single read, and count open tickets grouped by industry. For each one, tell me whether it was simpler or more convoluted to express than the equivalent query in Supabase. If you're not certain what the equivalent Supabase query would look like, check the live Supabase schema via your MCP connection first, or reason about the equivalent query structurally from that schema - don't guess based on a conversation that may not exist.
     ```
 
 ## Explicit decision point

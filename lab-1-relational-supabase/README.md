@@ -66,13 +66,7 @@ verify results at the end.
    **Prompt:**
 
    ```
-   Read corpus/README.md, then look at
-   corpus/customers-export/customers.csv,
-   corpus/customers-export/contacts.csv,
-   corpus/customers-export/subscriptions.csv, and a sample of a few
-   files from corpus/contracts/. Summarize back to me: what fields
-   exist in each file, which fields look messy or inconsistent, and how
-   the files relate to each other through customer_id.
+   Read corpus/README.md, then look at corpus/customers-export/customers.csv, corpus/customers-export/contacts.csv, corpus/customers-export/subscriptions.csv, and a sample of a few files from corpus/contracts/. Summarize back to me: what fields exist in each file, which fields look messy or inconsistent, and how the files relate to each other through customer_id.
    ```
 
 2. **Ask for a relational schema proposal.** Ask your agent to propose a
@@ -89,12 +83,7 @@ verify results at the end.
    **Prompt:**
 
    ```
-   Propose a relational schema for the customer, contact, subscription,
-   and contract data in the corpus - entities, fields, data types,
-   primary keys, foreign keys, and which fields should be nullable
-   versus required. Include at least one alternative structure you
-   considered and rejected, and list the open questions you want me to
-   answer before you build anything.
+   Propose a relational schema for the customer, contact, subscription, and contract data in the corpus - entities, fields, data types, primary keys, foreign keys, and which fields should be nullable versus required. Include at least one alternative structure you considered and rejected, and list the open questions you want me to answer before you build anything.
    ```
 
 3. **Ask the agent to argue for the paradigm, not just the schema.**
@@ -113,11 +102,7 @@ verify results at the end.
    **Prompt:**
 
    ```
-   Before we touch constraints, argue explicitly for why a relational
-   model fits this slice of the corpus - the identity of each entity,
-   the fixed relationships between them, and where referential
-   integrity actually matters here. I want to decide whether I agree
-   before we go further.
+   Before we touch constraints, argue explicitly for why a relational model fits this slice of the corpus - the identity of each entity, the fixed relationships between them, and where referential integrity actually matters here. I want to decide whether I agree before we go further.
    ```
 
 4. **Stop here and work through the decision point below before letting
@@ -131,9 +116,7 @@ verify results at the end.
    **Prompt:**
 
    ```
-   Create the tables in Supabase matching the schema I signed off on,
-   including every constraint we decided on: the foreign keys, NOT
-   NULL columns, and uniqueness rules.
+   Create the tables in Supabase matching the schema I signed off on, including every constraint we decided on: the foreign keys, NOT NULL columns, and uniqueness rules.
    ```
 
 6. **Ask your agent to build the population pipeline**: reading
@@ -148,13 +131,7 @@ verify results at the end.
    **Prompt:**
 
    ```
-   Build the pipeline that reads customers.csv, contacts.csv, and
-   subscriptions.csv, extracts the relevant fields from each contract
-   PDF in corpus/contracts/, and inserts all of it into the tables you
-   just created. Before running it at scale, tell me exactly how you
-   plan to handle the messy fields in customers.csv - the mixed date
-   formats, the blanks, and the inconsistent country values - so I can
-   confirm it matches what we decided.
+   Build the pipeline that reads customers.csv, contacts.csv, and subscriptions.csv, extracts the relevant fields from each contract PDF in corpus/contracts/, and inserts all of it into the tables you just created. Before running it at scale, tell me exactly how you plan to handle the messy fields in customers.csv - the mixed date formats, the blanks, and the inconsistent country values - so I can confirm it matches what we decided.
    ```
 
 7. **Ask your agent to run the pipeline** and report row counts per table
@@ -163,8 +140,7 @@ verify results at the end.
    **Prompt:**
 
    ```
-   Run the population pipeline and report the row count for each
-   table as it completes.
+   Run the population pipeline and report the row count for each table as it completes.
    ```
 
 8. **Ask your agent to verify what actually landed** against the source
@@ -177,10 +153,7 @@ verify results at the end.
    **Prompt:**
 
    ```
-   Compare what actually landed in the Supabase tables against the
-   source corpus: row counts against the source CSV and PDF counts, a
-   field-by-field spot check on a handful of records, and a clear pass
-   or fail with concrete numbers rather than a vague 'looks good'.
+   Compare what actually landed in the Supabase tables against the source corpus: row counts against the source CSV and PDF counts, a field-by-field spot check on a handful of records, and a clear pass or fail with concrete numbers rather than a vague 'looks good'.
    ```
 
 ## Explicit decision point

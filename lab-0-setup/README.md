@@ -138,10 +138,7 @@ before connecting anything:
 **Prompt:**
 
 ```
-Check whether Node.js 22.13 or later, and uv/uvx, are installed on
-this machine. If either is missing, walk me through installing it
-for my operating system, then confirm both are ready before we
-continue.
+Check whether Node.js 22.13 or later, and uv/uvx, are installed on this machine. If either is missing, walk me through installing it for my operating system, then confirm both are ready before we continue.
 ```
 
 One rule applies to every "Connect" step in every track below: reload
@@ -195,11 +192,7 @@ prompted.
    **Prompt:**
 
    ```
-   Add an MCP server named `supabase`, in local scope, using the
-   hosted endpoint
-   `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`.
-   Don't add any API key or access token - this server logs in
-   through a browser.
+   Add an MCP server named `supabase`, in local scope, using the hosted endpoint `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`. Don't add any API key or access token - this server logs in through a browser.
    ```
 
 2. **Authenticate Supabase.** Reload or restart Claude Code, then
@@ -213,8 +206,7 @@ prompted.
    **Prompt:**
 
    ```
-   List every table in my Supabase project through the MCP
-   connection, and tell me whether the project is empty.
+   List every table in my Supabase project through the MCP connection, and tell me whether the project is empty.
    ```
 
 4. **Connect MongoDB.**
@@ -222,13 +214,7 @@ prompted.
    **Prompt:**
 
    ```
-   Add an MCP server named `MongoDB`, in local scope, running the
-   command `npx` with arguments `-y mongodb-mcp-server@latest`. Set
-   an environment variable called `MDB_MCP_CONNECTION_STRING` to
-   this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure
-   that value is only ever stored as this environment variable -
-   never pass it as a command-line argument, and never write it
-   into any file that's part of this repository.
+   Add an MCP server named `MongoDB`, in local scope, running the command `npx` with arguments `-y mongodb-mcp-server@latest`. Set an environment variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only ever stored as this environment variable - never pass it as a command-line argument, and never write it into any file that's part of this repository.
    ```
 
 5. **Verify MongoDB.**
@@ -236,8 +222,7 @@ prompted.
    **Prompt:**
 
    ```
-   List the databases and collections you can currently see in
-   MongoDB.
+   List the databases and collections you can currently see in MongoDB.
    ```
 
 6. **Connect Qdrant.**
@@ -245,12 +230,7 @@ prompted.
    **Prompt:**
 
    ```
-   Add an MCP server named `qdrant`, in local scope, running the
-   command `uvx` with the argument `mcp-server-qdrant`. Set two
-   environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD
-   CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API
-   KEY>`. Don't set a collection name - we'll create the real one in
-   Lab 3.
+   Add an MCP server named `qdrant`, in local scope, running the command `uvx` with the argument `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll create the real one in Lab 3.
    ```
 
 7. **Verify Qdrant.** This server only exposes a store tool and a find
@@ -341,10 +321,7 @@ project-level config once you've marked this folder as trusted.
    **Prompt:**
 
    ```
-   Add an MCP server named `supabase` for the hosted endpoint
-   `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`.
-   Don't add any API key or bearer token - this server logs in
-   through a browser.
+   Add an MCP server named `supabase` for the hosted endpoint `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`. Don't add any API key or bearer token - this server logs in through a browser.
    ```
 
 2. **Authenticate Supabase.** Codex detects that this server supports
@@ -358,8 +335,7 @@ project-level config once you've marked this folder as trusted.
    **Prompt:**
 
    ```
-   List every table in my Supabase project through the MCP
-   connection, and tell me whether the project is empty.
+   List every table in my Supabase project through the MCP connection, and tell me whether the project is empty.
    ```
 
 4. **Connect MongoDB.**
@@ -367,13 +343,7 @@ project-level config once you've marked this folder as trusted.
    **Prompt:**
 
    ```
-   Add an MCP server named `MongoDB`, running the command `npx`
-   with arguments `-y mongodb-mcp-server@latest`. Set an environment
-   variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR
-   MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only
-   ever stored as this environment variable - never pass it as a
-   command-line argument, and never write it into any file that's
-   part of this repository.
+   Add an MCP server named `MongoDB`, running the command `npx` with arguments `-y mongodb-mcp-server@latest`. Set an environment variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only ever stored as this environment variable - never pass it as a command-line argument, and never write it into any file that's part of this repository.
    ```
 
 5. **Verify MongoDB.**
@@ -381,8 +351,7 @@ project-level config once you've marked this folder as trusted.
    **Prompt:**
 
    ```
-   List the databases and collections you can currently see in
-   MongoDB.
+   List the databases and collections you can currently see in MongoDB.
    ```
 
 6. **Connect Qdrant.**
@@ -390,11 +359,7 @@ project-level config once you've marked this folder as trusted.
    **Prompt:**
 
    ```
-   Add an MCP server named `qdrant`, running the command `uvx` with
-   the argument `mcp-server-qdrant`. Set two environment variables:
-   `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and
-   `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a
-   collection name - we'll create the real one in Lab 3.
+   Add an MCP server named `qdrant`, running the command `uvx` with the argument `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll create the real one in Lab 3.
    ```
 
 7. **Verify Qdrant.**
@@ -458,11 +423,7 @@ prompted.
    **Prompt:**
 
    ```
-   Add an MCP server named `supabase` to my global OpenCode config,
-   as a remote server for the hosted endpoint
-   `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`.
-   Don't set any headers or API key - this server logs in through a
-   browser.
+   Add an MCP server named `supabase` to my global OpenCode config, as a remote server for the hosted endpoint `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`. Don't set any headers or API key - this server logs in through a browser.
    ```
 
 2. **Authenticate Supabase.** OpenCode detects that this server needs
@@ -476,8 +437,7 @@ prompted.
    **Prompt:**
 
    ```
-   List every table in my Supabase project through the MCP
-   connection, and tell me whether the project is empty.
+   List every table in my Supabase project through the MCP connection, and tell me whether the project is empty.
    ```
 
 4. **Connect MongoDB.**
@@ -485,14 +445,7 @@ prompted.
    **Prompt:**
 
    ```
-   Add an MCP server named `MongoDB` to my global OpenCode config,
-   as a local server running the command `npx` with arguments `-y
-   mongodb-mcp-server@latest`. Set an environment variable called
-   `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS
-   CONNECTION STRING>`. Make sure that value is only ever stored as
-   this environment variable - never pass it as a command-line
-   argument, and never write it into any file that's part of this
-   repository.
+   Add an MCP server named `MongoDB` to my global OpenCode config, as a local server running the command `npx` with arguments `-y mongodb-mcp-server@latest`. Set an environment variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only ever stored as this environment variable - never pass it as a command-line argument, and never write it into any file that's part of this repository.
    ```
 
 5. **Verify MongoDB.**
@@ -500,8 +453,7 @@ prompted.
    **Prompt:**
 
    ```
-   List the databases and collections you can currently see in
-   MongoDB.
+   List the databases and collections you can currently see in MongoDB.
    ```
 
 6. **Connect Qdrant.**
@@ -509,12 +461,7 @@ prompted.
    **Prompt:**
 
    ```
-   Add an MCP server named `qdrant` to my global OpenCode config, as
-   a local server running the command `uvx` with the argument
-   `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL`
-   to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to
-   `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll
-   create the real one in Lab 3.
+   Add an MCP server named `qdrant` to my global OpenCode config, as a local server running the command `uvx` with the argument `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll create the real one in Lab 3.
    ```
 
 7. **Verify Qdrant.**

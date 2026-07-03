@@ -55,9 +55,7 @@ different axes — here, data modeling; there, where to put the vectors.
    **Prompt:**
 
    ```
-   Check that my Supabase and MongoDB connections are still live. Run
-   the mcp-health-check skill, then list every Supabase table with its
-   row count and every MongoDB collection with its document count.
+   Check that my Supabase and MongoDB connections are still live. Run the mcp-health-check skill, then list every Supabase table with its row count and every MongoDB collection with its document count.
    ```
 
 2. Before discussing how Lab 1 or Lab 2 actually went, ask your agent to
@@ -75,15 +73,7 @@ different axes — here, data modeling; there, where to put the vectors.
    **Prompt:**
 
    ```
-   Help me brainstorm a longlist of dimensions for comparing Supabase
-   and MongoDB on Larkspur Flow's use case - things like looking up a
-   customer's full history across support, sales, and billing; keeping
-   billing and contracts consistent; handling the messy signup dates
-   and inconsistent countries in customers.csv; modeling the nested,
-   per-day, per-feature usage-logs; how expensive a common business
-   question is to query in each backend; and how much friction you
-   personally hit while building each pipeline. Just brainstorm - don't
-   score or rank anything yet.
+   Help me brainstorm a longlist of dimensions for comparing Supabase and MongoDB on Larkspur Flow's use case - things like looking up a customer's full history across support, sales, and billing; keeping billing and contracts consistent; handling the messy signup dates and inconsistent countries in customers.csv; modeling the nested, per-day, per-feature usage-logs; how expensive a common business question is to query in each backend; and how much friction you personally hit while building each pipeline. Just brainstorm - don't score or rank anything yet.
    ```
 
 3. **Stop here and complete the decision point below before continuing.**
@@ -101,12 +91,7 @@ different axes — here, data modeling; there, where to put the vectors.
    **Prompt:**
 
    ```
-   Put together a Lab 1 evidence brief for Supabase: the schema as it
-   actually exists right now (tables, keys, relationships), the
-   rejected alternative and reasoning the schema-proposal skill
-   recorded during Lab 1, one or two queries that were genuinely
-   natural to write, one that was awkward, and any pipeline-verify
-   results from that lab.
+   Put together a Lab 1 evidence brief for Supabase: the schema as it actually exists right now (tables, keys, relationships), the rejected alternative and reasoning the schema-proposal skill recorded during Lab 1, one or two queries that were genuinely natural to write, one that was awkward, and any pipeline-verify results from that lab.
    ```
 
 5. Ask your agent to put together the matching **Lab 2 evidence brief**
@@ -118,11 +103,7 @@ different axes — here, data modeling; there, where to put the vectors.
    **Prompt:**
 
    ```
-   Put together the matching Lab 2 evidence brief for MongoDB: the
-   collections and document shapes as they exist right now, the
-   embed-vs-reference calls that were actually made and why (including
-   the rejected alternative from Lab 2's schema-proposal output),
-   natural vs. awkward queries, and pipeline-verify results.
+   Put together the matching Lab 2 evidence brief for MongoDB: the collections and document shapes as they exist right now, the embed-vs-reference calls that were actually made and why (including the rejected alternative from Lab 2's schema-proposal output), natural vs. awkward queries, and pipeline-verify results.
    ```
 
 6. Ask your agent to invoke the `backend-compare` skill, passing it your
@@ -136,11 +117,7 @@ different axes — here, data modeling; there, where to put the vectors.
    **Prompt:**
 
    ```
-   Using the criteria and weights note we saved earlier, invoke the
-   backend-compare skill together with both evidence briefs. Build one
-   self-contained HTML artifact that scores each backend against each
-   criterion, cites the specific Lab 1 or Lab 2 observation behind
-   every score, and ends with an explicit recommendation.
+   Using the criteria and weights note we saved earlier, invoke the backend-compare skill together with both evidence briefs. Build one self-contained HTML artifact that scores each backend against each criterion, cites the specific Lab 1 or Lab 2 observation behind every score, and ends with an explicit recommendation.
    ```
 
 7. Ask your agent to save the artifact — for example as
@@ -150,8 +127,7 @@ different axes — here, data modeling; there, where to put the vectors.
    **Prompt:**
 
    ```
-   Save the comparison artifact as comparison.html inside this lab's
-   folder, and open it so I can read it.
+   Save the comparison artifact as comparison.html inside this lab's folder, and open it so I can read it.
    ```
 
 8. Review it critically before calling it done. For every scored
@@ -165,9 +141,7 @@ different axes — here, data modeling; there, where to put the vectors.
    **Prompt (if a citation looks vague):**
 
    ```
-   The citation for <criterion> isn't specific enough - replace it
-   with an exact table name, query, or pipeline-verify number from Lab
-   1 or Lab 2, or tell me you don't have one.
+   The citation for <criterion> isn't specific enough - replace it with an exact table name, query, or pipeline-verify number from Lab 1 or Lab 2, or tell me you don't have one.
    ```
 
 ## Explicit decision point: fix your criteria and weights before any scoring happens

@@ -99,12 +99,7 @@ before pgvector enters the picture at all.
    **Prompt:**
 
    ```
-   Run the mcp-health-check skill to confirm Qdrant is connected and has
-   write access, not read-only. Then list the files in
-   corpus/support-tickets/, corpus/sales-notes/, and corpus/emails/ with
-   their counts, and propose a small pilot batch — around 15-20 tickets,
-   10 notes, and 8 emails — so we can test the whole pipeline before
-   embedding all 774 documents.
+   Run the mcp-health-check skill to confirm Qdrant is connected and has write access, not read-only. Then list the files in corpus/support-tickets/, corpus/sales-notes/, and corpus/emails/ with their counts, and propose a small pilot batch — around 15-20 tickets, 10 notes, and 8 emails — so we can test the whole pipeline before embedding all 774 documents.
    ```
 
 2. **Settle chunking and metadata.** Ask your agent to confirm that each
@@ -120,12 +115,7 @@ before pgvector enters the picture at all.
    **Prompt:**
 
    ```
-   Check whether each file in the pilot batch is short enough to embed
-   as a single chunk without splitting it, and flag anything unusually
-   long. Then propose the metadata fields to store alongside every
-   vector: source type, source ID, customer_id, and one or two extra
-   fields per type — priority and status for tickets, account executive
-   for notes, subject line for emails.
+   Check whether each file in the pilot batch is short enough to embed as a single chunk without splitting it, and flag anything unusually long. Then propose the metadata fields to store alongside every vector: source type, source ID, customer_id, and one or two extra fields per type — priority and status for tickets, account executive for notes, subject line for emails.
    ```
 
 3. **Create the Qdrant collection and load the pilot batch**, letting
@@ -138,10 +128,7 @@ before pgvector enters the picture at all.
    **Prompt:**
 
    ```
-   Create a Qdrant collection for the pilot batch and load the pilot
-   documents and their metadata into it, letting Qdrant's own built-in
-   embedder handle the text directly. Don't generate embeddings for this
-   batch yourself.
+   Create a Qdrant collection for the pilot batch and load the pilot documents and their metadata into it, letting Qdrant's own built-in embedder handle the text directly. Don't generate embeddings for this batch yourself.
    ```
 
 4. **Verify the pilot landed correctly in Qdrant.** In Claude Code this
@@ -153,17 +140,13 @@ before pgvector enters the picture at all.
    **Prompt (Claude Code):**
 
    ```
-   Run the pipeline-verify skill to check what actually landed in
-   Qdrant, for the pilot batch, against the source files.
+   Run the pipeline-verify skill to check what actually landed in Qdrant, for the pilot batch, against the source files.
    ```
 
    **Prompt (Codex CLI / opencode):**
 
    ```
-   Compare the number of pilot documents I loaded against the point
-   count in Qdrant, spot-check a handful of records field by field
-   against the original files, and report pass or fail with concrete
-   numbers.
+   Compare the number of pilot documents I loaded against the point count in Qdrant, spot-check a handful of records field by field against the original files, and report pass or fail with concrete numbers.
    ```
 
 5. **Once the pilot checks out, scale up to the full 774 documents in
@@ -172,8 +155,7 @@ before pgvector enters the picture at all.
    **Prompt:**
 
    ```
-   Now that the pilot load checks out, scale up to the full 774
-   documents in Qdrant.
+   Now that the pilot load checks out, scale up to the full 774 documents in Qdrant.
    ```
 
 6. **Run the comparison queries against Qdrant.** Ask your agent to run
@@ -189,13 +171,7 @@ before pgvector enters the picture at all.
    **Prompt:**
 
    ```
-   Run the query 'customers frustrated about single sign-on breaking
-   their login' against Qdrant, and show me the top results with a
-   short snippet and similarity score for each. Then run a second query
-   that could reasonably match both a support ticket and a sales note,
-   and check whether Qdrant surfaces more than one document type, not
-   just the most literal match. Keep a note of both queries' exact
-   wording and results — we'll run the same two against pgvector next.
+   Run the query 'customers frustrated about single sign-on breaking their login' against Qdrant, and show me the top results with a short snippet and similarity score for each. Then run a second query that could reasonably match both a support ticket and a sales note, and check whether Qdrant surfaces more than one document type, not just the most literal match. Keep a note of both queries' exact wording and results — we'll run the same two against pgvector next.
    ```
 
 ### Part 2 — pgvector second
@@ -214,9 +190,7 @@ for Qdrant.
    **Prompt:**
 
    ```
-   Run the mcp-health-check skill to confirm Supabase is connected and
-   points at my Lab 1 project. Separately, confirm you have my Voyage AI
-   API key available for this lab.
+   Run the mcp-health-check skill to confirm Supabase is connected and points at my Lab 1 project. Separately, confirm you have my Voyage AI API key available for this lab.
    ```
 
 8. **Pick and record the embedding model.** Ask your agent to check
@@ -228,9 +202,7 @@ for Qdrant.
    **Prompt:**
 
    ```
-   Check Voyage AI's current documentation for the recommended
-   general-purpose text embedding model, and tell me the exact model
-   name and the vector dimensionality it produces.
+   Check Voyage AI's current documentation for the recommended general-purpose text embedding model, and tell me the exact model name and the vector dimensionality it produces.
    ```
 
 9. **Generate embeddings for the pilot batch.** Ask your agent to call
@@ -243,12 +215,7 @@ for Qdrant.
    **Prompt:**
 
    ```
-   Write and run a short script that calls the Voyage embeddings API
-   directly on the pilot batch documents — not through any database's
-   built-in embedder — batching many documents into each API call
-   rather than one call per document. Confirm how many documents got
-   embedded and that the vector dimensionality matches what we
-   expect.
+   Write and run a short script that calls the Voyage embeddings API directly on the pilot batch documents — not through any database's built-in embedder — batching many documents into each API call rather than one call per document. Confirm how many documents got embedded and that the vector dimensionality matches what we expect.
    ```
 
 10. **Enable pgvector, create the table, and load the pilot batch.** Ask
@@ -264,12 +231,7 @@ for Qdrant.
     **Prompt:**
 
     ```
-    Enable the pgvector extension on my Lab 1 Supabase project if it
-    isn't already, create a new table for these embeddings sized to the
-    same dimensionality, load the pilot vectors and metadata into it, and
-    add an appropriate index. Tell me briefly why you picked that index
-    type, and if it's one that trains on existing data, confirm you're
-    building it after the rows are loaded, not on an empty table.
+    Enable the pgvector extension on my Lab 1 Supabase project if it isn't already, create a new table for these embeddings sized to the same dimensionality, load the pilot vectors and metadata into it, and add an appropriate index. Tell me briefly why you picked that index type, and if it's one that trains on existing data, confirm you're building it after the rows are loaded, not on an empty table.
     ```
 
 11. **Verify the pilot landed correctly in pgvector.** In Claude Code
@@ -281,17 +243,13 @@ for Qdrant.
     **Prompt (Claude Code):**
 
     ```
-    Run the pipeline-verify skill to check what actually landed in
-    pgvector, for the pilot batch, against the source files.
+    Run the pipeline-verify skill to check what actually landed in pgvector, for the pilot batch, against the source files.
     ```
 
     **Prompt (Codex CLI / opencode):**
 
     ```
-    Compare the number of pilot documents I embedded against the row
-    count in the pgvector table, spot-check a handful of records field
-    by field against the original files, and report pass or fail with
-    concrete numbers.
+    Compare the number of pilot documents I embedded against the row count in the pgvector table, spot-check a handful of records field by field against the original files, and report pass or fail with concrete numbers.
     ```
 
 12. **Once the pilot checks out, scale up to the full 774 documents**,
@@ -301,9 +259,7 @@ for Qdrant.
     **Prompt:**
 
     ```
-    Now that the pilot load checks out, scale up to the full 774
-    documents, batching the Voyage calls to stay within its rate limit,
-    and load the resulting vectors and metadata into pgvector.
+    Now that the pilot load checks out, scale up to the full 774 documents, batching the Voyage calls to stay within its rate limit, and load the resulting vectors and metadata into pgvector.
     ```
 
 13. **Run the same comparison queries against pgvector.** Ask your agent
@@ -316,13 +272,7 @@ for Qdrant.
     **Prompt:**
 
     ```
-    Run the query 'customers frustrated about single sign-on breaking
-    their login' against pgvector, and show me the top results with a
-    short snippet and similarity score for each. Then run the same
-    second, cross-genre query you used against Qdrant in Part 1, and
-    check whether pgvector surfaces more than one document type, not
-    just the most literal match. Note both sets of results so we can
-    compare them against what Qdrant returned.
+    Run the query 'customers frustrated about single sign-on breaking their login' against pgvector, and show me the top results with a short snippet and similarity score for each. Then run the same second, cross-genre query you used against Qdrant in Part 1, and check whether pgvector surfaces more than one document type, not just the most literal match. Note both sets of results so we can compare them against what Qdrant returned.
     ```
 
 ### Part 3 — Compare and decide
@@ -336,10 +286,7 @@ for Qdrant.
     **Prompt:**
 
     ```
-    Summarize what you noticed operating each backend in this lab —
-    which one needed more explicit decisions from me, which one hid
-    more of the mechanism, and how latency and result quality
-    compared.
+    Summarize what you noticed operating each backend in this lab — which one needed more explicit decisions from me, which one hid more of the mechanism, and how latency and result quality compared.
     ```
 
 ### Optional bonus — true apples-to-apples
@@ -366,12 +313,7 @@ optional, not a gate you need to pass before Qdrant can be considered
     **Prompt:**
 
     ```
-    Redo the Qdrant load: write the Voyage vectors we already generated
-    for the full 774 documents directly into Qdrant via its API, going
-    around the store tool's own embedding step. Then re-run both
-    comparison queries — using that same direct path for retrieval, not
-    the Qdrant MCP's own query tool — and tell me whether or how the
-    results shifted compared to Part 1.
+    Redo the Qdrant load: write the Voyage vectors we already generated for the full 774 documents directly into Qdrant via its API, going around the store tool's own embedding step. Then re-run both comparison queries — using that same direct path for retrieval, not the Qdrant MCP's own query tool — and tell me whether or how the results shifted compared to Part 1.
     ```
 
 ## Explicit decision point
