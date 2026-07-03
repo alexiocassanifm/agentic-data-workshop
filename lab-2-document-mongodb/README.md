@@ -37,15 +37,6 @@ comparison.
 > second lesson. With it, Lab 1 and Lab 2 together are exactly the
 > comparison the Bonus lab builds on.
 
-## Duration
-
-Approximately 75 minutes:
-
-- ~20 minutes: connection check + document model proposal and discussion
-- ~10 minutes: the explicit decision point below
-- ~25 minutes: pipeline build and population
-- ~20 minutes: verification, natural-vs-awkward queries, index check
-
 ## Prerequisites
 
 - **[`../corpus/`](../corpus/)** — the shared corpus and its

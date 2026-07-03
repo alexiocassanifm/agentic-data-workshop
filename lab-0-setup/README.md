@@ -37,10 +37,6 @@ By the end of this lab you will have:
 - confirmation, both in each provider's own web UI and by asking your
   agent, that every backend is reachable and currently empty.
 
-## Duration
-
-75-90 minutes.
-
 ## Prerequisites
 
 - One of the three supported coding agents: Claude Code, OpenAI Codex
@@ -54,7 +50,6 @@ By the end of this lab you will have:
   separate sign-ups.
 - A password manager, or at minimum a private notes file kept outside
   this repository, to hold four sets of credentials.
-- About 75-90 minutes of uninterrupted time.
 
 This is the first lab of the day, so there is no previous lab to have
 completed. If you want a preview of the corpus you'll be working with
@@ -74,7 +69,7 @@ Qdrant Cloud URL plus API key, and a Voyage AI API key.
 
 ### Supabase
 
-1. Go to supabase.com, sign up, and create a new project: pick an
+1. Go to [supabase.com](https://supabase.com), sign up, and create a new project: pick an
    organization, a project name, a database password (store it safely
    even though the MCP setup below won't need it directly), and a
    region. Wait for provisioning to finish, a couple of minutes.
@@ -86,7 +81,7 @@ Qdrant Cloud URL plus API key, and a Voyage AI API key.
 
 ### MongoDB Atlas
 
-3. Go to mongodb.com/cloud/atlas, sign up, and create a free (M0)
+3. Go to [mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas), sign up, and create a free (M0)
    cluster.
 4. Under Database Access, create a database user with a username and
    password, and give it "Read and write to any database" access - Lab
@@ -106,14 +101,14 @@ Qdrant Cloud URL plus API key, and a Voyage AI API key.
 
 ### Qdrant Cloud
 
-7. Go to cloud.qdrant.io, sign up, and create a free cluster.
+7. Go to [cloud.qdrant.io](https://cloud.qdrant.io), sign up, and create a free cluster.
 8. From the cluster's Data Access / API Keys area, generate an API key
    and copy it immediately - it's shown once - along with the
    cluster's URL.
 
 ### Voyage AI
 
-9. Go to voyageai.com, sign up, and from the dashboard generate a new
+9. Go to [voyageai.com](https://www.voyageai.com), sign up, and from the dashboard generate a new
    API key. Copy it immediately. There's no MCP server for Voyage AI:
    Lab 3 is where this key gets used, through a small script your
    agent writes at that point. For now, just keep it alongside your
@@ -190,7 +185,7 @@ Now jump to your track: [Claude Code](#track-claude-code) ·
 - Windows (PowerShell): `irm https://claude.ai/install.ps1 | iex`
 - Homebrew: `brew install --cask claude-code`
 - WinGet: `winget install Anthropic.ClaudeCode`
-- Full instructions and troubleshooting: code.claude.com/docs/en/overview
+- Full instructions and troubleshooting: [code.claude.com/docs/en/overview](https://code.claude.com/docs/en/overview)
 
 Start it with `claude` inside this repository and log in when
 prompted.
@@ -328,7 +323,7 @@ done, so you can confirm no literal secret ended up in the file.
   `powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"`
 - npm: `npm install -g @openai/codex`
 - Homebrew: `brew install --cask codex`
-- Full instructions: developers.openai.com/codex/quickstart
+- Full instructions: [developers.openai.com/codex/quickstart](https://developers.openai.com/codex/quickstart)
 
 Start it with `codex` inside this repository and sign in when
 prompted.
@@ -452,8 +447,8 @@ a session.
 - npm: `npm install -g opencode-ai`
 - Homebrew: `brew install anomalyco/tap/opencode`
 - Windows: `scoop install opencode` or `choco install opencode`
-- Download page and full instructions: opencode.ai/download,
-  opencode.ai/docs
+- Download page and full instructions: [opencode.ai/download](https://opencode.ai/download),
+  [opencode.ai/docs](https://opencode.ai/docs)
 
 Start it with `opencode` inside this repository and sign in when
 prompted.
@@ -631,7 +626,7 @@ previous attempt at this lab is still sitting there.
   no personal access token.** Older guides describing a
   personal-access-token flow are describing a legacy method you don't
   need here. If what you see doesn't match this README, check the
-  current docs at supabase.com/docs/guides/ai-tools/mcp.
+  current docs at [supabase.com/docs/guides/ai-tools/mcp](https://supabase.com/docs/guides/ai-tools/mcp).
 - **The Qdrant MCP server can't list or count anything.** It only
   exposes a store tool and a find tool, so don't expect your agent to
   "list collections" the way it can for Supabase and MongoDB. Treat

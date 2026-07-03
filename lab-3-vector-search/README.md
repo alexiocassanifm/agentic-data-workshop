@@ -51,27 +51,6 @@ put into production for this use case.
 > comparison — a counterpart to the Bonus lab's Supabase-vs-MongoDB
 > artifact, not an input to it.
 
-## Duration
-
-Approximately 90 minutes for the required Parts 1 through 3, plus roughly
-15 more minutes if you do the optional bonus:
-
-- ~25 min: **Part 1 — Qdrant first.** Connection check, picking a pilot
-  batch, chunking and metadata, creating the collection and loading the
-  pilot letting Qdrant embed for you, verifying it landed, scaling to the
-  full 774 documents, and running the comparison queries against Qdrant
-  alone.
-- ~40 min: **Part 2 — pgvector second.** Connection and Voyage API key
-  check, picking the embedding model, generating Voyage embeddings and
-  loading the pilot into pgvector, verifying it landed, scaling to the
-  full 774 documents, and running the same comparison queries against
-  pgvector alone.
-- ~25 min: **Part 3 — compare and decide.** Summarizing what you noticed
-  operating each backend, then writing the recommendation.
-- ~15 min (optional): **Bonus — true apples-to-apples.** Rewriting the
-  Qdrant load with the same Voyage vectors used in pgvector and re-running
-  both queries.
-
 ## Prerequisites
 
 - **Lab 0 completed**, specifically: a live Supabase MCP connection

@@ -22,11 +22,9 @@ live tables in Supabase built from that schema, a pipeline that populated
 those tables from the raw corpus files, and a way to check that what
 landed in the database actually matches what was in the source.
 
-## Duration
-
-Approximately 90 minutes. Designed to run live with a facilitator in a
-group setting, but every step below is self-contained enough to repeat
-solo afterward using this same README.
+Designed to run live with a facilitator in a group setting, but every
+step below is self-contained enough to repeat solo afterward using this
+same README.
 
 ## Prerequisites
 

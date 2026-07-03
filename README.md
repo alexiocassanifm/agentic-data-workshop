@@ -35,20 +35,18 @@ A facilitator runs this live with a group, start to finish, in one day. It
 is also designed to be repeatable on your own afterward, at your own pace,
 using this same README as your guide.
 
-| # | Folder | What happens there | Suggested duration |
-|---|---|---|---|
-| — | [`corpus/`](corpus/README.md) | The shared data corpus used by every lab below | reference material |
-| 0 | [`lab-0-setup/`](lab-0-setup/README.md) | Create the four backend accounts, connect your agent to each, and verify what it can see | ~75–90 min |
-| 1 | [`lab-1-relational-supabase/`](lab-1-relational-supabase/README.md) | Agent-led schema design and data load into Supabase/Postgres — the rigid, relational paradigm | ~90 min |
-| 2 | [`lab-2-document-mongodb/`](lab-2-document-mongodb/README.md) | The same corpus, remodeled and loaded into MongoDB — the schemaless, document paradigm | ~75 min |
-| 3 | [`lab-3-vector-search/`](lab-3-vector-search/README.md) | Semantic search over the unstructured parts of the corpus, tried in Qdrant and in pgvector on the same Postgres database | ~90 min |
-| 4 | [`lab-4-dashboard/`](lab-4-dashboard/README.md) | An agent-built dashboard drawing on the backends you've populated | ~60 min |
-| Bonus | [`bonus-compare-backends/`](bonus-compare-backends/README.md) | A reasoned comparison artifact scoring the backends against criteria you define yourself | ~45–60 min |
+| # | Folder | What happens there |
+|---|---|---|
+| — | [`corpus/`](corpus/README.md) | The shared data corpus used by every lab below |
+| 0 | [`lab-0-setup/`](lab-0-setup/README.md) | Create the four backend accounts, connect your agent to each, and verify what it can see |
+| 1 | [`lab-1-relational-supabase/`](lab-1-relational-supabase/README.md) | Agent-led schema design and data load into Supabase/Postgres — the rigid, relational paradigm |
+| 2 | [`lab-2-document-mongodb/`](lab-2-document-mongodb/README.md) | The same corpus, remodeled and loaded into MongoDB — the schemaless, document paradigm |
+| 3 | [`lab-3-vector-search/`](lab-3-vector-search/README.md) | Semantic search over the unstructured parts of the corpus, tried in Qdrant and in pgvector on the same Postgres database |
+| 4 | [`lab-4-dashboard/`](lab-4-dashboard/README.md) | An agent-built dashboard drawing on the backends you've populated |
+| Bonus | [`bonus-compare-backends/`](bonus-compare-backends/README.md) | A reasoned comparison artifact scoring the backends against criteria you define yourself |
 
-This is a full day of workshop time — roughly six to seven hours of
-hands-on work across the sessions above, plus breaks and lunch. Facilitators
-should plan pacing accordingly; the per-lab durations are a guide, not a
-strict clock.
+This is a full day of workshop, spanning the sessions above plus breaks
+and lunch. Facilitators should plan pacing accordingly.
 
 ## Prerequisites
 
@@ -103,10 +101,9 @@ on), so it's worth staying roughly in step with the group, especially
 across the Lab 0 → Lab 1 → Lab 2 handoffs.
 
 **On your own, at home:** every lab is self-contained and written to be
-followed without a facilitator present. Start at [`lab-0-setup/`](lab-0-setup/README.md),
-work through the labs in order, and use the suggested durations above to
-plan your own sessions — the whole path does not need to be done in one
-sitting.
+followed without a facilitator present. Start at [`lab-0-setup/`](lab-0-setup/README.md)
+and work through the labs in order — the whole path does not need to be
+done in one sitting.
 
 ## Possible future additions
 

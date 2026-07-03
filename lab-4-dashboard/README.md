@@ -10,11 +10,6 @@ will have either a small running web dashboard or a single self-contained
 HTML file, plus direct proof, via a database query, that its numbers are
 correct.
 
-## Duration
-About 60 minutes: roughly 10 minutes deciding what to measure, 35–40 minutes
-building and iterating with the agent, and 10–15 minutes verifying the result
-against the database.
-
 ## Prerequisites
 - The shared corpus at [`../corpus/`](../corpus/) — for reference only, you
   will not touch it directly in this lab.

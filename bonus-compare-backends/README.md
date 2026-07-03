@@ -24,10 +24,6 @@ different axes — here, data modeling; there, where to put the vectors.
 > agent, through the `backend-compare` skill, is built to enforce this
 > and should refuse to proceed to scoring without it.
 
-## Duration
-
-45–60 minutes. This is the synthesis lab that closes the workshop.
-
 ## Prerequisites
 
 - **Lab 1 completed** — a relational schema populated on Supabase, with a
