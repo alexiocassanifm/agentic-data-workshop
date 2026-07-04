@@ -21,8 +21,9 @@ stop - don't do it anyway.
 
 ## When this applies
 
-- Right after Lab 0 setup, to confirm all three connections work before the
-  day moves on.
+- Right after connecting a new backend in the lab that sets it up
+  (Supabase in Lab 1, MongoDB in Lab 2, Qdrant in Lab 3), to confirm the
+  connection actually works before moving on.
 - At the start of any later lab, to confirm the connection that lab needs
   is still alive.
 - Any time the student reports something looks wrong, or asks whether a
@@ -68,9 +69,9 @@ project.
 
 Ask the MongoDB MCP connection to list databases first.
 
-- Right after Lab 0, expect to see only MongoDB's own built-in system
-  databases (things like admin, local, config) and no database of the
-  student's own yet. Report this directly - don't lump system databases in
+- Right after connecting MongoDB in Lab 2, expect to see only MongoDB's
+  own built-in system databases (things like admin, local, config) and no
+  database of the student's own yet. Report this directly - don't lump system databases in
   with "your data" as if they were something the student created, and
   don't go looking for collections inside a database that doesn't exist
   yet.
@@ -128,9 +129,8 @@ workshop rather than a generic "check your credentials":
   connection string, or cluster URL configured against the one the student
   meant to use.
 - **A backend was never configured at all.** Say so plainly and point back
-  to Lab 0, Part 2, the student's chosen agent track (Claude Code, Codex
-  CLI, or OpenCode) - each track's steps 1-3 cover Supabase, step 4-5
-  cover MongoDB, and steps 6-7 cover Qdrant - rather than assuming a
+  to that backend's own "Backend setup" section - Supabase is in Lab 1,
+  MongoDB is in Lab 2, Qdrant is Part 0 of Lab 3 - rather than assuming a
   credentials problem.
 - **Credentials are rejected outright** (MongoDB authentication failure,
   Qdrant API key rejected). Likely a typo when the password was pasted

@@ -53,15 +53,17 @@ put into production for this use case.
 
 ## Prerequisites
 
-- **Lab 0 completed**, specifically: a live Supabase MCP connection
-  pointing at your Lab 1 project, a live Qdrant Cloud MCP connection with
-  write access (not read-only), and a Voyage AI API key your agent can
-  use. See [`../lab-0-setup/README.md`](../lab-0-setup/README.md).
-- **Lab 1 completed.** This lab writes pgvector data into the same
-  Supabase/Postgres project you built in Lab 1 — the new vectors will
-  live alongside the `customers`, `contacts`, and `subscriptions` tables
-  you already created. See
+- **Lab 0 completed**: git, this repository, and your coding agent are
+  installed and running. See
+  [`../lab-0-setup/README.md`](../lab-0-setup/README.md).
+- **Lab 1 completed**, with its Supabase project and MCP connection still
+  live. This lab writes pgvector data into that same Supabase/Postgres
+  project — the new vectors will live alongside the `customers`,
+  `contacts`, and `subscriptions` tables you already created. See
   [`../lab-1-relational-supabase/README.md`](../lab-1-relational-supabase/README.md).
+  Qdrant and Voyage AI are new to this lab: Part 0 below creates and
+  connects Qdrant, and Part 2 creates your Voyage AI account, right where
+  it's first needed.
 - **Lab 2 (MongoDB) is not required for this lab.** Nothing here depends
   on what you built there, though it's assumed you've done it as part of
   the same day.
@@ -79,6 +81,157 @@ put into production for this use case.
   agent.
 
 ## Guided steps
+
+### Part 0 — Backend setup: Qdrant
+
+Qdrant is new to this lab — nothing earlier connected it. Before Part 1
+below: confirm your machine has what Qdrant's MCP server needs, create a
+Qdrant Cloud cluster, and connect your agent to it. (Voyage AI's account
+and API key come later, at the start of Part 2, since that's the first
+point this lab actually needs it.)
+
+**Check your machine is ready.** The Qdrant MCP server needs `uv`/`uvx`.
+Ask your agent to check before connecting anything:
+
+**Prompt:**
+
+```
+Check whether uv/uvx is installed on this machine. If it's missing, walk me through installing it for my operating system, then confirm it's ready before we continue.
+```
+
+**Create your Qdrant Cloud cluster.**
+
+1. Go to [cloud.qdrant.io](https://cloud.qdrant.io), sign up, and create a free cluster.
+2. From the cluster's Data Access / API Keys area, generate an API key
+   and copy it immediately - it's shown once - along with the cluster's
+   URL.
+
+**Connect the Qdrant MCP server.** Pick the block below for the agent
+you're using, then reload or restart your agent before verifying.
+
+**Claude Code:**
+
+**Prompt:**
+
+```
+Add an MCP server named `qdrant`, in local scope, running the command `uvx` with the argument `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll create the real one later in this lab.
+```
+
+**Codex CLI:**
+
+**Prompt:**
+
+```
+Add an MCP server named `qdrant`, running the command `uvx` with the argument `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll create the real one later in this lab.
+```
+
+**OpenCode:**
+
+**Prompt:**
+
+```
+Add an MCP server named `qdrant` to my global OpenCode config, as a local server running the command `uvx` with the argument `mcp-server-qdrant`. Set two environment variables: `QDRANT_URL` to `<YOUR QDRANT CLOUD CLUSTER URL>`, and `QDRANT_API_KEY` to `<YOUR QDRANT CLOUD API KEY>`. Don't set a collection name - we'll create the real one later in this lab.
+```
+
+**Verify.** This server only exposes a store tool and a find tool - there's
+no "list collections" tool - so the strongest confirmation you can get
+here is that the connection is alive; the Qdrant Cloud dashboard is the
+source of truth for what it contains.
+
+**Prompt:**
+
+```
+Confirm the qdrant MCP server is connected and ready to use.
+```
+
+Also open the Qdrant Cloud dashboard directly: it should show zero
+collections and a healthy cluster status.
+
+**What your config looks like once Lab 1, Lab 2, and this Qdrant
+connection are all in place** (Voyage AI has no MCP server, so it never
+appears here):
+
+For Claude Code, `~/.claude.json` holds a local-scoped entry nested under
+your project's own path:
+
+```json
+{
+  "projects": {
+    "/path/to/this/repo": {
+      "mcpServers": {
+        "supabase": {
+          "type": "http",
+          "url": "https://mcp.supabase.com/mcp?project_ref=your-project-reference"
+        },
+        "MongoDB": {
+          "command": "npx",
+          "args": ["-y", "mongodb-mcp-server@latest"],
+          "env": {
+            "MDB_MCP_CONNECTION_STRING": "<your MongoDB Atlas connection string>"
+          }
+        },
+        "qdrant": {
+          "command": "uvx",
+          "args": ["mcp-server-qdrant"],
+          "env": {
+            "QDRANT_URL": "<your Qdrant Cloud cluster URL>",
+            "QDRANT_API_KEY": "<your Qdrant Cloud API key>"
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+For Codex CLI, `~/.codex/config.toml` holds:
+
+```toml
+[mcp_servers.supabase]
+url = "https://mcp.supabase.com/mcp?project_ref=your-project-reference"
+
+[mcp_servers.MongoDB]
+command = "npx"
+args = ["-y", "mongodb-mcp-server@latest"]
+[mcp_servers.MongoDB.env]
+MDB_MCP_CONNECTION_STRING = "<your MongoDB Atlas connection string>"
+
+[mcp_servers.qdrant]
+command = "uvx"
+args = ["mcp-server-qdrant"]
+[mcp_servers.qdrant.env]
+QDRANT_URL = "<your Qdrant Cloud cluster URL>"
+QDRANT_API_KEY = "<your Qdrant Cloud API key>"
+```
+
+For OpenCode, `~/.config/opencode/opencode.json` holds:
+
+```json
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "supabase": {
+      "type": "remote",
+      "url": "https://mcp.supabase.com/mcp?project_ref=your-project-reference"
+    },
+    "MongoDB": {
+      "type": "local",
+      "command": ["npx", "-y", "mongodb-mcp-server@latest"],
+      "environment": {
+        "MDB_MCP_CONNECTION_STRING": "<your MongoDB Atlas connection string>"
+      }
+    },
+    "qdrant": {
+      "type": "local",
+      "command": ["uvx", "mcp-server-qdrant"],
+      "environment": {
+        "QDRANT_URL": "<your Qdrant Cloud cluster URL>",
+        "QDRANT_API_KEY": "<your Qdrant Cloud API key>"
+      }
+    }
+  }
+}
+```
 
 ### Part 1 — Qdrant first
 
@@ -181,16 +334,25 @@ every vector that goes in has to come from somewhere — Voyage AI, in this
 lab. Build it, load it, and query it end to end the same way you just did
 for Qdrant.
 
-7. **Check the Supabase connection, and confirm your Voyage AI API key.**
-   Ask your agent to run the `mcp-health-check` skill (or the manual
-   equivalent) and confirm the Supabase MCP connection points at your
-   Lab 1 project. Separately, confirm a Voyage AI API key is actually
-   available to it — you'll need it for everything in this Part.
+7. **Create your Voyage AI account, then check the Supabase connection.**
+   Voyage is new to this lab — nothing earlier set it up, and it's needed
+   starting right here, not before. Go to
+   [voyageai.com](https://www.voyageai.com), sign up, and from the
+   dashboard generate a new API key. Copy it immediately and store it
+   safely alongside your other secrets — there's no MCP server for Voyage
+   AI, so every step below that needs it calls its API directly through a
+   small script your agent writes. When you hand the key to your agent
+   below, ask it to hold the value as an environment variable rather than
+   writing it directly into that script or any other file in this
+   repository. Then ask your agent to run the
+   `mcp-health-check` skill (or the manual equivalent) and confirm the
+   Supabase MCP connection points at your Lab 1 project, and separately
+   confirm your new Voyage AI API key is available to it.
 
    **Prompt:**
 
    ```
-   Run the mcp-health-check skill to confirm Supabase is connected and points at my Lab 1 project. Separately, confirm you have my Voyage AI API key available for this lab.
+   Run the mcp-health-check skill to confirm Supabase is connected and points at my Lab 1 project. Separately, confirm you have my Voyage AI API key available for this lab: <YOUR VOYAGE AI API KEY>.
    ```
 
 8. **Pick and record the embedding model.** Ask your agent to check
@@ -402,10 +564,16 @@ went wrong.
   semantic search itself. If you do the optional bonus, query directly,
   the same way, every time.
 - **A read-only MCP connection quietly removes the write tools.** If
-  your Qdrant or Supabase MCP connection from Lab 0 was configured
-  read-only, the tools needed to create a collection or table, or write
-  points or rows, may not be available at all, or will fail partway
-  through. Confirm write access on both sides before starting.
+  your Qdrant connection from Part 0 or your Supabase connection from
+  Lab 1 was configured read-only, the tools needed to create a collection
+  or table, or write points or rows, may not be available at all, or will
+  fail partway through. Confirm write access on both sides before
+  starting.
+- **The Qdrant MCP server can't list or count anything.** It only exposes
+  a store tool and a find tool, so don't expect your agent to "list
+  collections" the way it can for Supabase and MongoDB. Treat the Qdrant
+  Cloud dashboard as the source of truth for "is it empty and ready" and
+  for confirming the points count once you've loaded data.
 - **Dimension or distance mismatch.** The pgvector column always needs
   the exact dimensionality your Voyage model actually produces. The
   Qdrant collection, under the default path in Part 1, sizes itself
@@ -424,9 +592,9 @@ went wrong.
   Keep chunking identical on both sides.
 - **Cluster or project idle suspension.** Free-tier Qdrant Cloud clusters
   and Supabase projects can pause themselves after roughly a week of no
-  activity. If you're repeating this lab at home some days after Lab 0,
-  check both dashboards are awake before asking your agent to do
-  anything.
+  activity. If you're repeating this lab at home some days after you
+  first connected them, check both dashboards are awake before asking
+  your agent to do anything.
 - **Treating the pilot batch as the final answer.** The pilot exists to
   catch mistakes cheaply. Make sure your agent actually scales up to the
   full 774 documents — or explicitly tells you why it didn't — before you
@@ -455,11 +623,12 @@ outcome in this lab is also reachable by asking directly:
   row count in the pgvector table), spot-check a handful of records
   field by field against the original files, and report pass or fail
   with concrete numbers."
-- Confirm both your Supabase and Qdrant MCP connections were configured
-  for whichever tool you're using back in Lab 0 — Codex CLI and opencode
-  each use their own configuration file format for MCP servers, and the
-  connection step differs slightly between tools, but every step in this
-  lab works identically once both connections are live.
+- Confirm your Supabase MCP connection (set up in Lab 1) and your Qdrant
+  MCP connection (set up in Part 0 above) were both configured for
+  whichever tool you're using — Codex CLI and opencode each use their own
+  configuration file format for MCP servers, and the connection step
+  differs slightly between tools, but every step in this lab works
+  identically once both connections are live.
 - The optional bonus step (writing Voyage vectors directly into Qdrant,
   bypassing the store tool's own embedding step) is not a
   Claude-Code-specific technique — it's your agent calling Qdrant's API

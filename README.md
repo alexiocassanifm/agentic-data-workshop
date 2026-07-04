@@ -38,10 +38,10 @@ using this same README as your guide.
 | # | Folder | What happens there |
 |---|---|---|
 | — | [`corpus/`](corpus/README.md) | The shared data corpus used by every lab below |
-| 0 | [`lab-0-setup/`](lab-0-setup/README.md) | Create the four backend accounts, connect your agent to each, and verify what it can see |
-| 1 | [`lab-1-relational-supabase/`](lab-1-relational-supabase/README.md) | Agent-led schema design and data load into Supabase/Postgres — the rigid, relational paradigm |
-| 2 | [`lab-2-document-mongodb/`](lab-2-document-mongodb/README.md) | The same corpus, remodeled and loaded into MongoDB — the schemaless, document paradigm |
-| 3 | [`lab-3-vector-search/`](lab-3-vector-search/README.md) | Semantic search over the unstructured parts of the corpus, tried in Qdrant and in pgvector on the same Postgres database |
+| 0 | [`lab-0-setup/`](lab-0-setup/README.md) | Install git, clone this repo, and install and start your AI coding agent — no backend accounts yet |
+| 1 | [`lab-1-relational-supabase/`](lab-1-relational-supabase/README.md) | Create and connect Supabase, then agent-led schema design and data load into Supabase/Postgres — the rigid, relational paradigm |
+| 2 | [`lab-2-document-mongodb/`](lab-2-document-mongodb/README.md) | Create and connect MongoDB Atlas, then the same corpus, remodeled and loaded into MongoDB — the schemaless, document paradigm |
+| 3 | [`lab-3-vector-search/`](lab-3-vector-search/README.md) | Create and connect Qdrant and Voyage AI, then semantic search over the unstructured parts of the corpus, tried in Qdrant and in pgvector on the same Postgres database |
 | 4 | [`lab-4-dashboard/`](lab-4-dashboard/README.md) | An agent-built dashboard drawing on the backends you've populated |
 | Bonus | [`bonus-compare-backends/`](bonus-compare-backends/README.md) | A reasoned comparison artifact scoring the backends against criteria you define yourself |
 
@@ -50,15 +50,18 @@ and lunch. Facilitators should plan pacing accordingly.
 
 ## Prerequisites
 
-**Four free-tier accounts**, all created and connected during Lab 0:
+**git and a terminal.** Lab 0 walks through installing git if you don't
+already have it, and cloning this repository.
 
-- **Supabase** — used in Lab 1 and again in Lab 3 (pgvector)
-- **MongoDB Atlas** — used in Lab 2
-- **Qdrant Cloud** — used in Lab 3
-- **Voyage AI** — used to generate embeddings for Lab 3
+**Four free-tier accounts**, created and connected incrementally — one
+per lab, right before each is first needed, not all upfront in Lab 0:
 
-No account needs to be created before the workshop starts; Lab 0 walks
-through all four.
+- **Supabase** — created and connected in Lab 1, used again in Lab 3 (pgvector)
+- **MongoDB Atlas** — created and connected in Lab 2
+- **Qdrant Cloud** — created and connected in Lab 3
+- **Voyage AI** — created in Lab 3, used to generate embeddings
+
+No account needs to be created before the workshop starts.
 
 **An AI coding agent.** Claude Code is the primary supported tool for this
 material, and every lab is written with it in mind, including five

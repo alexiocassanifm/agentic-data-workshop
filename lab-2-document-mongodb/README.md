@@ -44,9 +44,10 @@ comparison.
   raw files as Lab 1 (CSVs, contract PDFs, support tickets, sales notes,
   usage-log JSON, onboarding emails) — not at Supabase's already-cleaned
   tables. Modeling the messiness yourself, again, is part of the point.
-- **Lab 0 completed** for MongoDB specifically: an Atlas cluster exists, your
-  connection details are configured, and your agent's MongoDB MCP connection
-  is live. If you skipped straight here, ask your agent to run the
+- **Lab 0 completed**: git, this repository, and your coding agent are
+  installed and running. This lab is where you create your MongoDB Atlas
+  cluster and connect it - see "Backend setup" below. If you already did
+  that in an earlier attempt at this lab, ask your agent to run the
   `mcp-health-check` skill first and confirm it can see your MongoDB
   connection and an empty (or previously-populated, if you are re-running
   this lab) database.
@@ -54,11 +55,99 @@ comparison.
   completed**, with its Supabase project still existing and reachable. This
   lab constantly asks "how did this compare to the relational version?" —
   but it does not depend on your agent remembering Lab 1's conversation.
-  Your agent's Supabase MCP connection (already configured in Lab 0) is
+  Your agent's Supabase MCP connection (already configured in Lab 1) is
   scoped to this project, not to any particular conversation, so whenever a
   comparison is needed it can and should inspect the live Supabase schema
   directly — whether this is a continuation of the same chat or a brand-new
   one.
+
+## Backend setup
+
+This lab needs MongoDB Atlas, which nothing earlier in the workshop set
+up. Before the guided steps below: confirm your machine has what MongoDB's
+MCP server needs, create an Atlas cluster, and connect your agent to it.
+
+### Check your machine is ready
+
+The MongoDB MCP server needs Node.js 22.13 or later. Ask your agent to
+check before connecting anything:
+
+**Prompt:**
+
+```
+Check whether Node.js 22.13 or later is installed on this machine. If it's missing, walk me through installing it for my operating system, then confirm it's ready before we continue.
+```
+
+### Create your MongoDB Atlas cluster
+
+1. Go to [mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas), sign up, and create a free (M0)
+   cluster.
+2. Under Database Access, create a database user with a username and
+   password, and give it "Read and write to any database" access - this
+   lab needs to create collections and insert documents with it. Store
+   the password safely - you'll need to paste it into the connection
+   string. If it contains characters like `@`, `:`, `/`, or `%`,
+   percent-encode them when you paste the password into the connection
+   string below, or just avoid those characters when you set it.
+3. Under Network Access, add an entry for your current IP address. For
+   a workshop laptop that might move between networks during the day,
+   allowing access from anywhere (0.0.0.0/0) is the pragmatic choice -
+   see Known pitfalls for what that trade-off costs you.
+4. Click Connect on your cluster, choose the driver connection string
+   option, and copy the `mongodb+srv://...` string. Replace the
+   password placeholder in it with your database user's actual
+   password.
+
+### Connect the MongoDB MCP server
+
+Pick the block below for the agent you're using, then reload or restart
+your agent before verifying - a newly added server doesn't show up until
+you do.
+
+**Claude Code:**
+
+**Prompt:**
+
+```
+Add an MCP server named `MongoDB`, in local scope, running the command `npx` with arguments `-y mongodb-mcp-server@latest`. Set an environment variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only ever stored as this environment variable - never pass it as a command-line argument, and never write it into any file that's part of this repository.
+```
+
+**Codex CLI:**
+
+**Prompt:**
+
+```
+Add an MCP server named `MongoDB`, running the command `npx` with arguments `-y mongodb-mcp-server@latest`. Set an environment variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only ever stored as this environment variable - never pass it as a command-line argument, and never write it into any file that's part of this repository.
+```
+
+**OpenCode:**
+
+**Prompt:**
+
+```
+Add an MCP server named `MongoDB` to my global OpenCode config, as a local server running the command `npx` with arguments `-y mongodb-mcp-server@latest`. Set an environment variable called `MDB_MCP_CONNECTION_STRING` to this value: `<YOUR MONGODB ATLAS CONNECTION STRING>`. Make sure that value is only ever stored as this environment variable - never pass it as a command-line argument, and never write it into any file that's part of this repository.
+```
+
+**Project scope instead?** Ask your agent to add the server with
+`project` scope rather than `local`/global. The entry then lives in a
+file at the repo root that's safe to commit - but the connection string
+must be referenced as `${MDB_MCP_CONNECTION_STRING}` rather than typed in
+literally, with the real value set as an environment variable outside the
+repo. Ask your agent to show you what it wrote once it's done, so you can
+confirm no literal secret ended up in the file.
+
+### Verify
+
+**Prompt:**
+
+```
+List the databases and collections you can currently see in MongoDB.
+```
+
+Right after connecting, expect to see only MongoDB's own built-in system
+databases and no collections of your own yet. Also open MongoDB Atlas
+directly: cluster status should read healthy, and Database > Collections
+should show nothing of your own.
 
 ## Guided steps
 
@@ -259,6 +348,15 @@ retrievable (a scratch note is fine) — the Bonus lab will ask you to cite it.
 
 ## Known pitfalls
 
+- **MongoDB Atlas network access is the single most common stall.**
+  Without your current IP (or 0.0.0.0/0) added under Network Access in
+  Backend setup above, the connection simply hangs or times out, with no
+  clear error at the MCP level. The trade-off with 0.0.0.0/0: it opens
+  the cluster to connections from any address, so the username and
+  password in your connection string become the only thing standing
+  between your data and the internet - fine for a throwaway workshop
+  cluster you'll tear down afterward, not something to carry over into a
+  real project.
 - **Dates stored as strings.** MongoDB won't stop you from saving
   `signup_date` as the literal text that was in `customers.csv`. Left
   unconverted, you lose range queries, correct sorting, and any date

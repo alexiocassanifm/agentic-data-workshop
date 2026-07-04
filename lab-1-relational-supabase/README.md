@@ -28,10 +28,11 @@ same README.
 
 ## Prerequisites
 
-- Lab 0 (Setup) completed: a Supabase project exists, its MCP connection
-  is configured in your agent, and your agent has already confirmed it
-  can see the (empty) project. See
-  [`../lab-0-setup/README.md`](../lab-0-setup/README.md).
+- Lab 0 (Setup) completed: git is installed, this repository is cloned,
+  and your coding agent is installed and running from inside it. See
+  [`../lab-0-setup/README.md`](../lab-0-setup/README.md). This lab is
+  where you create your Supabase project and connect it - see "Backend
+  setup" below.
 - The shared corpus, described in full in
   [`../corpus/README.md`](../corpus/README.md). This lab uses:
   - `corpus/customers-export/` — `customers.csv` (180 rows),
@@ -49,6 +50,88 @@ same README.
 - No prior Supabase or SQL knowledge is required. Everything below is
   done by describing what you want to your agent, not by writing queries
   or code by hand.
+
+## Backend setup
+
+This is the first lab that needs a live backend, so before the guided
+steps below: create a Supabase project, then connect your agent to it
+through MCP. Everything else in this workshop assumes this is done.
+
+### Create your Supabase project
+
+1. Go to [supabase.com](https://supabase.com), sign up, and create a new project: pick an
+   organization, a project name, a database password (store it safely
+   even though the MCP setup below won't need it directly), and a
+   region. Wait for provisioning to finish, a couple of minutes.
+2. Once the project is Active, find its reference ID under Project
+   Settings > General > Reference ID - you'll need it below. It's also
+   worth locating Project Settings > Database > Connection string now,
+   even though this MCP server won't need it: Lab 3's pgvector work talks
+   to Postgres directly and will want it then.
+
+### Connect the Supabase MCP server
+
+Pick the block below for the agent you're using, then reload or restart
+your agent before verifying - a newly added server doesn't show up until
+you do.
+
+**Claude Code:**
+
+**Prompt:**
+
+```
+Add an MCP server named `supabase`, in local scope, using the hosted endpoint `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`. Don't add any API key or access token - this server logs in through a browser.
+```
+
+Reload or restart Claude Code, then inside the session type `/mcp`,
+select `supabase`, and choose Authenticate. A browser window opens - log
+in to Supabase there and approve access to the organization that owns
+your project. No personal access token is needed for this flow.
+
+**Codex CLI:**
+
+**Prompt:**
+
+```
+Add an MCP server named `supabase` for the hosted endpoint `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`. Don't add any API key or bearer token - this server logs in through a browser.
+```
+
+Codex detects that this server supports OAuth and normally starts the
+login flow automatically as part of adding it, opening a browser window -
+log in there and approve access. If it doesn't prompt automatically, ask
+your agent to authenticate the `supabase` server explicitly.
+
+**OpenCode:**
+
+**Prompt:**
+
+```
+Add an MCP server named `supabase` to my global OpenCode config, as a remote server for the hosted endpoint `https://mcp.supabase.com/mcp?project_ref=<YOUR PROJECT REFERENCE>`. Don't set any headers or API key - this server logs in through a browser.
+```
+
+OpenCode detects that this server needs authentication and normally
+offers to start the OAuth flow the first time you use it. If it doesn't
+prompt automatically, ask your agent to authenticate the `supabase`
+server explicitly - a browser window opens; log in there and approve
+access.
+
+**Project scope instead?** Ask your agent to add the server with
+`project` scope rather than `local`/global - the entry then lives in a
+file at the repo root (`.mcp.json` for Claude Code, `opencode.json` for
+OpenCode) that's safe to commit and travels with the repo. Supabase's
+OAuth flow needs no literal secret either way, so there's nothing to
+scrub from that file.
+
+### Verify
+
+**Prompt:**
+
+```
+List every table in my Supabase project through the MCP connection, and tell me whether the project is empty.
+```
+
+Also open the Supabase dashboard directly: project status should read
+"Active", and Table Editor should show no tables yet.
 
 ## Guided steps
 
@@ -265,10 +348,20 @@ and why, and only then move on to building the tables.
   that matter are inside the PDF text. Confirm your agent resolves each
   contract to a customer using the ID it reads from inside the document,
   not by fuzzy-matching the filename slug against company names.
-- **Restricted write access.** If Lab 0 was set up with a read-only
-  Supabase key, table creation and inserts will fail partway through.
-  Confirm the MCP connection has permission to create tables and write
-  rows before starting the pipeline.
+- **Restricted write access.** If the Backend setup above ended up
+  connected with a read-only Supabase key, table creation and inserts
+  will fail partway through. Confirm the MCP connection has permission to
+  create tables and write rows before starting the pipeline.
+- **Supabase's recommended setup is OAuth-only - no connection string, no
+  personal access token.** Older guides describing a personal-access-token
+  flow describe a legacy method you don't need here. If what you see
+  doesn't match the Backend setup steps above, check the current docs at
+  [supabase.com/docs/guides/ai-tools/mcp](https://supabase.com/docs/guides/ai-tools/mcp).
+- **Free tiers idle out.** An inactive Supabase project can pause after
+  about a week. If you come back to redo this lab at home later and a
+  connection that used to work suddenly doesn't, check whether the
+  project needs to be resumed in its web UI before troubleshooting the
+  MCP configuration itself.
 
 ## Multi-tool notes
 
@@ -292,8 +385,9 @@ for the same outcome directly instead:
   a sample of records between the source corpus files and what's now in
   the Supabase tables. Report pass or fail with concrete numbers for
   each table, and show me a few records side by side."
-- Confirm your Supabase MCP connection was configured for whichever tool
-  you're using back in Lab 0 — Codex CLI and opencode each use their own
-  configuration file format for MCP servers, and the connection step
-  differs slightly between tools, but once it's configured every step in
-  this lab works identically regardless of which one you're driving.
+- Confirm your Supabase MCP connection was set up in "Backend setup"
+  above for whichever tool you're using — Codex CLI and opencode each use
+  their own configuration file format for MCP servers, and the connection
+  step differs slightly between tools, but once it's configured every
+  step in this lab works identically regardless of which one you're
+  driving.
